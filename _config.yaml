@@ -1,5 +1,6 @@
 kramdown:
   input: GFM
   hard_wrap: true
-remote_theme: just-the-docs/just-the-docs
-color_scheme: dark
+theme: minima
+minima:
+  skin: dark
