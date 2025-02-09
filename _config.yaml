@@ -1,5 +1,5 @@
 kramdown:
   input: GFM
   hard_wrap: true
-remote_theme: mmistakes/minimal-mistakes
-minimal_mistakes_skin: dark
+remote_theme: just-the-docs/just-the-docs
+color_scheme: dark
