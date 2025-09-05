@@ -1,7 +1,7 @@
 
 ### 🍵  The Verge - Full RSS for subscribers | The Verge
 - [Columbia tries using AI to cool off student tensions](https://www.theverge.com/ai-artificial-intelligence/770510/columbia-university-sway-ai-to-cool-off-student-tensions-israel-palestine-protests)
-[Apple iPhone 17 launch event: What to expect](https://www.theverge.com/iphone/767381/apple-iphone-17-awe-dropping-launch-what-to-expect)
+- [Apple iPhone 17 launch event: What to expect](https://www.theverge.com/iphone/767381/apple-iphone-17-awe-dropping-launch-what-to-expect)
 [Bose announces QuietComfort Ultra headphones with support for lossless audio over USB-C](https://www.theverge.com/news/772496/bose-quietcomfort-ultra-anc-wireless-headphones-second-generation-usb-c)
 [I called the MSI Claw an embarrassment, so imagine my surprise: its successor is the best Windows handheld yet](https://www.theverge.com/pc-gaming/769609/msi-claw-8-ai-plus-intel-review)
 [Your robot is about to get its own robot](https://www.theverge.com/the-vergecast/772231/ifa-robots-smart-lights-google-antitrust-vergecast)
