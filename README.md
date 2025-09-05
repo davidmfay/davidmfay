@@ -80,7 +80,3 @@
 - [Why the fearless Johnny Knoxville has been in Vancouver lately](https://dailyhive.com/vancouver/johnny-knoxville-vancouver-fear-factor)
 - [From permanently closed to closed for renovations: Here's what's happening with Milestones Coquitlam location](https://dailyhive.com/vancouver/milestones-coquitlam-2025)
 - [Morning building fire prompts closure along Commercial Drive](https://dailyhive.com/vancouver/commercial-drive-fire)
-
-### <img src="https://www.google.com/s2/favicons?sz=32&domain=scoutmagazine.ca" width="32" height="32" />  Scout Magazine
-- [Hit ‘Reset’ and Harvest Some Community Spirit, at the Renfrew Ravine Moon Festival](https://scoutmagazine.ca/hit-reset-and-harvest-some-community-spirit-at-the-renfrew-ravine-moon-festival/)
-- [The Scout List, Vol. 633](https://scoutmagazine.ca/the-scout-list-vol-633/)
