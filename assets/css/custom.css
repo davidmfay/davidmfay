@@ -23,10 +23,10 @@ html, body {
   background: var(--bg);
   color: var(--fg);
 
-  /* Fluid font size: ~18px on phones → ~20px on wide screens */
-  font-size: clamp(18px, 2.2vw + 0.5rem, 20px) !important;
+  /* Fluid font size: ~16px on phones → ~20px on wide screens */
+  font-size: clamp(16px, 1.6vw + 0.5rem, 19px) !important;
 
-  line-height: 1.7 !important;
+  line-height: 1.6 !important;
   font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji","Segoe UI Emoji";
   text-rendering: optimizeLegibility;
 
@@ -79,12 +79,14 @@ h2, h3 {
 
 /* Lists */
 ul {
-  margin: 0.6rem 0 1.35rem 1.25rem !important;
-  padding-left: 1.25rem !important;
+  margin: 0.4rem 0 1rem 1.25rem !important; /* tighten top/bottom */
+  padding-left: 1.1rem !important;          /* slightly less indent */
 }
+
 li {
-  margin: 0.5rem 0 !important;
+  margin: 0.3rem 0 !important;              /* tighter vertical gap */
 }
+
 li > p {
   margin: 0 !important;
 }
