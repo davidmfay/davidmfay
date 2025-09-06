@@ -23,15 +23,17 @@ html, body {
   background: var(--bg);
   color: var(--fg);
 
-  /* Fluid font size: 17px on phones → 19px on wide screens */
-  font-size: clamp(17px, 1.5vw + 0.5rem, 19px);
+  /* Fluid font size: ~18px on phones → ~20px on wide screens */
+  font-size: clamp(18px, 2.2vw + 0.5rem, 20px) !important;
 
-  line-height: 1.65;
+  line-height: 1.7 !important;
   font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji","Segoe UI Emoji";
   text-rendering: optimizeLegibility;
 
   margin: 0;
   padding: 0;
+
+  -webkit-text-size-adjust: 100%; /* stop Safari from shrinking text */
 }
 
 .page-content .wrapper {
@@ -40,101 +42,79 @@ html, body {
   margin: 0 auto;
 }
 
-/* Remove Minima’s header/footer for a cleaner look */
+/* Hide Minima’s header/footer (optional) */
 .site-header, .site-footer {
   display: none;
 }
 
 /* Headings */
 h1, h2, h3 {
-  line-height: 1.25;
-  margin-top: 2rem;
-  margin-bottom: 0.75rem;
-  font-weight: 700;
+  line-height: 1.25 !important;
+  margin-top: 2rem !important;
+  margin-bottom: 0.75rem !important;
+  font-weight: 700 !important;
 }
 
 h1 {
-  /* 26px on phones → 34px on desktop */
-  font-size: clamp(26px, 3vw + 1rem, 34px);
-  font-weight: 800;
+  /* ~28px on phones → 36px on desktop */
+  font-size: clamp(28px, 4.2vw + 1rem, 36px) !important;
+  font-weight: 800 !important;
 }
 
 h2 {
-  /* 20px on phones → 24px on desktop */
-  font-size: clamp(20px, 2vw + 0.5rem, 24px);
+  /* ~22px on phones → 26px on desktop */
+  font-size: clamp(22px, 3vw + 0.5rem, 26px) !important;
 }
 
 h3 {
-  /* 18px on phones → 20px on desktop */
-  font-size: clamp(18px, 1.5vw + 0.25rem, 20px);
+  /* ~19px on phones → 21px on desktop */
+  font-size: clamp(19px, 2.2vw + 0.25rem, 21px) !important;
 }
 
-/* Optional subtle divider under h2/h3 */
+/* Subtle dividers under h2/h3 */
 h2, h3 {
-  border-bottom: 1px solid var(--border);
-  padding-bottom: 0.4rem;
+  border-bottom: 1px solid var(--border) !important;
+  padding-bottom: 0.4rem !important;
 }
 
 /* Lists */
 ul {
-  margin: 0.5rem 0 1.25rem 1.25rem;
-  padding-left: 1.25rem;
+  margin: 0.6rem 0 1.35rem 1.25rem !important;
+  padding-left: 1.25rem !important;
 }
 li {
-  margin: 0.4rem 0;
+  margin: 0.5rem 0 !important;
 }
 li > p {
-  margin: 0; /* avoid double spacing if Markdown wraps in <p> */
+  margin: 0 !important;
 }
 
 /* Links */
 a {
-  color: var(--link);
-  text-decoration: underline;
-  text-decoration-thickness: 1.5px;
-  text-underline-offset: 3px;
+  color: var(--link) !important;
+  text-decoration: underline !important;
+  text-decoration-thickness: 1.5px !important;
+  text-underline-offset: 3px !important;
 }
 a:hover {
-  filter: brightness(1.08);
+  filter: brightness(1.08) !important;
 }
 
 /* Horizontal rules */
 hr {
-  border: 0;
-  border-top: 1px solid var(--border);
-  margin: 2rem 0;
+  border: 0 !important;
+  border-top: 1px solid var(--border) !important;
+  margin: 2rem 0 !important;
 }
 
 /* Muted text */
 .muted {
-  color: var(--muted);
+  color: var(--muted) !important;
 }
 
 /* Images */
 img {
-  max-width: 100%;
-  height: auto;
-  border-radius: 10px;
-}
-
-/* --- Mobile readability boost --- */
-html, body {
-  /* 18px on phones → up to 20px on large screens */
-  font-size: clamp(18px, 2.2vw + 0.5rem, 20px);
-  line-height: 1.7;
-  -webkit-text-size-adjust: 100%; /* stop iOS from auto-shrinking text */
-}
-
-/* Headings scale up a bit more on mobile */
-h1 { font-size: clamp(28px, 4.2vw + 1rem, 36px); }
-h2 { font-size: clamp(22px, 3vw + 0.5rem, 26px); }
-h3 { font-size: clamp(19px, 2.2vw + 0.25rem, 21px); }
-
-/* Lists: a little more breathing room for tap targets */
-ul { margin: 0.6rem 0 1.35rem 1.25rem; }
-li { margin: 0.5rem 0; }
-
-/* Optional: tighten wrapper on very small screens so lines don’t feel long */
-@media (max-width: 380px) {
-  .page-content .wrapper { padding: 2rem 1rem; }
+  max-width: 100% !important;
+  height: auto !important;
+  border-radius: 10px !important;
 }
