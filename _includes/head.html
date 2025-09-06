@@ -1,3 +1,6 @@
-<!-- bump ?v= number to force browsers to reload latest CSS -->
-<link rel="stylesheet" href="{{ '/assets/css/custom.css?v=' | append: site.time | relative_url }}">
+{%- seo -%}
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 
+<!-- Bump ?v= automatically so CSS isn't cached -->
+<link rel="stylesheet" href="{{ '/assets/css/custom.css?v=' | append: site.time | relative_url }}">
