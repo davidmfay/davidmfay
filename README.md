@@ -1,74 +1,65 @@
 
-### 🍵  The Verge - Full RSS for subscribers | The Verge
-- [The Polestar 5 is an 884hp fastback sedan that should make Porsche nervous](https://www.theverge.com/electric-cars/773730/polestar-5-ev-horsepower-range-speed-specs)
-- [Nova Launcher’s founder and sole developer has left](https://www.theverge.com/news/773937/nova-launcher-founder-left-kevin-barry-branch-open-source-android)
-- [Google admits the open web is in ‘rapid decline’](https://www.theverge.com/news/773928/google-open-web-rapid-decline)
-- [Meta curbed research about VR safety risks to kids, whistleblowers say](https://www.theverge.com/policy/773821/meta-virtual-reality-horizon-worlds-youth-safety-research-whistleblower)
-- [College Football 26 is $20 off in time for the 2025 season](https://www.theverge.com/tech/773698/college-football-26-ea-sports-ps5-xbox-deal-sale)
-- [EchoStar offloads satellite spectrum to SpaceX for $17 billion](https://www.theverge.com/news/773645/echostar-dish-spacex-starlink-direct-to-cell-fcc-investigation)
-- [Arco is stunning sci-fi with shades of Moebius and Miyazaki](https://www.theverge.com/toronto-international-film-festival/773517/tiff-2025-reviews-arco-good-fortune-sacrifice)
-- [Sal Khan is hopeful that AI won’t destroy education](https://www.theverge.com/decoder-podcast-with-nilay-patel/766082/khan-academy-ceo-sal-khan-ai-education-schoolhouse-hank-green-interview)
-
 ### <img src="https://www.google.com/s2/favicons?sz=32&domain=www.theverge.com" width="32" height="32" />  Quick Posts | The Verge
-- [Canon&#8217;s new $3,899 EOS C50 is its smallest and lightest cinema camera.](https://www.theverge.com/news/774055/canons-new-3899-eos-c50-is-its-smallest-and-lightest-cinema-camera)
-- [Silksong&#8217;s first patch is tweaking difficulty for some early bosses.](https://www.theverge.com/games/774277/silksongs-first-patch-boss-difficulty)
-- [A peek at every iPhone 17.](https://www.theverge.com/news/774266/a-peek-at-every-iphone-17)
-- [Google&#8217;s courtroom confession.](https://www.theverge.com/news/774242/googles-courtroom-confession)
-- [First thin, then wide.](https://www.theverge.com/samsung/774247/first-thin-then-wide)
-- [Microsoft fires another employee over Palestine protests.](https://www.theverge.com/news/774229/microsoft-fires-another-employee-over-palestine-protests)
-- [Intel&#8217;s top female leader, products chief, and former interim co-CEO is out.](https://www.theverge.com/news/774149/intels-top-female-leader-products-chief-and-former-interim-co-ceo-is-out)
-- [Pokémon Go&#8217;s creator is teaming up with satellite companies to make a digital twin of the Earth.](https://www.theverge.com/news/774086/project-orbion-niantic-aechelon-iceye-blacksky-distance)
-- [Bluesky adds bookmarks.](https://www.theverge.com/news/773990/bluesky-adds-bookmarks)
-- [The Chair Company opens for business next month.](https://www.theverge.com/tv/773986/hbo-the-chair-company-release-date)
-
-### <img src="https://www.google.com/s2/favicons?sz=32&domain=www.interconnects.ai" width="32" height="32" />  Interconnects
-- [On China's open source AI trajectory](https://www.interconnects.ai/p/on-chinas-open-source-ai-trajectory)
+- [Mega Malamar is (not) your friend.](https://www.theverge.com/pokemon/775547/pokemon-legends-za-mega-malamar)
+- [iOS 26 can color match your icons to your iPhone case.](https://www.theverge.com/news/775542/ios-26-color-match-iphone-home-screen-icons-magsafe-case)
+- [Kobo now offers its Clara Colour e-reader in white with a bigger battery.](https://www.theverge.com/news/775526/kobo-clara-colour-e-reader-white-color-larger-battery)
+- [Fall into another Nintendo Direct.](https://www.theverge.com/news/775528/fall-into-another-nintendo-direct)
+- [Mixed messaging.](https://www.theverge.com/news/775493/mixed-messaging)
+- [Lanyard kickstand.](https://www.theverge.com/news/775428/lanyard-kickstand)
+- [Here&#8217;s why Ford wiped its Instagram accounts.](https://www.theverge.com/ford-motor-company/775345/heres-why-ford-wiped-its-instagram-accounts)
+- [OMG it&#8217;s so orange.](https://www.theverge.com/iphone/775397/omg-its-so-orange)
+- [Our hands-on video with all the new Apple Watches is here.](https://www.theverge.com/apple-event/775377/our-hands-on-video-with-all-the-new-apple-watches-is-here)
+- [Steam is getting an accessibility settings menu as part of a new client update.](https://www.theverge.com/news/775341/steam-is-getting-an-accessibility-settings-menu-as-part-of-a-new-client-update)
 
 ### <img src="https://www.google.com/s2/favicons?sz=32&domain=stratechery.com" width="32" height="32" />  Stratechery by Ben Thompson
-- [SpaceX Buys Spectrum, Spectrum Specifics, SpaceX’s Big Bet](https://stratechery.com/2025/spacex-buys-spectrum-spectrum-specifics-spacexs-big-bet/)
+- [iPhones 17 and the Sugar Water Trap](https://stratechery.com/2025/iphones-17-and-the-sugar-water-trap/)
+
+### <img src="https://www.google.com/s2/favicons?sz=32&domain=www.derekthompson.org" width="32" height="32" />  Derek Thompson
+- [Trump’s Formula to Conquer the Economy, the Colleges, and Everything Else](https://www.derekthompson.org/p/trumps-formula-to-conquer-the-economy)
 
 ### <img src="https://www.google.com/s2/favicons?sz=32&domain=simonwillison.net" width="32" height="32" />  Simon Willison's Weblog
-- [The 2025 PSF Board Election is Open!](https://simonwillison.net/2025/Sep/9/psf-board-election/#atom-everything)
-- [Geoffrey Huntley is cursed](https://simonwillison.net/2025/Sep/9/cursed/#atom-everything)
-- [Recreating the Apollo AI adoption rate chart with GPT-5, Python and Pyodide](https://simonwillison.net/2025/Sep/9/apollo-ai-adoption/#atom-everything)
-- [Anthropic status: Model output quality](https://simonwillison.net/2025/Sep/9/anthropic-model-output-quality/#atom-everything)
-- [Quoting TheSoftwareGuy](https://simonwillison.net/2025/Sep/8/thesoftwareguy/#atom-everything)
-- [Load Llama-3.2 WebGPU in your browser from a local folder](https://simonwillison.net/2025/Sep/8/webgpu-local-folder/#atom-everything)
-- [Quoting James Luan](https://simonwillison.net/2025/Sep/8/james-luan/#atom-everything)
+- [I Replaced Animal Crossing's Dialogue with a Live LLM by Hacking GameCube Memory](https://simonwillison.net/2025/Sep/10/animal-crossing-llm/#atom-everything)
+- [Quoting Apple Security Engineering and Architecture](https://simonwillison.net/2025/Sep/9/memory-integrity-enforcement/#atom-everything)
+- [My review of Claude's new Code Interpreter, released under a very confusing name](https://simonwillison.net/2025/Sep/9/claude-code-interpreter/#atom-everything)
 
-### <img src="https://www.google.com/s2/favicons?sz=32&domain=www.notboring.co" width="32" height="32" />  Not Boring by Packy McCormick
-- [Ramp at $1 Billion](https://www.notboring.co/p/ramp-at-1-billion)
+### <img src="https://www.google.com/s2/favicons?sz=32&domain=www.slackstory.com" width="32" height="32" />  A Slack Story
+- [Eee Mee Yah and Slack's International HQ](https://www.slackstory.com/p/eee-mee-yah-and-slacks-international)
+
+### <img src="https://www.google.com/s2/favicons?sz=32&domain=unchartedterritories.tomaspueyo.com" width="32" height="32" />  Uncharted Territories
+- [China vs US: Which Geography Is Best?](https://unchartedterritories.tomaspueyo.com/p/china-vs-us-which-geography-is-best)
 
 ### <img src="https://www.google.com/s2/favicons?sz=32&domain=www.platformer.news" width="32" height="32" />  Platformer
-- [Google makes a gaffe](https://www.platformer.news/google-open-web-decline-atlassian-browser-company/)
+- [AI as Normal Technology, revisited](https://www.platformer.news/ai-normal-technology-timelines-education/)
 
 ### <img src="https://www.google.com/s2/favicons?sz=32&domain=spyglass.org" width="32" height="32" />  Spyglass
-- [OpenAI Needs to Build Google Cloud Before Google Can Build ChatGPT...](https://spyglass.org/openai-spend-cloud-chips/)
-- [Signal: iPhone Unveil Week 📧](https://spyglass.org/signal-iphone-unveil-week/)
+- [Signal: Apple Event Hidden Gems (and Coal) 📧](https://spyglass.org/signal-apple-event-hidden-gems-and-coal/)
+- [Apple's 'Plateau' Event](https://spyglass.org/apple-iphone-17-event/)
+- [Sony's 'KPop' Gift](https://spyglass.org/sony-kpop-movie-deal/)
+- [Signal: iPhone RAM 📧](https://spyglass.org/signal-iphone-ram/)
 
 ### <img src="https://www.google.com/s2/favicons?sz=32&domain=www.rogerebert.com" width="32" height="32" />  Reviews – Roger Ebert
-- [Eleanor the Great](https://www.rogerebert.com/reviews/eleanor-the-great-movie-review)
-- [Nouvelle Vague](https://www.rogerebert.com/reviews/nouvelle-vague-tiff-richard-linklater-french-new-wave-movie-review-2025)
+- [Men of War](https://www.rogerebert.com/reviews/men-of-war-documentary-film-review-2025)
+- [The Ugly](https://www.rogerebert.com/reviews/the-ugly-movie-review-2025)
+- [The Smashing Machine](https://www.rogerebert.com/reviews/the-smashing-machine-tiff-dwayne-johnson-film-review-2025)
 
 ### <img src="https://www.google.com/s2/favicons?sz=32&domain=dailyhive.com" width="32" height="32" />  Daily Hive
-- [Feds catch grocers labelling imported items as Canadian amid trade war](https://dailyhive.com/vancouver/canada-grocers-mislabelling-tariffs)
-- [Opinion: Vancouver's new City Manager faces a defining test for the city’s future](https://dailyhive.com/vancouver/vancouver-city-manager-donny-van-dyk-appointment)
-- [Nearly 2,000 homes in four towers proposed for Renfrew SkyTrain station in East Vancouver](https://dailyhive.com/vancouver/2808-2888-east-broadway-2813-2881-east-10th-avenue-2528-2580-kaslo-street-vancouver-renfrew-sightline-properties)
-- [Vancouver will soon host a gourmet wedding escape room dinner](https://dailyhive.com/vancouver/wedding-party-dinner-theatre-escape-room)
-- [City claims Vancouver has hit a 23-year low in violent crime](https://dailyhive.com/vancouver/vancouver-violent-crime-low)
-- [An iPhone 17 Air?! What you can expect from Apple's big September event](https://dailyhive.com/vancouver/iphone-17-air-apple-september-event-expect)
-- ['Palace in heaven': Vancouver home sold for $5M above the assessed value](https://dailyhive.com/vancouver/vancouver-home-mansion-fairlyand-palace-820-eyremount-dr)
-- [The end of the road is coming for this legacy B.C. traffic reporting platform](https://dailyhive.com/vancouver/drivebc-reporting-legacy-platform-shutting-down)
-- [Mobi bike share to get a new green look for its e-bike fleet](https://dailyhive.com/vancouver/mobi-e-bike-share-green-simplii-financial)
-- [Vancouver landlord's 'extenuating circumstances' lead to Supreme Court tenant eviction battle](https://dailyhive.com/vancouver/bc-supreme-court-vancouver-landlord-tenant-eviction)
-- [Canada just got a festive, glow-in-the-dark coin way ahead of Christmas](https://dailyhive.com/vancouver/christmas-canada-coin)
-- [Legendary Vancouver sportscaster Don Taylor will be on TV less going forward](https://dailyhive.com/vancouver/don-taylor-on-tv-less-going-forward)
-- [Series based on 'God of War' game to reportedly be filmed in Vancouver](https://dailyhive.com/vancouver/vancouver-filming-video-game-series-god-of-war)
-- [Huge art auction returns to Vancouver with free public exhibition this month](https://dailyhive.com/vancouver/arts-umbrella-splash-art-auction-vancouver)
-- [How Canadians can get a free city tour if they have a layover in Hong Kong](https://dailyhive.com/vancouver/hong-kong-free-tour-layover-canadians)
-- [Average rent in Vancouver has undergone a drastic shift since 2023](https://dailyhive.com/vancouver/rent-vancouver-aug-2025-rentals-report)
+- [Tim Hortons is dropping a new Thanksgiving sandwich across Canada](https://dailyhive.com/vancouver/tim-hortons-thanksgiving-stack-canada)
+- [Public atrium included in new design of 105 Keefer in Vancouver Chinatown](https://dailyhive.com/vancouver/105-keefer-street-570-columbia-street-vancouver-chinatown-beedie-james-cheng-architects)
+- [Park Board commissioner proposes reinstating a major segment of Stanley Park Drive's bike lane](https://dailyhive.com/vancouver/stanley-park-drive-bike-lane-segment-proposal-tom-digby)
+- [Did PWHL Vancouver's jerseys just leak?](https://dailyhive.com/vancouver/did-pwhl-vancouver-jerseys-just-leak)
+- [Vancouver Park Board mobility study ponders new multi-level parkades in Stanley Park](https://dailyhive.com/vancouver/stanley-park-multi-level-parkades)
+- [Vancouver's highly anticipated Japanese snack bar is opening soon — here's what to know before you go](https://dailyhive.com/vancouver/nomo-nomo-vancouver)
+- [Canadian men’s soccer team makes history with another win in Europe](https://dailyhive.com/vancouver/canadian-mens-soccer-history-win-europe)
+- [Some Vancouverites ain't happy about the Harry Potter event but not why you think](https://dailyhive.com/vancouver/harry-potter-vancouver-event-prices)
+- [Canada's first Pokémon city-wide celebration coming to Vancouver this month](https://dailyhive.com/vancouver/pokemon-go-city-safari-vancouver)
+- [Buffalo Bills won't rule out playing more NFL games in Canada](https://dailyhive.com/vancouver/buffalo-bills-wont-rule-out-nfl-games-canada)
+- [Vancouver Whitecaps expecting third straight big BC Place crowd to see Thomas Müller](https://dailyhive.com/vancouver/vancouver-whitecaps-big-crowd-bc-place-thomas-muller)
+- [New looping TransLink bus route on Stanley Park Drive could launch in 2027](https://dailyhive.com/vancouver/translink-stanley-park-drive-bus-route-vancouver-park-board-proposal)
+- [Suspect asked for liquor store directions in Metro Vancouver boom lift theft](https://dailyhive.com/vancouver/delta-police-boom-lift-theft)
+- [Celebrity chef's Metro Vancouver restaurant has been selling out daily, and here's why](https://dailyhive.com/vancouver/korea-noodle-house-burnaby)
+- [Metro Vancouver Korean restaurant closing after seven years, hints something new is coming](https://dailyhive.com/vancouver/cherry-food-house-richmond)
+- ['Scrubs' cast reuniting to film show's revival in Canadian city](https://dailyhive.com/vancouver/scrubs-revival-filming-location-canada)
 
 ### <img src="https://www.google.com/s2/favicons?sz=32&domain=scoutmagazine.ca" width="32" height="32" />  Scout Magazine
-- [Upstart & Crow is Hosting an Evening of ‘Lit & Libations’ on Sept. 19th](https://scoutmagazine.ca/upstart-crow-is-hosting-an-evening-of-lit-libations-on-sept-19th/)
-- [Slo Coffee Opening New Location at Pacific Centre in Downtown Vancouver](https://scoutmagazine.ca/slo-coffee-opening-new-location-at-pacific-centre-in-downtown-vancouver/)
-- [Announcing the New Head Chef of Pepino’s and La Tana,](https://scoutmagazine.ca/announcing-the-new-head-chef-of-pepinos-and-la-tana/)
+- [Sip Your Way Around the World with The Chickadee Room’s ‘Negroni Passport’, Sept. 22-28](https://scoutmagazine.ca/sip-your-way-around-the-world-with-the-chickadee-rooms-negroni-passport-sept-22-28/)
+- [Cadeaux Bakery is Hiring a Barista/Counter Person](https://scoutmagazine.ca/cadeaux-bakery-is-hiring-a-barista-counter-person/)
