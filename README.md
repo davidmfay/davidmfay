@@ -1,105 +1,67 @@
 
 ### 🍵  The Verge - Full RSS for subscribers | The Verge
-- [Metroid Prime 4 goes beyond, launching this December](https://www.theverge.com/news/777056/metroid-prime-4-release-date-nintend-direct-september-2025)
-- [Virtual Boy games are coming to Nintendo Switch Online](https://www.theverge.com/nintendo/777032/nintendo-switch-virtual-boy-games)
-- [Ultraloq adds Android tap-to-unlock to its Apple Home Key smart lock](https://www.theverge.com/news/777055/ultraloq-adds-android-tap-to-unlock-to-its-apple-home-key-smart-lock)
-- [Mario’s going to space in The Super Mario Galaxy Movie trailer](https://www.theverge.com/news/777071/super-mario-bros-movie-sequel-nintendo-direct-september-2025)
-- [Mastodon is bringing quote posts to the fediverse](https://www.theverge.com/news/777067/mastodon-quote-posts-fediverse-launch)
-- [A new Astro Bot-themed PS5 controller is now available for preorder](https://www.theverge.com/tech/773522/astro-bot-joyful-dualsense-wireless-controller-preorder-price-release-date-ps5)
-- [iPhone Air launch delayed in China over eSIM issues](https://www.theverge.com/news/777023/iphone-air-launch-delayed-china-esim-issues)
-- [Apple’s 2025 iPhone lineup is now available to preorder](https://www.theverge.com/tech/772748/iphone-17-pro-air-preorder-price-how-to-buy-release-date)
-- [Sony’s new Xperia phone jumps on the camera bar bandwagon](https://www.theverge.com/news/777002/sony-xperia-10-vii-phone-design-specs-price)
-- [Prongs rock](https://www.theverge.com/hands-on/776797/xbox-ally-x-prongs-comfort-editorial)
-- [Microsoft avoids EU fine after Slack complained about Teams bundling](https://www.theverge.com/news/776968/microsoft-teams-eu-commitments-avoid-fine)
-- [Asus gives its $4,000 creator laptop a 4K tandem OLED and RTX 5090](https://www.theverge.com/news/776667/asus-proart-p16-laptop-creators-nvidia-rtx-5090-4k-price-specs)
-- [Apple Watch hypertension alerts cleared by FDA for new and old watches](https://www.theverge.com/news/776942/apple-watch-hypertension-feature-cleared-by-fda)
-- [Microsoft and OpenAI have a new deal that could clear the way for an IPO](https://www.theverge.com/news/776884/openai-microsoft-mou)
-- [Microsoft is making ‘significant investments’ in training its own AI models](https://www.theverge.com/report/776853/microsoft-ai-training-capacity-investments-in-house-models)
-- [Republicans pledge censorship crackdown to avenge Charlie Kirk’s death](https://www.theverge.com/policy/776840/charlie-kirk-death-social-media-jawboning)
-- [Anthropic’s Claude AI can now automatically ‘remember’ past chats](https://www.theverge.com/news/776827/anthropic-claude-ai-memory-upgrade-team-enterprise)
-- [Internet detectives are misusing AI to find Charlie Kirk’s alleged shooter](https://www.theverge.com/news/776793/charlie-kirk-fbi-person-of-interest-photos-shooter)
-- [Aligning those who align AI, one satirical website at a time](https://www.theverge.com/ai-artificial-intelligence/776752/center-for-the-alignment-of-ai-alignment-centers)
-- [Sony’s InZone Buds are great for gaming, and right now they’re cheaper than ever](https://www.theverge.com/tech/776630/sony-inzone-buds-samsung-music-frame-deal-sale)
+- [Exit 8’s director was inspired by watching people play the game](https://www.theverge.com/interview/777509/exit-8-director-interview)
+- [Tucker Carlson asks Sam Altman if an OpenAI employee was murdered ‘on your orders’](https://www.theverge.com/news/777666/tucker-carlson-altman-openai-interview)
+- [Elon Musk is trying to silence Microsoft employees who criticize Charlie Kirk](https://www.theverge.com/news/777664/elon-musk-charlie-kirk-satya-nadella-fire)
+- [The WSJ carelessly spread anti-trans misinformation](https://www.theverge.com/politics/777630/wsj-trans-misinformation-charlie-kirk)
+- [Congress Republicans want to target liberal donors after Charlie Kirk’s death](https://www.theverge.com/policy/777615/republicans-radical-left-select-committee)
+- [Discord is distancing itself from the Charlie Kirk shooting suspect](https://www.theverge.com/news/777614/discord-charlie-kirk-shooting-tyler-robinson)
+- [Stellantis cancels Ram 1500 REV as electric truck demand dims](https://www.theverge.com/news/777574/stellantis-cancels-ram-1500-ev-ramcharger)
+- [GameHub fixed its Silksong save game uploads and now I’m playing across phone and PC](https://www.theverge.com/pc-gaming/777551/gamehub-fixed-its-silksong-save-game-uploads-and-now-im-playing-across-phone-and-pc)
+- [Encyclopedia Britannica and Merriam-Webster sue Perplexity for copying their definitions](https://www.theverge.com/news/777344/perplexity-lawsuit-encyclopedia-britannica-merriam-webster)
+- [Charlie Kirk’s alleged killer scratched bullets with a Helldivers combo and a furry sex meme](https://www.theverge.com/politics/777313/charlie-kirks-alleged-killer-scratched-bullets-with-a-helldivers-combo-and-a-furry-sex-meme)
+- [The Galaxy Watch 8 Classic is $140 off, nearly the same price as the standard model](https://www.theverge.com/tech/777246/samsung-galaxy-watch-8-classic-anker-soundcore-select-4-go-deal-sale)
+- [The Powerbeats Pro 2 are getting heart rate monitoring updates with iOS 26](https://www.theverge.com/news/777289/apple-beats-powerbeats-pro-2-heart-rate-monitoring-ios-26)
+- [Fight for glory in Fire Emblem: Fortune’s Weave coming to the Switch 2 next year](https://www.theverge.com/news/777187/fire-emblem-fortunes-weave-annoucement-trailer)
+- [Pokémon Legends: Z-A’s first DLC will take you to the Mega Dimension](https://www.theverge.com/pokemon/777169/pokemon-legends-za-mega-dimension-dlc-nmega-raichu)
+- [The next Pokémon looks a bit like Minecraft](https://www.theverge.com/news/777159/pokemon-pokopia-nintendo-switch-2)
+- [Bring death to Chronos in Hades 2 this September](https://www.theverge.com/news/777117/hades-2-release-date-september-nintendo-switch)
+- [Our hottest takes on AI’s wild summer](https://www.theverge.com/the-vergecast/777145/ai-friends-openai-claude-takes-vergecast)
 
 ### <img src="https://www.google.com/s2/favicons?sz=32&domain=www.theverge.com" width="32" height="32" />  Quick Posts | The Verge
-- [Head back to Hyrule later this year.](https://www.theverge.com/nintendo/777135/head-back-to-hyrule-later-this-year)
-- [Spring is shaping up to be pretty busy (and weird).](https://www.theverge.com/nintendo/777122/spring-is-shaping-up-to-be-pretty-busy-and-weird)
-- [A Cloud appears.](https://www.theverge.com/nintendo/777108/a-cloud-appears)
-- [What even is this thing?](https://www.theverge.com/games/777097/what-even-is-this-thing)
-- [Wonder some more.](https://www.theverge.com/nintendo/777101/wonder-some-more)
-- [So can Yoshi read?](https://www.theverge.com/nintendo/777095/so-can-yoshi-read)
-- [Things are heating up.](https://www.theverge.com/nintendo/777084/things-are-heating-up)
-- [A whole new galaxy.](https://www.theverge.com/nintendo/777052/a-whole-new-galaxy)
-- [The Nintendo Today app has added special features unlocked by inaudible sounds.](https://www.theverge.com/news/777038/nintendo-today-app-update-live-tokyo-event-inaudlble-sound)
-- [Switch, too.](https://www.theverge.com/nintendo/777035/switch-too)
-
-### 🍵  The Verge - Optimizer for subscribers | The Verge
-- [It’s time for Meta to add a display to its smart glasses](https://www.theverge.com/optimizer-newsletter/776772/optimizer-newsletter-meta-connect-ray-ban-oakley-smart-glasses)
-
-### 🍵  The Verge - Notepad for subscribers | The Verge
-- [Xbox Cloud is getting a much-needed upgrade](https://www.theverge.com/notepad-microsoft-newsletter/776320/microsoft-xbox-cloud-gaming-limitations-strategy-notepad)
-
-### <img src="https://www.google.com/s2/favicons?sz=32&domain=www.oneusefulthing.org" width="32" height="32" />  One Useful Thing
-- [On Working with Wizards](https://www.oneusefulthing.org/p/on-working-with-wizards)
-
-### <img src="https://www.google.com/s2/favicons?sz=32&domain=www.interconnects.ai" width="32" height="32" />  Interconnects
-- [Latest open artifacts (#14): NVIDIA's rise, "Swiss & UAE DeepSeek," and a resurgence of open data ](https://www.interconnects.ai/p/latest-open-artifacts-14-nvidias)
-
-### <img src="https://www.google.com/s2/favicons?sz=32&domain=stratechery.com" width="32" height="32" />  Stratechery by Ben Thompson
-- [2025.37: Apple on the Periphery](https://stratechery.com/2025/apple-on-the-periphery/)
-
-### <img src="https://www.google.com/s2/favicons?sz=32&domain=www.derekthompson.org" width="32" height="32" />  Derek Thompson
-- [The Age of Diagnosis: How the Over-Medicalization Of Everything Makes Us Sick, Anxious, and Lost](https://www.derekthompson.org/p/the-age-of-diagnosis-how-the-over)
+- [Roblox says it will remove posts re-enacting Charlie Kirk&#8217;s killing.](https://www.theverge.com/policy/777628/roblox-says-it-will-remove-posts-re-enacting-charlie-kirks-killing)
+- [Roblox is facing a new wrongful death lawsuit.](https://www.theverge.com/policy/777626/roblox-is-facing-a-new-wrongful-death-lawsuit)
+- [Nothing to see here.](https://www.theverge.com/climate-change/777608/nothing-to-see-here)
+- [If you can&#8217;t clear your Slack unread count, try refreshing.](https://www.theverge.com/news/777502/if-you-cant-clear-your-slack-unread-count-try-refreshing)
+- [Cloud&#8217;s everywhere.](https://www.theverge.com/news/777468/clouds-everywhere)
+- [Tencent reportedly hired a top OpenAI researcher.](https://www.theverge.com/openai/777449/tencent-reportedly-hired-a-top-openai-researcher)
+- [The big Balatro 1.1 update will now be &#8220;done when it’s done.&#8221;](https://www.theverge.com/news/777291/the-big-balatro-1-1-update-will-now-be-done-when-its-done)
+- [Spotify&#8217;s editors will deliver weekly recommendations in a new video series.](https://www.theverge.com/news/777172/spotifys-editors-will-deliver-weekly-recommendations-in-a-new-video-series)
+- [Go even more bananas.](https://www.theverge.com/nintendo/777219/go-even-more-bananas)
+- [The Switch 2 gets a little evil.](https://www.theverge.com/nintendo/777140/the-switch-2-gets-a-little-evil)
 
 ### <img src="https://www.google.com/s2/favicons?sz=32&domain=simonwillison.net" width="32" height="32" />  Simon Willison's Weblog
-- [London Transport Museum Depot Open Days](https://simonwillison.net/2025/Sep/12/transport-museum-depot/#atom-everything)
-- [Comparing the memory implementations of Claude and ChatGPT](https://simonwillison.net/2025/Sep/12/claude-memory/#atom-everything)
-- [Qwen3-Next-80B-A3B: 🐧🦩 Who needs legs?!](https://simonwillison.net/2025/Sep/12/qwen3-next/#atom-everything)
+- [gpt-5 and gpt-5-mini rate limit updates](https://simonwillison.net/2025/Sep/12/gpt-5-rate-limits/#atom-everything)
+- [Quoting Matt Webb](https://simonwillison.net/2025/Sep/12/matt-webb/#atom-everything)
 
-### <img src="https://www.google.com/s2/favicons?sz=32&domain=www.notboring.co" width="32" height="32" />  Not Boring by Packy McCormick
-- [Weekly Dose of Optimism #161](https://www.notboring.co/p/weekly-dose-of-optimism-161)
+### <img src="https://www.google.com/s2/favicons?sz=32&domain=www.profgalloway.com" width="32" height="32" />  No Mercy / No Malice
+- [Own Goal](https://www.profgalloway.com/own-goal/)
 
-### <img src="https://www.google.com/s2/favicons?sz=32&domain=www.platformer.news" width="32" height="32" />  Platformer
-- [Are Republicans changing their minds about AI safety?](https://www.platformer.news/ftc-chatbots-child-safety/)
+### <img src="https://www.google.com/s2/favicons?sz=32&domain=unchartedterritories.tomaspueyo.com" width="32" height="32" />  Uncharted Territories
+- [Why the US South Is Poorer than the North, and Why This Is Now Changing](https://unchartedterritories.tomaspueyo.com/p/why-the-us-south-is-poorer-vs-north)
 
 ### <img src="https://www.google.com/s2/favicons?sz=32&domain=spyglass.org" width="32" height="32" />  Spyglass
-- [OpenAI & Microsoft Agree to Agree, Tentatively](https://spyglass.org/openai-microsoft-agree-to-agree-tentatively/)
-- [Paramount Skydance's Blockbuster Bid for Warner Bros Discovery](https://spyglass.org/paramount-skydances-blockbuster-bid-for-warner-bros-discovery/)
+- [Signal: OpenAI's PBC Race Is On 📧](https://spyglass.org/signal-openais-pbc-race-is-on/)
 
 ### <img src="https://www.google.com/s2/favicons?sz=32&domain=www.rogerebert.com" width="32" height="32" />  Reviews – Roger Ebert
-- [Adulthood](https://www.rogerebert.com/reviews/adulthood-movie-review-2025)
-- [Clemente](https://www.rogerebert.com/reviews/clemente-baseball-documentary-film-review-2025)
-- [Happyend](https://www.rogerebert.com/reviews/happyend-film-review-2025)
-- [Rabbit Trap](https://www.rogerebert.com/reviews/rabbit-trap-dev-patel-film-review-2025)
-- [The History of Sound](https://www.rogerebert.com/reviews/the-history-of-sound-josh-oconnor-paul-mescal-film-review-2025)
-- [Sunfish (& Other Stories on Green Lake)](https://www.rogerebert.com/reviews/sunfish-other-stories-on-green-lake-movie-review-2025)
-- [Bang Bang](https://www.rogerebert.com/reviews/bang-bang-tim-blake-nelson-movie-review-2025)
-- [Dreams (Sex Love)](https://www.rogerebert.com/reviews/dreams-sex-love-film-review-2025)
-- [Looking Through Water](https://www.rogerebert.com/reviews/looking-through-water-michael-douglas-movie-review-2025)
-- [Code 3](https://www.rogerebert.com/reviews/code-3-rainn-wilson-film-review-2025)
-
-### <img src="https://news.ycombinator.com/favicon.ico" width="32" height="32" />  Hacker Newsletter
-- [Hacker Newsletter #762](https://buttondown.com/hacker-newsletter/archive/hacker-newsletter-762/)
+- [Spinal Tap II: The End Continues](https://www.rogerebert.com/reviews/spinal-tap-2-the-end-continues-film-review-2025)
+- [Downton Abbey: The Grand Finale](https://www.rogerebert.com/reviews/downton-abbey-3-the-grand-finale-film-review-2025)
+- [Train Dreams](https://www.rogerebert.com/reviews/train-dreams-film-review-2025)
 
 ### <img src="https://www.google.com/s2/favicons?sz=32&domain=dailyhive.com" width="32" height="32" />  Daily Hive
-- [Team behind Michelin-recommended Vancouver restaurant to open new upscale casual Thai eatery](https://dailyhive.com/vancouver/charm-vancouver)
-- [NHL allowing acquitted players from Hockey Canada trial to become free agents](https://dailyhive.com/vancouver/nhl-hockey-canada-trial-players-free-agents)
-- [Vancouver-based Rennie expands into commercial real estate](https://dailyhive.com/vancouver/rennie-commercial-real-estate)
-- [MLB is looking to expand, so why not Vancouver?](https://dailyhive.com/vancouver/mlb-expand-why-not-vancouver)
-- [Decade-old Metro Vancouver restaurant to remain open after its initial closure announcement](https://dailyhive.com/vancouver/legend-house-chinese-restaurant-coquitlam)
-- [‘We’re excited about what’s next’: Downtown Vancouver hotel’s lively restaurant and bar quietly hits pause](https://dailyhive.com/vancouver/hotel-belmont-vancouver-restaurant)
-- [Surrey's population could exceed Vancouver in 2038, becoming B.C.'s most populated city](https://dailyhive.com/vancouver/surrey-metro-vancouver-population-growth-forecast-bc-city-2038)
-- [Slower population growth now forecast for Metro Vancouver, reaching 4.2 million in 2051](https://dailyhive.com/vancouver/metro-vancouver-population-growth-forecast-update-2051)
-- [1.5M fans signed up for FIFA World Cup tickets and these countries lead the way](https://dailyhive.com/vancouver/fifa-world-cup-tickets-numbers)
-- [Free block party with sips and eats coming to Mount Pleasant next week](https://dailyhive.com/vancouver/end-of-summer-block-party-mount-pleasant)
-- [Canadian hospital ranked #1 in the world in one field](https://dailyhive.com/vancouver/canadian-hospital-number-one-world-sickkids)
-- [Distracted Vancouver drivers get exposed by bicycle officers](https://dailyhive.com/vancouver/distracted-vancouver-drivers-exposed)
-- [“Wheelie” bad idea: Motorcyclist busted for stunting near Richmond](https://dailyhive.com/vancouver/motorcyclist-stunting-highway-99-richmond)
-- [Major Vancouver condo project cancelled, experts warn more could follow](https://dailyhive.com/vancouver/major-vancouver-condo-project-cancelled)
-- [What you can expect at the first-of-its-kind longevity expo in Vancouver](https://dailyhive.com/vancouver/vivacity-longevity-expo-vancouver)
-- [Metro Vancouver is hiring for a bunch of jobs and some pay over $50 an hour](https://dailyhive.com/vancouver/metro-vancouver-jobs-hiring)
-
-### <img src="https://www.google.com/s2/favicons?sz=32&domain=scoutmagazine.ca" width="32" height="32" />  Scout Magazine
-- [Dachi is Welcoming Gary’s for an Exceptional One-Evening-Only Collab, Sept. 15th](https://scoutmagazine.ca/dachi-is-welcoming-garys-for-an-exceptional-one-evening-only-collab-sept-15th/)
-- [On Happy Toasters, Hamburger Phones and Appliance-Appreciation, with Morgan Noll](https://scoutmagazine.ca/on-happy-toasters-hamburger-phones-and-appliance-appreciation-with-morgan-noll/)
-- [The Scout List, Vol. 634](https://scoutmagazine.ca/the-scout-list-vol-634/)
+- [Ex-Edmonton Oilers winger Corey Perry removed from ice in wheelchair after injury: report](https://dailyhive.com/vancouver/ex-oilers-winger-corey-perry-injured-wheelchair)
+- [Ahmed's future and Gauld's status for likely playoff-bound Vancouver Whitecaps](https://dailyhive.com/vancouver/ahmed-future-gauld-status-playoff-bound-whitecaps)
+- [Nearly 600 rental homes, supportive housing units, and shelter beds proposed for Surrey](https://dailyhive.com/vancouver/surrey-supportive-housing-rentals-shelter-locations-proposal)
+- [New renderings of Western Canada's tallest tower in downtown Vancouver, featuring an observation deck attraction](https://dailyhive.com/vancouver/bay-parkade-vancouver-observation-deck-supertall-tower-proposal)
+- [British Columbians say these issues have them frustrated with the provincial government](https://dailyhive.com/vancouver/british-columbians-ndp-falling-short)
+- [A popular Vietnamese restaurant in Vancouver has closed and people are upset](https://dailyhive.com/vancouver/mr-red-cafe-vancouver-closed)
+- [Popular content creator detained for 'mess' at Canadian border on way to Toronto Blue Jays game](https://dailyhive.com/vancouver/content-creator-detained-border-toronto-blue-jays-game)
+- [Why you’ll see fighter jets over Stanley Park this weekend](https://dailyhive.com/vancouver/fighter-jets-stanley-park)
+- [BCHL testing new rule to make 3-on-3 overtime even better](https://dailyhive.com/vancouver/bchl-testing-new-rule-three-on-three)
+- [When the Pattullo Bridge replacement is expected to open](https://dailyhive.com/vancouver/pattullo-bridge-replacement-expected-open)
+- [Air Canada, WestJet win major global awards based on passenger ratings](https://dailyhive.com/vancouver/air-canada-westjet-apex-awards-2026)
+- [Here's how you can get free admission to Science World next week](https://dailyhive.com/vancouver/science-world-free-admission-tech-up)
+- [Coffee machines, serving 60 hot and iced drinks, rolled out at SkyTrain stations and SeaBus terminals](https://dailyhive.com/vancouver/skytrain-seabus-ga-robot-beverage-coffee-vending-machines)
+- [Conservative leader slams B.C. court decision granting Aboriginal title across Haida Gwaii](https://dailyhive.com/vancouver/haida-gwaii-first-nation-aboriginal-title-court-decision)
+- [City of Richmond and Musqueam First Nation to appeal Cowichan land ruling](https://dailyhive.com/vancouver/richmond-musqueam-first-nation-cowichan-tribes-land-ruling-appeal)
+- [Six popular food businesses are teaming up for a two-week cafe pop-up in Vancouver](https://dailyhive.com/vancouver/flavours-of-hope-cafe-pop-up-vancouver)
