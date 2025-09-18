@@ -1,91 +1,85 @@
 
 ### 🍵  The Verge - Full RSS for subscribers | The Verge
-- [Casio’s stress-relieving furry robot is coming to the US](https://www.theverge.com/news/779857/casio-robot-furry-pet-moflin-us-availability)
-- [Upgrade your everyday carry setup with these 22 picks](https://www.theverge.com/tech/771373/everyday-carry-edc-gift-guide)
-- [Sony’s PS5 update adds controller swapping and Power Saving mode](https://www.theverge.com/news/779837/sony-playstation-5-ps5-update-power-saving-mode)
-- [Republicans are honoring Charlie Kirk’s memory by declaring war on the First Amendment](https://www.theverge.com/policy/779799/republican-charlie-kirk-first-amendment-crackdown-continues)
-- [Waymo to launch a robotaxi service in Nashville in 2026](https://www.theverge.com/news/779147/waymo-robotaxi-nashville-lyft-2026)
-- [Track power outages in real time across the US with the Ting app](https://www.theverge.com/science/779089/power-outage-blackout-map-app-ting)
-- [How to watch Mark Zuckerberg’s keynote at Meta Connect 2025](https://www.theverge.com/news/777565/meta-connect-2025-how-to-watch-keynote-mark-zuckerberg)
-- [Who is the iPhone Air really for?](https://www.theverge.com/podcast/779607/iphone-air-review-17-pro-airpods-watch-vergecast)
-- [No, Nintendo and Pokémon did not patent ‘summoning characters and making them battle’](https://www.theverge.com/games/779062/nintendo-pokemon-summoning-battle-patent)
-- [Apple iPhone Air review: statement piece](https://www.theverge.com/tech/779588/apple-iphone-air-review-battery-camera)
-- [The iPhone 17 is the one to get this year](https://www.theverge.com/tech/779568/iphone-17-review-apple-best-features)
-- [DJI Mini 5 Pro official: 1-inch sensors come to small drones, plus the longest battery life yet](https://www.theverge.com/news/779339/dji-mini-5-pro-official-1-inch-sensors-come-to-small-drones-plus-the-longest-battery-life-yet)
-- [Apple’s iPhone 17 Pro is a bold redesign but a basic upgrade](https://www.theverge.com/tech/779265/iphone-17-pro-max-review)
-- [The hunger strike to end AI](https://www.theverge.com/ai-artificial-intelligence/778773/the-hunger-strike-to-end-ai-anthropic-google-deepmind-agi)
-- [Apple’s future MacBook Pro might have a touchscreen](https://www.theverge.com/news/779759/apple-macbook-pro-oled-touchscreen-rumors)
-- [Garmin’s new Bounce watch for kids doubles the price, not the features](https://www.theverge.com/news/778318/garmin-bounce-2-lte-child-smartwatch-tracker-wearable)
-- [The Wacom One, now one size bigger](https://www.theverge.com/news/779738/wacom-one-14-display-tablet-price-availability)
-- [Business Insider reportedly tells journalists they can use AI to draft stories](https://www.theverge.com/news/779739/business-insider-ai-writing-stories)
-- [Can Luigi Mangione get too big to jail?](https://www.theverge.com/report/779351/luigi-mangione-hearing-new-york-social-media-ecosystem)
-- [Sam Altman says ChatGPT will stop talking about suicide with teens](https://www.theverge.com/ai-artificial-intelligence/779053/sam-altman-says-chatgpt-will-stop-talking-about-suicide-with-teens)
+- [Google will use hashes to find and remove nonconsensual intimate imagery from Search](https://www.theverge.com/news/780852/google-stopncii-nonconsensual-intimate-imagery-hashes)
+- [Nanoleaf made a vibrating light therapy skincare wand](https://www.theverge.com/news/780820/nanoleaf-light-therapy-wand-panel-price-availability)
+- [A new Megalopolis documentary reveals why it turned out like that](https://www.theverge.com/entertainment/780110/megadoc-review-megalopolis)
+- [Corsair’s new gaming mouse is as lightweight as $.35 in nickels](https://www.theverge.com/news/776782/corsair-sabre-v2-pro-ultralight-gaming-mouse-weight-specs-price)
+- [Fortnite creators will soon be able to sell in-game items](https://www.theverge.com/games/780819/fortnite-creators-sell-items)
+- [Steam is dropping Windows 32-bit support in 2026](https://www.theverge.com/news/780806/valve-steam-32-bit-windows-support-end)
+- [Nothing wants you to talk to your earbuds’ charging case](https://www.theverge.com/news/779345/nothing-ear-3-super-mic-price-launch)
+- [Robotaxis as public transit? Waymo thinks so](https://www.theverge.com/news/780156/waymo-via-robotaxi-microtransit-chandler-flex)
+- [Seven indie games that will upgrade your downtime this fall](https://www.theverge.com/games/774447/upgrade-downtime-indie-games-2025)
+- [Nvidia invests $5 billion into Intel to jointly develop PC and data center chips](https://www.theverge.com/news/780792/nvidia-intel-investment-pc-chips-data-center)
+- [Reddit wants a better AI deal with Google: users in exchange for content](https://www.theverge.com/news/780769/reddit-ai-google-new-deal)
+- [Tesla is updating its passenger-trapping door handles](https://www.theverge.com/news/780744/tesla-redesigning-passenger-trapping-door-handles)
+- [Samsung brings ads to US fridges](https://www.theverge.com/news/780757/samsung-brings-ads-to-us-fridges)
+- [Rivian’s e-bike leaks ahead of next month’s announcement](https://www.theverge.com/news/780734/rivians-e-bike-leaks-ahead-of-next-months-announcement)
+- [Meta Connect 2025: the 6 biggest announcements](https://www.theverge.com/news/780087/meta-connect-2025-ray-ban-oakley-biggest-announcements)
+- [Meta’s Ray-Ban Gen 2 and Oakley Vanguard glasses are available to preorder](https://www.theverge.com/tech/780353/meta-ray-ban-display-oakley-vanguard-preorder-price-how-to-buy)
+- [Meta is bringing an all-in-one movie and TV streaming hub to Quest headsets](https://www.theverge.com/news/780492/meta-quest-headset-horizon-tv-streaming)
+- [Meta is making the metaverse look better](https://www.theverge.com/news/780256/meta-horizon-worlds-engine-studio)
+- [Meta will let you use a Quest VR headset to turn your real-world space into a virtual world](https://www.theverge.com/news/780044/meta-quest-metaverse-hyperscape-capture-vr)
+- [I sat down with Mark Zuckerberg to try Meta’s impressive new Ray-Ban Display glasses](https://www.theverge.com/tech/780539/meta-ray-ban-display-mark-zuckerberg-interview)
 
 ### <img src="https://www.google.com/s2/favicons?sz=32&domain=www.theverge.com" width="32" height="32" />  Quick Posts | The Verge
-- [It&#8217;s slime for more Dragon Quest.](https://www.theverge.com/games/779789/its-slime-for-more-dragon-quest)
-- [Happy iPhone Day!](https://www.theverge.com/tech/779822/happy-iphone-day)
-- [Your Apple Watch will now let you know when it could be charging faster.](https://www.theverge.com/news/779794/apple-watchos-26-slow-charger-warning)
-- [PC history.](https://www.theverge.com/news/779510/pc-history)
-- [Cybertruck crash test.](https://www.theverge.com/transportation/779497/tesla-cybertruck-crash-test)
-- [Fiverr lays off 250 people as it becomes an &#8216;AI-first&#8217; company.](https://www.theverge.com/news/779472/fiverr-lays-off-250-people-as-it-becomes-an-ai-first-company)
-- [BreachForums founder resentenced to three years in prison.](https://www.theverge.com/news/779461/breachforums-founder-resentenced-to-three-years-in-prison)
-- [What would improve the tiniest Game Boy? Color!](https://www.theverge.com/gadgets/779260/what-would-improve-the-tiniest-game-boy-color)
-- [Trump extends the TikTok ban enforcement deadline again.](https://www.theverge.com/policy/779161/trump-extends-the-tiktok-ban-enforcement-deadline-again)
-- [Polaroid gleams the cube.](https://www.theverge.com/news/779073/polaroid-now-gen-3-instant-camera-thrasher-magazine)
-
-### 🍵  The Verge - Regulator for subscribers | The Verge
-- [Charlie Kirk’s death got complicated by gamer brainrot](https://www.theverge.com/column/778988/charlie-kirk-tyler-robinson-online-regulator)
+- [Some GBA classics coming soon.](https://www.theverge.com/games/780867/some-gba-classics-coming-soon)
+- [Samsung&#8217;s XR headset might arrive next month.](https://www.theverge.com/news/780766/samsungs-xr-headset-might-arrive-next-month)
+- [Zuckerberg came back in workout gear, then Diplo showed up, and now they&#8217;re going on a run. Show&#8217;s over!](https://www.theverge.com/news/780589/zuckerberg-came-back-in-workout-gear-then-diplo-showed-up-and-now-theyre-going-on-a-run-shows-over)
+- [#SavetheThunderRound.](https://www.theverge.com/tech/780676/savethethunderround)
+- [James Cameron takes the stage.](https://www.theverge.com/tech/780643/james-cameron-takes-the-stage)
+- [Zuckerberg is now talking about the VR and metaverse.](https://www.theverge.com/news/780648/zuckerberg-is-now-talking-about-the-vr-and-metaverse)
+- [We went from one to four AI smart glasses.](https://www.theverge.com/tech/780624/we-went-from-one-to-four-ai-smart-glasses)
+- [Zuck is wrapping up the discussion of Meta&#8217;s AI glasses.](https://www.theverge.com/news/780629/zuck-is-wrapping-up-the-discussion-of-its-ai-glasses)
+- [Oh my god, another failed live demo.](https://www.theverge.com/tech/780615/oh-my-god-another-failed-live-demo)
+- [Mark Zuckerberg debates doing slides or a live demo.](https://www.theverge.com/tech/780593/mark-zuckerberg-debates-doing-slides-or-a-live-demo)
 
 ### <img src="https://www.google.com/s2/favicons?sz=32&domain=stratechery.com" width="32" height="32" />  Stratechery by Ben Thompson
-- [An Interview with YouTube CEO Neal Mohan About Building a Stage for Creators](https://stratechery.com/2025/an-interview-with-youtube-ceo-neal-mohan-about-building-a-stage-for-creators/)
+- [Meta Ray-Ban Display, Why Less is More, Price and the Neural Band](https://stratechery.com/2025/meta-ray-ban-display-why-less-is-more-price-and-the-neural-band/)
 
-### <img src="https://www.google.com/s2/favicons?sz=32&domain=notetoself.studio" width="32" height="32" />  Note to Self
-- [The creative and the mundane](https://notetoself.studio/link/how-to-fold-socks/)
+### <img src="https://www.google.com/s2/favicons?sz=32&domain=anildash.com" width="32" height="32" />  Anil Dash
+- [A Way We Were](https://anildash.com/2025/09/17/a-way-we-were/)
+
+### <img src="https://www.google.com/s2/favicons?sz=32&domain=www.derekthompson.org" width="32" height="32" />  Derek Thompson
+- [The 25 Most Interesting Ideas I've Found in 2025 (So Far)](https://www.derekthompson.org/p/the-25-most-interesting-ideas-ive)
 
 ### <img src="https://www.google.com/s2/favicons?sz=32&domain=simonwillison.net" width="32" height="32" />  Simon Willison's Weblog
-- [Announcing the 2025 PSF Board Election Results!](https://simonwillison.net/2025/Sep/16/the-2025-psf-board-election-results/#atom-everything)
+- [Anthropic: A postmortem of three recent issues](https://simonwillison.net/2025/Sep/17/anthropic-postmortem/#atom-everything)
+- [ICPC medals for OpenAI and Gemini](https://simonwillison.net/2025/Sep/17/icpc/#atom-everything)
 
 ### <img src="https://www.google.com/s2/favicons?sz=32&domain=feeds.kottke.org" width="32" height="32" />  kottke.org
-- [New from Neal Agarwal: a series of increasingly ridiculous and difficult captchas.... ](https://kottke.org/25/09/0047526-new-from-neal-agarwal-a)
-- [Scandal rocks international stone skipping contest. “The would-be cheaters admitted to the... ](https://kottke.org/25/09/0047522-scandal-rocks-internation)
-- [“Style lessons from Robert Redford, one of the most stylish men in... ](https://kottke.org/25/09/0047523-style-lessons-from-robert)
-- [A Clock: An Online Remake of Christian Marclay’s The Clock ](https://kottke.org/25/09/a-clock-an-online-remake-of-christian-marclays-the-clock)
-- [A McSweeney’s list that’s not that funny: How to Tell the Difference... ](https://kottke.org/25/09/0047519-a-mcsweeneys-list-thats-n)
-- [Ta-Nehisi Coates: ‘Charlie Kirk, Redeemed: A Political Class Finds Its Lost Cause’.... ](https://kottke.org/25/09/0047520-ta-nehisi-coates-charlie-)
-- [How Climate Scientists Saw the Future Before It Arrived. “‘The goal of... ](https://kottke.org/25/09/0047518-how-climate-scientists-sa)
-- [Incredibly Realistic 3D Models of the Moon’s Surface (From 1874!) ](https://kottke.org/25/09/incredibly-realistic-3d-models-of-the-moons-surface-from-1874)
-- [Photographer Upends His Whole Life to Chase Auroras Around the Arctic. “Prior... ](https://kottke.org/25/09/0047490-photographer-upends-his-w)
-- [A 16-Hour Video Series on Everything that Happened in the 70s, 80s, 90s, and 00s ](https://kottke.org/25/09/a-16-hour-video-series-on-everything-that-happened-in-the-70s-80s-90s-and-00s)
-
-### <img src="https://www.google.com/s2/favicons?sz=32&domain=www.slackstory.com" width="32" height="32" />  A Slack Story
-- [Leaving for Dublin](https://www.slackstory.com/p/leaving-for-dublin)
-
-### <img src="https://www.google.com/s2/favicons?sz=32&domain=unchartedterritories.tomaspueyo.com" width="32" height="32" />  Uncharted Territories
-- [A Science of Cities](https://unchartedterritories.tomaspueyo.com/p/a-science-of-cities)
-
-### <img src="https://www.google.com/s2/favicons?sz=32&domain=www.platformer.news" width="32" height="32" />  Platformer
-- [OpenAI’s risky step to protect teens](https://www.platformer.news/openai-teen-accounts-safety-senate-hearing/)
+- [Man pulls off daring scuba heist of Disney paddleboat restaurant, netting $10K-$20K... ](https://kottke.org/25/09/0047533-man-pulls-off-daring-scub)
+- [The “Debate Me Bro” Grift: How Trolls Weaponized The Marketplace Of Ideas.... ](https://kottke.org/25/09/0047536-the-debate-me-bro-grift)
+- [How Agates Form, Why Minnesota Lakes Have So Many, &amp; Where To... ](https://kottke.org/25/09/0047534-how-agates-form-why-minne)
+- [Inspired by a question over at Cup of Jo, what are the... ](https://kottke.org/25/09/0047535-inspired-by-a-question-ov)
+- [Blending In ](https://kottke.org/25/09/blending-in)
+- [The Climate Change Paradox. “Earth’s climate is chaotic and volatile. Climate change... ](https://kottke.org/25/09/0047531-the-climate-change-parado)
+- [On the latest wave of AI/LLM tools. “It is a transition from... ](https://kottke.org/25/09/0047530-on-the-latest-wave-of)
+- [Smart Tracker Cards ](https://kottke.org/25/09/smart-tracker-cards)
+- [“Trump told voters that they could indulge their resentments and still walk... ](https://kottke.org/25/09/0047532-trump-told-voters-that-th)
+- [Early next year, Sesame Street is making hundreds of full episodes available... ](https://kottke.org/25/09/0047525-early-next-year-sesame-st)
+- [Classic Airlines Apparel ](https://kottke.org/25/09/classic-airlines-apparel)
 
 ### <img src="https://www.google.com/s2/favicons?sz=32&domain=spyglass.org" width="32" height="32" />  Spyglass
-- [Apple’s Flight to Safety](https://spyglass.org/apple-hardware-design-ai/)
-- [Signal: Meta's $800 Question 📧](https://spyglass.org/signal-metas-800-question/)
+- [Signal: Looking Back at Hardware 📧](https://spyglass.org/signal-looking-back-at-hardware/)
+
+### <img src="https://www.google.com/s2/favicons?sz=32&domain=www.rogerebert.com" width="32" height="32" />  Reviews – Roger Ebert
+- [HIM](https://www.rogerebert.com/reviews/him-marlon-wayans-film-review-2025)
+- [Black Rabbit](https://www.rogerebert.com/reviews/black-rabbit-netflix-jude-law-jason-bateman-tv-review-2025)
+- [One Battle After Another](https://www.rogerebert.com/reviews/one-battle-after-another-movie-review-2025)
 
 ### <img src="https://www.google.com/s2/favicons?sz=32&domain=dailyhive.com" width="32" height="32" />  Daily Hive
-- [Bank of Canada lowers key interest rate to 2.5%](https://dailyhive.com/vancouver/canada-interest-rate-boc-update-sept-2025)
-- [Opinion: If TransLink builds Bus Rapid Transit, it must be done right](https://dailyhive.com/vancouver/translink-metrotown-north-shore-brt-routes-opinion)
-- [BC Ferries identifies four potential passenger-only ferry routes in long-term plan](https://dailyhive.com/vancouver/bc-ferries-passenger-only-routes-potential)
-- [Parallel 49 Brewing Company is throwing a huge Oktoberfest celebration](https://dailyhive.com/vancouver/parallel-49-oktoberfest-2025)
-- [B.C. Premier David Eby laughs off concerns about a comedian on the payroll](https://dailyhive.com/vancouver/bc-premier-david-eby-comedian)
-- [1912-built heritage log house of late B.C. artist in West Point Grey to be relocated to Vancouver Island this fall](https://dailyhive.com/vancouver/4686-west-2nd-avenue-vancouver-point-grey-house-relocation)
-- [A popular video game-themed bar known for its Ryan Reynolds bathroom is returning to Vancouver](https://dailyhive.com/vancouver/glitch-vancouver-2025)
-- [Here's who won the BC Lions' Pamela Anderson look-alike contest](https://dailyhive.com/vancouver/bc-lions-pamela-anderson-look-alike-contest-winner)
-- [Richmond Mayor Malcolm Brodie will not seek reelection after 25 years](https://dailyhive.com/vancouver/malcolm-brodie-richmond-mayor-retirement)
-- [Canada updates Jamaica travel advisory with serious warning](https://dailyhive.com/vancouver/canada-jamaica-travel-advisory-sept-2025)
-- [B.C. budget deficit balloons to record $11.6B](https://dailyhive.com/vancouver/bc-budget-deficit-balloons-to-record-11-6-billion)
-- [Popular Vancouver radio duo lands rocking new gig in Calgary](https://dailyhive.com/vancouver/vancouver-calgary-radio-tyler-lynch-corus)
-- [Taco Bell launching unexpected viral new menu at locations across Canada this week](https://dailyhive.com/vancouver/taco-bell-canada-crispy-chicken)
-- [7 Vancouver restaurants land on Air Canada's Best New Restaurant finalist list](https://dailyhive.com/vancouver/best-new-restaurants-vancouver-2025)
-- [Fall temperatures slowly creeping into Vancouver weather forecast](https://dailyhive.com/vancouver/vancouver-fall-weather-forecast-2025)
-
-### <img src="https://www.google.com/s2/favicons?sz=32&domain=scoutmagazine.ca" width="32" height="32" />  Scout Magazine
-- [Get Hands-On at a ‘Butchery 101’ Workshop on September 23rd](https://scoutmagazine.ca/get-hands-on-at-a-butchery-101-workshop-on-september-23rd/)
+- [Updated building shadowing guidelines for downtown Vancouver approved](https://dailyhive.com/vancouver/downtown-vancouver-solar-access-guidelines-building-shadowing-policies-approved)
+- [Major Metro Vancouver highway is closing an exit for seven weeks](https://dailyhive.com/vancouver/highway-99-exit-closing-78th-street-interchange)
+- [Hootsuite founder's North Vancouver mansion listed for just under $7M](https://dailyhive.com/vancouver/hootsuite-founder-north-vancouver-home)
+- [Toronto Blue Jays players troll rookie with hilarious antics during live TV interview](https://dailyhive.com/vancouver/blue-jays-players-troll-rookie-antics-tv-interview)
+- [How Vancouver is wooing California visitors with flirty tourism campaign](https://dailyhive.com/vancouver/vancouver-tourism-campaign-california)
+- [Two B.C. hospitals rank among world’s best specialized medical centres](https://dailyhive.com/vancouver/b-c-hospitals-world-ranking-2026)
+- [New giant digital screen approved for Granville Entertainment District](https://dailyhive.com/vancouver/897-granville-street-vancouver-entertainment-district-digital-screen-approved)
+- [City of Vancouver moves to regulate and expand digital advertising screens](https://dailyhive.com/vancouver/vancouver-public-realm-advertising-framework)
+- [Jonas Brothers share video confirming 'Camp Rock 3' is filming in Metro Vancouver](https://dailyhive.com/vancouver/jonas-brothers-camp-rock-3-filming-metro-vancouver)
+- [The fate of family-run Shaughnessy Restaurant has been sealed unanimously](https://dailyhive.com/vancouver/shaughnessy-restaurant-vancouver-decision-council)
+- [Why the air quality in Vancouver has felt a bit iffy today](https://dailyhive.com/vancouver/vancouver-air-quality-sept-17-2025)
+- [Priyanka Chopra was just spotted at a much-loved Vancouver restaurant](https://dailyhive.com/vancouver/priyanka-chopra-vancouver)
+- [Bright Nights finds new home in Metro Vancouver after Harry Potter event moves into Stanley Park](https://dailyhive.com/vancouver/bright-nights-surrey)
+- [Vancouver International Airport leads Canada for passenger satisfaction among large airports](https://dailyhive.com/vancouver/yvr-vancouver-airport-passenger-satisfaction-jdpower-2025)
+- [Vancouver's lively new Japanese dining bar was 20 years in the making, and it opens today](https://dailyhive.com/vancouver/nomo-nomo-vancouver-commercial-drive)
