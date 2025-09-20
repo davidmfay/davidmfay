@@ -1,103 +1,97 @@
 
 ### 🍵  The Verge - Full RSS for subscribers | The Verge
-- [Nest is dead, long live Google Home](https://www.theverge.com/report/781221/the-end-of-nest-google-home-smart-home)
-- [Nothing teases the first headphones from its budget CMF brand](https://www.theverge.com/news/781763/nothing-cmf-headphone-pro-wireless)
-- [This RPG series does everything wrong, and it’s working](https://www.theverge.com/games/781492/trails-in-the-sky-1st-chapter-switch-ps5-steam)
-- [The Apple Watch SE 3, Series 11, and Ultra 3 are now available](https://www.theverge.com/tech/773089/apple-watch-se-3-series-11-ultra-3-preorder-buy-price-release-date)
-- [The right to anonymity is powerful, and America is destroying it](https://www.theverge.com/policy/781256/anonymity-privacy-age-verification-free-speech)
-- [How I went from an e-bike hater to a believer](https://www.theverge.com/transportation/777556/how-i-went-from-an-e-bike-hater-to-a-believer)
-- [Why I ‘upgraded’ to a film camera that’s older than I am](https://www.theverge.com/cameras/772825/upgrading-film-camera-canon-ef)
-- [ChatGPT tricked to swipe sensitive data from Gmail](https://www.theverge.com/news/781746/chatgpt-gmail-shadow-leak)
-- [Meta’s failed smart glasses demos had nothing to do with the Wi-Fi](https://www.theverge.com/news/781730/meta-explains-live-ai-smart-glasses-demo-failures)
-- [Intel says Arc GPUs will live on after Nvidia deal](https://www.theverge.com/news/781635/intel-says-arc-gpus-will-live-on-after-nvidia-deal)
-- [Nothing’s charging case ‘Super Mic’ is a small upgrade to earbud audio](https://www.theverge.com/tech/781588/nothing-ear-3-charging-case-super-mic-impressions-hands-on)
-- [Nvidia and Intel’s $5 billion deal is apparently about eating AMD’s lunch](https://www.theverge.com/report/781330/nvidia-intel-explain-5-billion-deal-jensen-huang-lip-bu-tan-amd)
-- [Hyundai CEO distances company from ICE raid: ‘not our facility’](https://www.theverge.com/news/781497/hyundai-ceo-distances-ice-raid-georgia-trump)
-- [Verge readers can get 20 percent off Nanoleaf wall lights](https://www.theverge.com/tech/781437/nanoleaf-blocks-squares-playstation-portal-deal-sale)
-- [Why your outdoorsy friend suddenly has a gummy bear power bank](https://www.theverge.com/tech/781387/backpacking-ultralight-haribo-power-bank)
-- [Ubiquiti’s new desktop NAS looks more like a wireless router](https://www.theverge.com/news/781433/ubiquiti-nas-unas-2-4-raid-backup)
+- [The US government is taking a second stab at breaking up Google](https://www.theverge.com/policy/782029/google-doj-ad-tech-remedies-trial-break-up)
+- [Henry Halfhead is full of heart](https://www.theverge.com/games-review/776873/henry-halfhead-review-pc-ps5-switch)
+- [An ICE raid at an EV factory raises fears about US instability](https://www.theverge.com/transportation/781869/ice-raid-georgia-hyundai-lg-ev-foreign-chilling)
+- [Anker’s latest sleep buds can silence snoring](https://www.theverge.com/reviews/781970/earbuds-that-block-snoring-soundcore-a30)
+- [Trump claims the US is about to get a tremendous fee for taking TikTok out of China](https://www.theverge.com/news/782218/trump-claims-the-us-is-about-to-get-a-tremendous-fee-for-taking-tiktok-out-of-china)
+- [Windows 11 is adding another Copilot button nobody asked for](https://www.theverge.com/news/782194/windows-11-share-with-copilot-button)
+- [Ex-Disney CEO Michael Eisner calls the FCC’s threats ‘out-of-control intimidation’](https://www.theverge.com/streaming/782191/ex-disney-ceo-michael-eisner-calls-the-fccs-threats-out-of-control-intimidation)
+- [Microsoft is raising prices on Xbox consoles in the US again](https://www.theverge.com/news/782079/microsoft-xbox-console-price-increase-us)
+- [I know why Mark Zuckerberg risked live demo failure](https://www.theverge.com/report/781673/meta-demo-fail-connect-2025-mark-zuckerberg-google-glass-steve-jobs-wi-fi)
+- [It’s new iPhone day, so grab some screen protectors for just $4.49](https://www.theverge.com/tech/781914/iphone-17-pro-air-screen-protector-anker-nano-travel-adapter-deal-sale)
+- [Ugreen’s new super slim wallet tracker has 5 years of battery life](https://www.theverge.com/news/781945/ugreen-finetrack-slim-smart-g-bluetooth-tracker-battery-life)
+- [So… is there a TikTok deal or not?](https://www.theverge.com/policy/781967/tiktok-deal-us-china-still-ambiguous)
+- [MAGA influencers are already fighting over Charlie Kirk’s death](https://www.theverge.com/policy/781862/charlie-kirk-nick-fuentes-candace-owens-tucker-carlson)
+- [ESPN and Fox One net one million signups in under two weeks](https://www.theverge.com/news/781885/espn-fox-one-sports-streaming-one-million-signups)
+- [OpenAI might be developing a smart speaker, glasses, voice recorder, and a pin](https://www.theverge.com/news/781854/openai-chatgpt-hardware-rumors-smart-speaker-glasses-pin)
+- [Meta’s quest to own your face](https://www.theverge.com/podcast/781830/meta-smart-glasses-ray-ban-vergecast)
+- [First look at the Google Home app powered by Gemini](https://www.theverge.com/news/781810/first-look-google-home-app-powered-by-gemini)
+- [The strongest argument for smart glasses is accessibility](https://www.theverge.com/column/781772/optimizer-newsletter-meta-ray-ban-display-smart-glasses-accessibility)
+- [Tour our smart home reviewer’s smart backyard](https://www.theverge.com/video/781682/tour-smart-backyard)
 
 ### <img src="https://www.google.com/s2/favicons?sz=32&domain=www.theverge.com" width="32" height="32" />  Quick Posts | The Verge
-- [The budget handheld wars are heating up.](https://www.theverge.com/games/781651/the-budget-handheld-wars-are-heating-up)
-- [iFixit opened up the iPhone Air MagSafe Battery.](https://www.theverge.com/news/781639/ifixit-opened-up-the-iphone-air-magsafe-battery)
-- [Senate Democrats push Brendan Carr on censorship.](https://www.theverge.com/policy/781629/senate-democrats-push-brendan-carr-on-censorship)
-- [iRacing Studios shares the first look at NASCAR 25 gameplay.](https://www.theverge.com/news/781618/iracing-studios-shares-the-first-look-at-nascar-25-gameplay)
-- [Google Nest may become Google Home again.](https://www.theverge.com/news/781581/google-nest-may-become-google-home-again)
-- [Woohoo!](https://www.theverge.com/science/781583/woohoo-covering-climate-now-award-verge-justine-calma)
-- [Now that both Pixels and iPhones have magnets, here&#8217;s my favorite new accessory:](https://www.theverge.com/gadgets/781536/titw-syncwire-double-magnet-ring-grip)
-- [Google’s Gems can now be shared like any Drive file.](https://www.theverge.com/news/781421/googles-gems-can-now-be-shared-like-any-drive-file)
-- [Apparently you can pay your way out of national security concerns.](https://www.theverge.com/tech/781384/apparently-you-can-pay-your-way-out-of-national-security-concerns)
-- [Nvidia claims Trump had nothing to do with its $5B investment in Intel.](https://www.theverge.com/tech/781273/nvidia-claims-trump-had-nothing-to-do-with-its-5b-investment-in-intel)
+- [Is this the smallest eGPU yet? Depends how you measure.](https://www.theverge.com/news/782052/onexegpu-lite-egpu-one-netbook-usb-4-v2)
+- [How the FCC became a weapon against free speech.](https://www.theverge.com/policy/781922/how-the-fcc-became-a-weapon-against-free-speech)
+- [Luma AI’s CEO says only generative AI can save Hollywood.](https://www.theverge.com/column/781891/luma-ais-ceo-says-only-generative-ai-can-save-hollywood)
+- [Happy iPhone day, John.](https://www.theverge.com/news/781845/apple-iphone-17-pro-orange-master-chief-edition)
 
-### 🍵  The Verge - Notepad for subscribers | The Verge
-- [Satya Nadella is haunted at the prospect of Microsoft not surviving the AI era](https://www.theverge.com/tech/780946/microsoft-satya-nadella-town-hall-comments-ai-era-notepad)
-
-### <img src="https://www.google.com/s2/favicons?sz=32&domain=www.interconnects.ai" width="32" height="32" />  Interconnects
-- [Coding as the epicenter of AI progress and the path to general agents](https://www.interconnects.ai/p/coding-as-the-epicenter-of-ai-progress)
-
-### <img src="https://www.google.com/s2/favicons?sz=32&domain=stratechery.com" width="32" height="32" />  Stratechery by Ben Thompson
-- [2025.38: Meta, YouTube, and Tech Press Attention](https://stratechery.com/2025/meta-youtube-and-tech-press-attention/)
-
-### <img src="https://www.google.com/s2/favicons?sz=32&domain=anildash.com" width="32" height="32" />  Anil Dash
-- [The "Taylor's Version" generation is not gonna let Big AI steal her stuff](https://anildash.com/2025/09/18/the-taylors-version-generation/)
+### 🍵  The Verge - Optimizer for subscribers | The Verge
+- [The strongest argument for smart glasses is accessibility](https://www.theverge.com/column/781772/optimizer-newsletter-meta-ray-ban-display-smart-glasses-accessibility)
 
 ### <img src="https://www.google.com/s2/favicons?sz=32&domain=simonwillison.net" width="32" height="32" />  Simon Willison's Weblog
-- [Quoting Steve Jobs](https://simonwillison.net/2025/Sep/18/steve-jobs/#atom-everything)
-- [I think "agent" may finally have a widely enough agreed upon definition to be useful jargon now](https://simonwillison.net/2025/Sep/18/agents/#atom-everything)
+- [httpjail](https://simonwillison.net/2025/Sep/19/httpjail/#atom-everything)
+- [Magistral 1.2](https://simonwillison.net/2025/Sep/19/magistral/#atom-everything)
+- [The Hidden Risk in Notion 3.0 AI Agents: Web Search Tool Abuse for Data Exfiltration](https://simonwillison.net/2025/Sep/19/notion-lethal-trifecta/#atom-everything)
 
 ### <img src="https://www.google.com/s2/favicons?sz=32&domain=feeds.kottke.org" width="32" height="32" />  kottke.org
-- [A 1965 television interview with a 107-year-old Irish farmer (born in 1858)... ](https://kottke.org/25/09/0047546-a-1965-television-intervi)
-- [The defining experience of fascism is “getting yelled at by dumbasses”.... ](https://kottke.org/25/09/0047544-the-defining-experience-o)
-- [The 2025 Audubon Photography Awards Emphasize Epic and Endangered Migrations. I love... ](https://kottke.org/25/09/0047545-the-2025-audubon-photogra)
-- [How the Women’s Orchestra of Auschwitz Survived the Death Camps. “I have... ](https://kottke.org/25/09/0047540-how-the-womens-orchestra-)
-- [Of Oz the Wizard, an Alphabetized Version of The Wizard of Oz ](https://kottke.org/25/09/of-oz-the-wizard-an-alphabetized-version-of-the-wizard-of-oz-1)
-- [Gina Trapani writes about taking a sabbatical. “Take afternoon naps. Bigger things... ](https://kottke.org/25/09/0047521-gina-trapani-writes-about)
-- [This sounds like a cool project: Pocket Fiche is a pocket-sized microscope... ](https://kottke.org/25/09/0047529-this-sounds-like-a-cool)
-- [Some unusual rocks observed by NASA’s Perseverance rover “could be the clearest... ](https://kottke.org/25/09/0047524-some-unusual-rocks-observ)
-- [Some KDO Updates: We’ve Got Ourselves a Stew ](https://kottke.org/25/09/some-kdo-updates-weve-got-ourselves-a-stew)
-- [“Let’s be clear about what just happened: Jimmy Kimmel, a prominent late-night... ](https://kottke.org/25/09/0047537-lets-be-clear-about-what)
+- [Physics of Fluids journal article: ‘Phase behavior of Cacio e Pepe sauce’.... ](https://kottke.org/25/09/0047551-physics-of-fluids-journal)
+- [Matt Webb: “Gin &amp; tonic was invented by the East India Company... ](https://kottke.org/25/09/0047550-matt-webb-gin-tonic)
+- [A Brief History of The Flatiron Building ](https://kottke.org/25/09/a-brief-history-of-the-flatiron-building-1)
+- [Inside the Top Secret Virgil Abloh Archive. For the first time, a... ](https://kottke.org/25/09/0047542-inside-the-top-secret-vir)
+- [“AI developers haven’t figured out a way to train their models not... ](https://kottke.org/25/09/0047547-ai-developers-havent-figu)
+- [Damn Interesting celebrates its 20th birthday. “In 2005, YouTube, reddit, and Facebook... ](https://kottke.org/25/09/0047548-damn-interesting-celebrat)
+- [Gear Brands With a Lifetime Warranty like Darn Tough Vermont, Osprey, Orvis,... ](https://kottke.org/25/09/0047543-gear-brands-with-a-lifeti)
+- [Crying Glacier ](https://kottke.org/25/09/crying-glacier)
 
-### <img src="https://www.google.com/s2/favicons?sz=32&domain=www.notboring.co" width="32" height="32" />  Not Boring by Packy McCormick
-- [Weekly Dose of Optimism #162](https://www.notboring.co/p/weekly-dose-of-optimism-162)
+### <img src="https://www.google.com/s2/favicons?sz=32&domain=www.profgalloway.com" width="32" height="32" />  No Mercy / No Malice
+- [Violence Entrepreneurs](https://www.profgalloway.com/violence-entrepreneurs/)
 
-### <img src="https://www.google.com/s2/favicons?sz=32&domain=www.platformer.news" width="32" height="32" />  Platformer
-- [Three ways of thinking about the Kirk assassination](https://www.platformer.news/thursday-newsletter-4/)
+### <img src="https://www.google.com/s2/favicons?sz=32&domain=unchartedterritories.tomaspueyo.com" width="32" height="32" />  Uncharted Territories
+- [How Do Villages Grow into Cities?](https://unchartedterritories.tomaspueyo.com/p/how-do-villages-grow-into-cities)
 
 ### <img src="https://www.google.com/s2/favicons?sz=32&domain=spyglass.org" width="32" height="32" />  Spyglass
-- [Signal: Meta Vision 📧](https://spyglass.org/signal-meta-vision/)
-- [Meta Reframes Their Reality](https://spyglass.org/meta-ray-ban-display-smart-glasses-ai/)
-
-### <img src="https://www.google.com/s2/favicons?sz=32&domain=www.rogerebert.com" width="32" height="32" />  Reviews – Roger Ebert
-- [Prisoner of War](https://www.rogerebert.com/reviews/prisoner-of-war-scott-adkins-movie-review-2025)
-- [The Summer Book](https://www.rogerebert.com/reviews/the-summer-book-glenn-close-movie-review-2025)
-- [A Big Bold Beautiful Journey](https://www.rogerebert.com/reviews/a-big-bold-beautiful-journey-colin-farrell-margot-robbie-film-review-2025)
-- [Megadoc](https://www.rogerebert.com/reviews/megadoc-megalopolis-documentary-film-review-2025)
-- [Plainclothes](https://www.rogerebert.com/reviews/plainclothes-film-review-2025)
-- [The Senior](https://www.rogerebert.com/reviews/the-senior-michael-chiklis-movie-review-2025)
-- [Chain Reactions](https://www.rogerebert.com/reviews/chain-reactions-texas-chainsaw-massacre-documentary-film-review-2025)
-- [London Calling](https://www.rogerebert.com/reviews/london-calling-josh-duhamel-movie-review-2025)
-- [Riefenstahl](https://www.rogerebert.com/reviews/riefenstahl-leni-documentary-film-review-2025)
-- [Swiped](https://www.rogerebert.com/reviews/swiped-hulu-lily-james-film-review-2025)
-
-### <img src="https://news.ycombinator.com/favicon.ico" width="32" height="32" />  Hacker Newsletter
-- [Hacker Newsletter #763](https://buttondown.com/hacker-newsletter/archive/763/)
+- [Signal: Pumpkin Spice iPhone Day 📧](https://spyglass.org/signal-pumpkin-spice-iphone-day/)
 
 ### <img src="https://www.google.com/s2/favicons?sz=32&domain=dailyhive.com" width="32" height="32" />  Daily Hive
-- [Storybook Canadian spot named one of the most beautiful in the world](https://dailyhive.com/vancouver/canadian-spot-named-most-beautiful-victoria-pei)
-- [Vancouver's laughing champion is ready to take on the best in the world](https://dailyhive.com/vancouver/kelly-podlubny-canada-laughing-champion)
-- ['The Amazing Race Canada' just crowned its first-ever B.C. winners](https://dailyhive.com/vancouver/the-amazing-race-canada-first-bc-winners)
-- [Tsunami risk being assessed in B.C. after earthquake in Russia](https://dailyhive.com/vancouver/tsunami-risk-bc-earthquake-russia)
-- [Everything you can eat and drink at Vancouver Cheese and Meat Festival this month](https://dailyhive.com/vancouver/vancouver-cheese-and-meat-festival-sneak-peek)
-- [North Vancouver parking changes begin rolling out this week](https://dailyhive.com/vancouver/north-vancouver-parking-changes-2025)
-- [Ryan Reynolds humbled after receiving 'highest honour' from City of Vancouver](https://dailyhive.com/vancouver/ryan-reynolds-city-of-vancouver-honour)
-- [New eye-catching Metro Vancouver crosswalk unveiled to honour veterans](https://dailyhive.com/vancouver/veterans-crosswalk-richmond)
-- [An atmospheric river is making its way to parts of B.C. this weekend](https://dailyhive.com/vancouver/atmospheric-river-bc-north-coast-september-2025)
-- [Canadians invite Jimmy Kimmel after show pulled over Charlie Kirk comments](https://dailyhive.com/vancouver/jimmy-kimmel-canada)
-- [A legendary outdoor gear swap is back in North Vancouver](https://dailyhive.com/vancouver/mec-gear-swap-october-2025)
-- [Most Vancouver residents believe crime is getting worse, despite police data](https://dailyhive.com/vancouver/vancouver-crime-survey)
-- [BC Ferries passengers wowed by stunning killer whale show](https://dailyhive.com/vancouver/bc-ferries-killer-whales)
-- [Man arrested in Vancouver after Greg Moore's helmet was stolen](https://dailyhive.com/vancouver/vancouver-man-arrested-sports-greg-moore-helmet)
+- [These Canadians ditched their U.S. vacations and have zero regrets](https://dailyhive.com/vancouver/canadians-us-cancelled-vacations)
+- [Vancouver Whitecaps star Thomas Müller has picked up an injury](https://dailyhive.com/vancouver/vancouver-whitecaps-star-thomas-muller-injury)
+- [Lynn Canyon suspension bridge closing for two to three months](https://dailyhive.com/vancouver/north-vancouver-suspension-bridge-closing-lynn)
+- [North Shore Rescue makes milestone rescue with game-changing technology](https://dailyhive.com/vancouver/north-shore-rescue-lifeseeker-ebiker-vancouver-island)
+- [Canada's Denis Shapovalov marries Swedish tennis player in picture-perfect wedding](https://dailyhive.com/vancouver/denis-shapovalov-marries-swedish-tennis-player)
+- [Man awarded over $1.5K after Vancouver airport valet parking surprise](https://dailyhive.com/vancouver/vancouver-airport-parking-valet-surprise)
+- [Canada beats New Zealand and can win Women's Rugby World Cup next week](https://dailyhive.com/vancouver/canada-advanced-womens-rugby-world-cup-final-first-time-decade)
+- [Sold West Vancouver home sparks discussion after posting $2.5M loss](https://dailyhive.com/vancouver/west-vancouver-sold-home-loss-790-fairmile-rd)
+- [Irish rap group Kneecap to take legal action after Canada bans entry](https://dailyhive.com/vancouver/kneecap-banned-canada-political-violence)
+- [Residents share what makes New West 'stand out' in Metro Vancouver](https://dailyhive.com/vancouver/new-west-residents-metro-vancouver)
+- [Vancouver’s pools, rinks, and centres face tough future, audit says](https://dailyhive.com/vancouver/vancouver-audit)
+- [Vancouver Christmas Market reveals dates for huge 2025 holiday event](https://dailyhive.com/vancouver/vancouver-christmas-market-2025)
+- [12 epic Vancouver concerts to look forward to this fall](https://dailyhive.com/vancouver/vancouver-concerts-fall)
+- [Richmond RCMP warn luxury car scam is turning victims into 'money mules'](https://dailyhive.com/vancouver/richmond-rcmp-vehicle-scam-warning)
+- [Unlikely Metro Vancouver city named one of the worst in Canada for a 'comfortable' life](https://dailyhive.com/vancouver/metro-vancouver-city-uncomfortable-life)
+- [Canada rebounds, beats U.S. as international students' favourite destination](https://dailyhive.com/vancouver/canada-international-students)
 
 ### <img src="https://www.google.com/s2/favicons?sz=32&domain=scoutmagazine.ca" width="32" height="32" />  Scout Magazine
-- [Chef Raf Racela is Cooking at Livia for Four Friday Nights Only, Beginning Sept. 19th](https://scoutmagazine.ca/chef-raf-racela-is-cooking-at-livia-for-four-friday-nights-only-beginning-sept-19th/)
-- [The Scout List, Vol. 635](https://scoutmagazine.ca/the-scout-list-vol-635/)
+- [Banda Volpi Joins Negroni Week 2025, Sept. 22nd-28th](https://scoutmagazine.ca/banda-volpi-joins-negroni-week-2025-sept-22nd-28th/)
+
+### <img src="https://www.google.com/s2/favicons?sz=32&domain=obsidian.md" width="32" height="32" />  Obsidian Changelog
+- [Obsidian 1.9.13 Mobile (Early access)](https://obsidian.md/changelog/2025-09-19-mobile-v1.9.13/)
+- [Obsidian 1.9.13 Desktop (Early access)](https://obsidian.md/changelog/2025-09-19-desktop-v1.9.13/)
+- [Obsidian 1.9.12 Mobile (Public)](https://obsidian.md/changelog/2025-08-26-mobile-v1.9.12/)
+- [Obsidian 1.9.12 Desktop (Public)](https://obsidian.md/changelog/2025-08-26-desktop-v1.9.12/)
+- [Obsidian 1.9.12 Mobile (Early access)](https://obsidian.md/changelog/2025-08-25-mobile-v1.9.12/)
+- [Obsidian 1.9.12 Desktop (Early access)](https://obsidian.md/changelog/2025-08-25-desktop-v1.9.12/)
+- [Obsidian 2025.08.22 (Public)](https://obsidian.md/changelog/2025-08-22-sync/)
+- [Obsidian 1.9.11 Mobile (Early access)](https://obsidian.md/changelog/2025-08-22-mobile-v1.9.11/)
+- [Obsidian 1.9.11 Desktop (Early access)](https://obsidian.md/changelog/2025-08-22-desktop-v1.9.11/)
+- [Obsidian 1.9.10 Mobile (Public)](https://obsidian.md/changelog/2025-08-18-mobile-v1.9.10/)
+- [Obsidian 1.9.10 Desktop (Public)](https://obsidian.md/changelog/2025-08-18-desktop-v1.9.10/)
+- [Obsidian 1.9.10 Mobile (Early access)](https://obsidian.md/changelog/2025-08-17-mobile-v1.9.10/)
+- [Obsidian 1.9.10 Desktop (Early access)](https://obsidian.md/changelog/2025-08-17-desktop-v1.9.10/)
+- [Obsidian 1.9.9 Mobile (Early access)](https://obsidian.md/changelog/2025-08-15-mobile-v1.9.9/)
+- [Obsidian 1.9.9 Desktop (Early access)](https://obsidian.md/changelog/2025-08-15-desktop-v1.9.9/)
+- [Obsidian 1.9.8 Mobile (Early access)](https://obsidian.md/changelog/2025-08-14-mobile-v1.9.8/)
+- [Obsidian 1.9.8 Desktop (Early access)](https://obsidian.md/changelog/2025-08-14-desktop-v1.9.8/)
+- [Obsidian 1.9.7 Mobile (Early access)](https://obsidian.md/changelog/2025-08-05-mobile-v1.9.7/)
+- [Obsidian 1.9.7 Desktop (Early access)](https://obsidian.md/changelog/2025-08-05-desktop-v1.9.7/)
+- [Obsidian 1.9.6 Mobile (Early access)](https://obsidian.md/changelog/2025-07-18-mobile-v1.9.6/)
