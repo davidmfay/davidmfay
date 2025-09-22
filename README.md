@@ -1,38 +1,49 @@
 
 ### 🍵  The Verge - Full RSS for subscribers | The Verge
-- [The best smart glasses got a little better](https://www.theverge.com/tech/782118/meta-smart-glasses-notion-3-skate-installer)
-- [Why PlayStation and Xbox are no longer about the station or the box](https://www.theverge.com/column/781303/microsoft-sony-playstation-xbox-future-of-gaming-console)
-- [Amazon, Google, and Microsoft warn employees to rush back to the US](https://www.theverge.com/news/782258/amazon-google-microsoft-warn-h-1b-employees-return-to-the-us)
-- [Trump announces skilled worker visas will now cost $100,000](https://www.theverge.com/news/782251/trump-h-1b-skilled-worker-visas-cost-100000)
-- [Prime members can get three months of Kindle Unlimited for free](https://www.theverge.com/tech/782073/kindle-unlimited-subscription-ipad-m3-deal-sale)
-- [The wafer-thin iPhone Air is surprisingly strong](https://www.theverge.com/tech/782245/iphone-air-jerryrigeverything-durability-test)
-- [Republicans’ political purge is just getting started](https://www.theverge.com/policy/781974/charlie-kirk-free-speech-legal-attacks)
+- [Some of Nintendo’s amiibo figures are up to 70 percent off](https://www.theverge.com/tech/782445/some-of-nintendos-amiibo-figures-are-up-to-70-percent-off)
+- [T-Mobile CEO Mike Sievert is stepping down](https://www.theverge.com/news/782429/t-mobile-ceo-mike-sievert-stepping-down-srini-gopalan)
+- [The Mandalorian and Grogu channels classic Star Wars in first trailer](https://www.theverge.com/news/782419/the-mandalorian-and-grogu-trailer-star-wars)
+- [Books that changed our lives](https://www.theverge.com/tech/774085/books-that-changed-our-lives)
+- [The best fall desk upgrades](https://www.theverge.com/tech/771798/fall-desk-upgrades)
+- [Apple’s iPhone 17 Pro can be easily scratched](https://www.theverge.com/news/782393/apple-iphone-17-series-easily-scratched-anodized)
+- [Windows 11 is getting a video wallpaper feature](https://www.theverge.com/news/782383/microsoft-windows-11-video-wallpapers)
+- [Silent Hill F has two killer ingredients: mystery and rage](https://www.theverge.com/games/782012/silent-hill-f-review-ps5-xbox-steam)
+- [The foldable iPhone might look like two iPhone Airs stuck together](https://www.theverge.com/news/782366/foldable-details-iphone-air-ifixit-teardown)
+- [The touchscreen MacBook rumors are never ending](https://www.theverge.com/news/782302/touchscreen-oled-macbook-rumors)
+- [Montblanc is getting into the digital notepad game](https://www.theverge.com/news/782288/montblanc-is-getting-into-the-digital-notepad-game)
+- [A jury will decide if Amazon illegally tricked people into paying for Prime](https://www.theverge.com/policy/782197/amazon-prime-ftc-consumer-protection-trial)
+- [Trump’s H-1B visa fee isn’t just about immigration, it’s about fealty](https://www.theverge.com/report/782289/trumps-h-1b-visa-fee-isnt-about-immigration-its-about-fealty)
 
 ### <img src="https://www.google.com/s2/favicons?sz=32&domain=www.theverge.com" width="32" height="32" />  Quick Posts | The Verge
-- [Some details of the TikTok deal have been worked out.](https://www.theverge.com/news/782261/details-of-the-tiktok-deal-have-been-worked-out)
+- [We&#8217;re launching a new show!](https://www.theverge.com/podcast/782432/were-launching-a-new-show)
+- [DOJ antitrust chief praises Google ad tech court’s efficiency.](https://www.theverge.com/policy/782418/doj-antitrust-chief-praises-google-ad-tech-courts-efficiency)
+- [We’re at the courthouse where Google is fighting another break up attempt.](https://www.theverge.com/policy/782409/were-at-the-courthouse-where-google-is-fighting-another-break-up-attempt)
+- [Shokz&#8217;s open-ear wireless earbuds gain wireless charging for an extra $20.](https://www.theverge.com/news/781837/shokz-openfit-2-plus-open-air-wireless-charging-earbuds)
+- [Excuse me while my eyes recover from an involuntary roll.](https://www.theverge.com/news/782394/albania-ai-minister-speaks)
+- [New ChatGPT features are gonna cost you.](https://www.theverge.com/news/782402/new-chatgpt-features-are-gonna-cost-you)
+- [The end of cookie nags?](https://www.theverge.com/news/782378/the-end-of-cookie-nags)
+- [RIYL: resist t-shirts, history lessons, bodice rippers.](https://www.theverge.com/news/782329/riyl-resist-t-shirts-history-lessons-bodice-rippers)
 
-### 🍵  The Verge - Installer for subscribers | The Verge
-- [The best smart glasses got a little better](https://www.theverge.com/tech/782118/meta-smart-glasses-notion-3-skate-installer)
-
-### 🍵  The Verge - The Stepback for subscribers | The Verge
-- [Why PlayStation and Xbox are no longer about the station or the box](https://www.theverge.com/column/781303/microsoft-sony-playstation-xbox-future-of-gaming-console)
+### <img src="https://www.google.com/s2/favicons?sz=32&domain=stratechery.com" width="32" height="32" />  Stratechery by Ben Thompson
+- [Nvidia and Intel, Tan’s Earnings Call Negotiation, Deal Specifics](https://stratechery.com/2025/nvidia-and-intel-tans-earnings-call-negotiation-deal-specifics/)
 
 ### <img src="https://www.google.com/s2/favicons?sz=32&domain=simonwillison.net" width="32" height="32" />  Simon Willison's Weblog
-- [llm-openrouter 0.5](https://simonwillison.net/2025/Sep/21/llm-openrouter/#atom-everything)
-- [Grok 4 Fast](https://simonwillison.net/2025/Sep/20/grok-4-fast/#atom-everything)
+- [Locally AI](https://simonwillison.net/2025/Sep/21/locally-ai/#atom-everything)
 
 ### <img src="https://www.google.com/s2/favicons?sz=32&domain=feeds.kottke.org" width="32" height="32" />  kottke.org
-- [I’m usually pretty go-with-the-flow as far as OS updates go, but iOS... ](https://kottke.org/25/09/0047552-im-usually-pretty-go-with)
+- [It’s Decorative Gourd Season, Motherfuckers. “It’s fall, fuckfaces. You’re either ready to... ](https://kottke.org/25/09/0047553-its-decorative-gourd-seas)
 
 ### <img src="https://www.google.com/s2/favicons?sz=32&domain=www.rogerebert.com" width="32" height="32" />  Reviews – Roger Ebert
-- [Shelby Oaks](https://www.rogerebert.com/reviews/shelby-oaks-chris-stuckmann-fantastic-fest-movie-review-2025)
-- [V/H/S/HALLOWEEN](https://www.rogerebert.com/reviews/vhs-halloween-fantastic-fest-movie-review-2025)
-- [Doin’ It](https://www.rogerebert.com/reviews/doin-it-lilly-singh-movie-review-2025)
+- [Beast of War](https://www.rogerebert.com/reviews/beast-of-war-movie-review-2025)
+- [The Strangers: Chapter 2](https://www.rogerebert.com/reviews/the-strangers-chapter-2-movie-review-2025)
+- [Black Phone 2](https://www.rogerebert.com/reviews/black-phone-2-movie-review-2025)
 
 ### <img src="https://www.google.com/s2/favicons?sz=32&domain=dailyhive.com" width="32" height="32" />  Daily Hive
-- [Ways Canadians will get money from the government in October](https://dailyhive.com/vancouver/government-money-october-2025)
-- [Celebrate an ongoing tradition with the Mid-Autumn Festival in Richmond, BC](https://dailyhive.com/vancouver/mid-autumn-festival-richmond-bc)
-- [33-storey rental housing tower proposed for Commercial-Broadway SkyTrain station](https://dailyhive.com/vancouver/1926-1978-east-broadway-vancouver-rental-housing-tower-third-space-properties)
-- [Here's how the Toronto Blue Jays can clinch a playoff spot tonight after worst loss in 25 years](https://dailyhive.com/vancouver/blue-jays-clinch-playoff-spot-worst-loss-25-years)
-- [Dog-friendly things to do in and around Vancouver this fall](https://dailyhive.com/vancouver/dog-friendly-fall-vancouver)
-- [These are Vancouver's most iconic dishes; according to our readers](https://dailyhive.com/vancouver/iconic-vancouver-dishes)
+- [Toronto Blue Jays celebrate playoff berth with champagne-popping clubhouse party](https://dailyhive.com/vancouver/blue-jays-celebrate-playoff-berth-champagne-clubhouse-party)
+- [20 fantastic things to do in Vancouver this week: Sept. 22 to 28](https://dailyhive.com/vancouver/vancouver-events-september-22-28)
+- [Vancouver Whitecaps set new all-time MLS club record](https://dailyhive.com/vancouver/whitecaps-set-mls-club-record)
+- [BC Ferries cancels more Horseshoe Bay–Langdale sailings](https://dailyhive.com/vancouver/bc-ferries-horseshoe-bay-langdale-cancellations-sept-21-2025)
+- [Hidden gem B.C. spot named one of world's best adventures](https://dailyhive.com/vancouver/bc-spot-worlds-best-adventures)
+- [Opinion: B.C. needs to do more than ban exotic cats](https://dailyhive.com/vancouver/bc-ban-exotic-cats-regulations)
+- [Pepper shaker and other belongings come between B.C. roommates in legal fight](https://dailyhive.com/vancouver/bc-roommates-legal-fight-pepper-shaker)
+- [Police in Metro Vancouver warn of recent scam spoofing locals with tricky tactics](https://dailyhive.com/vancouver/metro-vancouver-police-spoofing-scam)
