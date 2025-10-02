@@ -1,81 +1,83 @@
 
 ### 🍵  The Verge - Full RSS for subscribers | The Verge
-- [Ubisoft launches Vantage Studios subsidiary to develop its biggest franchises](https://www.theverge.com/games/789721/ubisoft-vantage-studios-subsidiary-assassins-creed-far-cry)
-- [Spotify now lets you exclude specific songs from your algorithm](https://www.theverge.com/news/789717/spotify-exclude-songs-taste-profile-algorithm)
-- [Sony’s updated PS5 Slim launches with less storage in Europe](https://www.theverge.com/news/789686/sony-digital-ps5-slim-less-storage-europe)
-- [Samsung teams up with OpenAI to deliver Stargate chips](https://www.theverge.com/news/789687/openai-samsung-stargate-chips)
-- [Netflix’s latest Frankenstein trailer is all about the creature](https://www.theverge.com/news/788304/netflix-frankenstein-trailer-monster-del-toro-jacob-elordi)
-- [Amazon’s ‘all-new’ Luna streams party games and Snoop Dogg](https://www.theverge.com/news/789658/amazon-luna-cloud-relaunch-gamenight-social-gaming)
-- [Google’s new Nest cams are designed for Gemini](https://www.theverge.com/news/789412/new-nest-cams-nest-doorbell-launch-price-specs-release-date)
-- [Meta will soon use your AI chats to personalize your feeds](https://www.theverge.com/news/789168/meta-ai-chats-personalized-advertising)
-- [Philips’ new Roku TVs come with their own immersive backlights](https://www.theverge.com/news/788962/philips-roku-ambilight-lcd-tv-backlights-bias-lighting)
-- [Hey Google, meet Gemini: the new voice of your smart home](https://www.theverge.com/tech/788102/gemini-for-home-new-google-assistant-launch-date-price-features)
-- [Hands-on with the new Google Home Speaker coming next year](https://www.theverge.com/tech/788085/hands-on-google-home-speaker)
-- [Walmart’s Onn cameras were developed with Google and start at just $23](https://www.theverge.com/news/787179/walmart-onn-indoor-camera-video-doorbell-google-home)
-- [Ray-Ban Meta Gen 2 review: all-day smart glasses with the same tricky questions](https://www.theverge.com/tech/787680/ray-ban-meta-gen-2-review-smart-glasses)
-- [Keychron made the first almost entirely ceramic keyboard](https://www.theverge.com/news/789538/keychron-q16he-fully-ceramic-mechanical-keyboard)
-- [Allowing more tailpipe pollution means higher fuel costs for Americans](https://www.theverge.com/news/789136/ev-fuel-costs-poll-greenhouse-gas-endangerment-repeal)
-- [OpenAI made a TikTok for deepfakes, and it’s getting hard to tell what’s real](https://www.theverge.com/ai-artificial-intelligence/789126/openai-made-a-tiktok-for-deepfakes-and-its-getting-hard-to-tell-whats-real)
-- [Oura adds colorful ceramic rings and charging case to lineup](https://www.theverge.com/news/787210/oura-ring-ceramic-charging-case-price-specs)
-- [Apple asks judge to toss Musk’s lawsuit over ChatGPT on iPhone](https://www.theverge.com/news/789562/apple-openai-elon-musk-antitrust-lawsuit-response)
-- [Peloton increases fees and introduces new hardware including a $6,695 treadmill](https://www.theverge.com/tech/789282/peloton-cross-training-series-hands-on-peloton-iq-ai-fitness)
-- [Brompton’s versatile Electric G folding e-bike is now available in the US](https://www.theverge.com/news/789491/bromptons-versatile-electric-g-folding-e-bike-is-now-available-in-the-us)
+- [The good, the bad, and the future of AI agents](https://www.theverge.com/podcast/789772/ai-agents-anthropic-claude-sonnet-autonomous-coding)
+- [Tesla finally had a good sales quarter — it may be the last one for a while](https://www.theverge.com/news/790046/tesla-q3-2025-sales-production-delivery)
+- [Hulu isn’t going away after all — it’s going global](https://www.theverge.com/news/790403/disney-plus-hulu-integration-global-expansion-update)
+- [Super Mario Galaxy deserves more](https://www.theverge.com/games/790186/super-mario-galaxy-nintendo-switch-2)
+- [T-Mobile’s satellite service now supports Google Maps, WhatsApp, X, and more](https://www.theverge.com/news/790412/t-mobile-satellite-service-apps-x-whatsapp-google-maps)
+- [HP’s new 49-inch curved ultrawide monitor has a pop-up webcam](https://www.theverge.com/news/789795/hps-new-49-inch-curved-ultrawide-monitor-has-a-pop-up-webcam)
+- [Music’s biggest labels are weeks away from major AI licensing deals](https://www.theverge.com/news/790405/warner-universal-music-ai-deals)
+- [Trump admin adds banner attacking ‘Radical Left Democrats’ to government websites](https://www.theverge.com/news/790280/trump-admin-government-shutdown-banner-democrats)
+- [Apple sidelines lighter Vision Pro to prioritize smart glasses](https://www.theverge.com/news/790285/apple-smart-glasses-vision-pro)
+- [Amazon says its AI will let NBA fans track brand-new stats](https://www.theverge.com/news/790187/amazon-aws-ai-nba-stats)
+- [Instagram tests opening right onto Reels](https://www.theverge.com/news/790255/instagram-test-reels-home-tab)
+- [Trump’s solution for high drug prices is a discount portal called TrumpRx](https://www.theverge.com/news/790156/trump-healthcare-government-website-trumprx-pfizer)
+- [Behold: The Lego Game Boy has already been modded to play games for real](https://www.theverge.com/news/790093/lego-game-boy-natalie-the-nerd)
+- [Plenty of robot vacuums are already discounted ahead of October Prime Day](https://www.theverge.com/tech/786897/robot-vacuum-mop-early-deals-amazon-october-prime-day-2025)
+- [US government takes equity stake in one of the world’s largest lithium mines](https://www.theverge.com/news/790057/lithium-mine-us-trump-us-government-stake-thacker-pass)
+- [Adam Mosseri’s ‘we’re totally not spying on you’ video is raising a lot of questions](https://www.theverge.com/news/789991/meta-instagram-microphone-listen-ads-targeting-adam-mosseri)
+- [The UK’s war on Apple encryption is back](https://www.theverge.com/news/789985/apple-uk-revived-secret-order-encryption-backdoor)
+- [Microsoft’s Windows XP Crocs are here](https://www.theverge.com/news/789982/microsoft-windows-xp-crocs-launch)
+- [Microsoft’s new Office icons are more curvy and colorful](https://www.theverge.com/news/789533/microsoft-office-new-icons-design)
+- [Microsoft 365 Premium bundles Office and AI for the same price as ChatGPT Plus](https://www.theverge.com/news/789493/microsoft-365-premium-features-pricing)
 
 ### <img src="https://www.google.com/s2/favicons?sz=32&domain=www.theverge.com" width="32" height="32" />  Quick Posts | The Verge
-- [N64 Game Boy.](https://www.theverge.com/gadgets/789363/n64-controller-game-boy-micro-mod)
-- [Judge points out the “two elephants in the room.”](https://www.theverge.com/policy/789255/judge-points-out-the-two-elephants-in-the-room)
-- [Rival ad exchange CEO doesn’t know if he’d buy AdX.](https://www.theverge.com/policy/789252/rival-ad-exchange-ceo-doesnt-know-if-hed-buy-adx)
-- [Is Google dragging its feet to fix a bug that hurts a rival?](https://www.theverge.com/policy/788897/is-google-dragging-its-feet-to-fix-a-bug-that-hurts-a-rival)
-- [Researchers fertilized human eggs made from skin cells.](https://www.theverge.com/news/789193/human-eggs-skin-cells-research)
-- [The U.S. Equal Employment Opportunity Commission is suing Apple for religious discrimination and retaliation.](https://www.theverge.com/tech/789010/the-u-s-equal-employment-opportunity-commission-is-suing-apple-for-religious-discrimination-and-retaliation)
-- [Waymo adds YouTube Music.](https://www.theverge.com/transportation/788840/waymo-adds-youtube-music)
-- [Microsoft Excel turns 40 today.](https://www.theverge.com/news/788870/microsoft-excel-turns-40-today)
-- [A break up could plummet open web display advertising.](https://www.theverge.com/policy/788626/a-break-up-could-plummet-open-web-display-advertising)
-- [Absolum, Dotemu&#8217;s new fantasy beat &#8217;em up, is getting an animated series.](https://www.theverge.com/news/788797/absolum-dotemus-new-fantasy-beat-em-up-is-getting-an-animated-series)
-
-### 🍵  The Verge - Regulator for subscribers | The Verge
-- [TikTok, #freedom edition](https://www.theverge.com/regulator-newsletter/789100/tiktok-portland-jimmy-kimmel-regulator)
+- [“Going to the moon is simpler than going to Mars.”](https://www.theverge.com/policy/788610/going-to-the-moon-is-simpler-than-going-to-mars)
 
 ### <img src="https://www.google.com/s2/favicons?sz=32&domain=stratechery.com" width="32" height="32" />  Stratechery by Ben Thompson
-- [Sora the App, Sonnet 4.5 and the Question of Models as Processors](https://stratechery.com/2025/sora-the-app-sonnet-4-5-and-the-question-of-models-as-processors/)
+- [An Interview with Ben Bajarin About AI Infrastructure](https://stratechery.com/2025/an-interview-with-ben-bajarin-about-ai-infrastructure/)
+
+### <img src="https://www.google.com/s2/favicons?sz=32&domain=notetoself.studio" width="32" height="32" />  Note to Self
+- [Someone's ugly daughter](https://notetoself.studio/link/someones-ugly-daughter/)
+
+### <img src="https://www.google.com/s2/favicons?sz=32&domain=www.derekthompson.org" width="32" height="32" />  Derek Thompson
+- [This Is How the AI Bubble Will Pop](https://www.derekthompson.org/p/this-is-how-the-ai-bubble-will-pop)
 
 ### <img src="https://www.google.com/s2/favicons?sz=32&domain=simonwillison.net" width="32" height="32" />  Simon Willison's Weblog
-- [September monthly sponsors newsletter](https://simonwillison.net/2025/Oct/1/sponsors-only-newsletter/#atom-everything)
-- [Sora 2](https://simonwillison.net/2025/Sep/30/sora-2/#atom-everything)
-- [Designing agentic loops](https://simonwillison.net/2025/Sep/30/designing-agentic-loops/#atom-everything)
+- [Quoting Nadia Eghbal](https://simonwillison.net/2025/Oct/2/nadia-eghbal/#atom-everything)
+- [aavetis/PRarena](https://simonwillison.net/2025/Oct/1/prarena/#atom-everything)
+- [Two more Chinese pelicans](https://simonwillison.net/2025/Oct/1/two-pelicans/#atom-everything)
 
 ### <img src="https://www.google.com/s2/favicons?sz=32&domain=feeds.kottke.org" width="32" height="32" />  kottke.org
-- [Trump Has No Mandate to Destroy America. The manifestation of a Trump... ](https://kottke.org/25/10/0047624-trump-has-no-mandate-to)
-- [Five More Things I Want to Tell My White Friends. “Please understand... ](https://kottke.org/25/10/0047622-five-more-things-i-want)
-- [I really appreciated this thoughtful piece about Ta-Nehisi Coates &amp; Ezra Klein.... ](https://kottke.org/25/09/0047621-i-really-appreciated-this)
-- [12 Booker Prize 2025 nominees share their writing spots. “There are kitchen... ](https://kottke.org/25/09/0047620-12-booker-prize-2025-nomi)
-- [Na Kim, in the Abstract ](https://kottke.org/25/09/na-kim-in-the-abstract)
-- [This question from Ta-Nehisi Coates in his recent conversation with Ezra Klein... ](https://kottke.org/25/09/0047615-this-question-from-ta-neh)
-- [The Future Was Then: an Exhibition of Fascist Italian Posters ](https://kottke.org/25/09/the-future-was-then-an-exhibition-of-fascist-italian-posters)
-- [How to actually live like a local. “The thing is, nobody ever... ](https://kottke.org/25/09/0047606-how-to-actually-live-like)
-- [A long profile of Tim Berners-Lee, the inventor of the WWW. “Tim... ](https://kottke.org/25/09/0047612-a-long-profile-of-tim)
-- [Mister Rogers Visits Sesame Street (1981) ](https://kottke.org/25/09/mister-rogers-visits-sesame-street-1981)
-- [New book from Patrick Radden Keefe (Say Nothing, Empire of Pain): London... ](https://kottke.org/25/09/0047608-new-book-from-patrick-rad)
+- [Amateurs! How We Built Internet Culture and Why it Matters. “A bold,... ](https://kottke.org/25/10/0047627-amateurs-how-we-built-int)
+- [Every Click ](https://kottke.org/25/10/every-click-1)
+- [The driest desert on Earth (non-polar category) is blooming in a gorgeous... ](https://kottke.org/25/10/0047623-the-driest-desert-on-eart)
+- [From Haymarket Books, an Abolish the Border, Abolish the Police Reading List.... ](https://kottke.org/25/10/0047626-from-haymarket-books-an-a)
+- [A Loophole to Survive the End of the Universe? ](https://kottke.org/25/10/a-loophole-to-survive-the-end-of-the-universe)
+- [Anil Dash on Mariah Carey’s unreleased “Hole-inspired grunge album” called Someone’s Ugly... ](https://kottke.org/25/10/0047625-anil-dash-on-mariah-carey)
+- [Which one of these paintings of a guitar player is by Johannes... ](https://kottke.org/25/10/0047591-which-one-of-these-painti)
+- [The Age Of Innocence: Adaptation Done Right ](https://kottke.org/25/10/the-age-of-innocence-adaptation-done-right)
 
-### <img src="https://www.google.com/s2/favicons?sz=32&domain=www.slackstory.com" width="32" height="32" />  A Slack Story
-- [Boom Times, Not Boom Times](https://www.slackstory.com/p/boom-times-not-boom-times)
-
-### <img src="https://www.google.com/s2/favicons?sz=32&domain=www.notboring.co" width="32" height="32" />  Not Boring by Packy McCormick
-- [Thatch](https://www.notboring.co/p/thatch)
-
-### <img src="https://www.google.com/s2/favicons?sz=32&domain=www.platformer.news" width="32" height="32" />  Platformer
-- [OpenAI launches a social network](https://www.platformer.news/sora-2-hands-on-openai-social-network/)
+### <img src="https://www.google.com/s2/favicons?sz=32&domain=unchartedterritories.tomaspueyo.com" width="32" height="32" />  Uncharted Territories
+- [Warm Countries’ Poverty & Mountains: Responses to Your Comments](https://unchartedterritories.tomaspueyo.com/p/comments-on-warm-countries-poverty-and-mountains)
 
 ### <img src="https://www.google.com/s2/favicons?sz=32&domain=spyglass.org" width="32" height="32" />  Spyglass
-- [Signal: Falling Into Hardware 📧](https://spyglass.org/signal-falling-into-hardware/)
-- [Thoughts on New Apple Things](https://spyglass.org/iphone-17-pro-max-thoughts/)
+- [Apple Confronts the Vision Pro Mistake](https://spyglass.org/apple-vision-pro-mistake-smart-glasses/)
+- [Sora Soars](https://spyglass.org/openai-sora-2-app/)
+
+### <img src="https://www.google.com/s2/favicons?sz=32&domain=www.rogerebert.com" width="32" height="32" />  Reviews – Roger Ebert
+- [Play Dirty](https://www.rogerebert.com/reviews/play-dirty-mark-wahlberg-amazon-prime-movie-review-2025)
 
 ### <img src="https://www.google.com/s2/favicons?sz=32&domain=dailyhive.com" width="32" height="32" />  Daily Hive
-- [Vancouver Whitecaps FC get Ryan Gauld back for first-ever '604 Derby'](https://dailyhive.com/vancouver/vancouver-whitecaps-fc-gauld-canadian-championship-final)
-- [Toronto Raptors bringing special two-day pop up to Vancouver restaurant](https://dailyhive.com/vancouver/raptors-pop-up-vancouver-restaurant)
-- [Thousands to take part in 'mass march' for BCGEU workers in downtown Vancouver](https://dailyhive.com/vancouver/vancouver-march-bcgeu-striking-workers)
-- [Former Vancouver Grizzlies player Lawrence Moten dead at 53](https://dailyhive.com/vancouver/former-vancouver-grizzlies-player-lawrence-moten-dead-at-53)
-- [Canadians are being shut out from buying Toronto Blue Jays playoff tickets in New York](https://dailyhive.com/vancouver/canadians-shut-out-buying-blue-jays-play-tickets-new-york)
-- [Toronto Blue Jays ALDS playoff ticket prices are skyrocketing](https://dailyhive.com/vancouver/blue-jays-alds-playoff-ticket-prices)
-- [26 of the biggest Vancouver restaurant closures this summer](https://dailyhive.com/vancouver/vancouver-restaurant-closures-summer-2025)
-- [Metro Vancouver dog parks that look magical in fall leaves](https://dailyhive.com/vancouver/metro-vancouver-dog-parks-fall-leaves)
+- [10 amazing Vancouver theatre and arts events happening in October](https://dailyhive.com/vancouver/vancouver-theatre-arts-events-october)
+- ['Vancouver’s largest candy, ice cream, and sweets shop' has closed its doors](https://dailyhive.com/vancouver/yum-sweet-shop-closed)
+- [Balling dog returns as 'Air Bud' sequel begins filming in Vancouver](https://dailyhive.com/vancouver/air-bud-sequel-vancouver-production)
+- [Food prices remain above general rate of inflation, according to recent Loblaw report](https://dailyhive.com/vancouver/food-inflation-canada-2025)
+- ["Going away for a while": Pop sensation cancels Vancouver concert](https://dailyhive.com/vancouver/lola-young-vancouver-concert-cancelled)
+- [Canadian airline launches first transborder flight from Vancouver to sunny U.S. spot](https://dailyhive.com/vancouver/vancouver-transborder-flight-us-spot)
+- [More than 40 fun and fantastic things to do in Vancouver in October](https://dailyhive.com/vancouver/vancouver-events-october-2025)
+- [Canadians could be part of a class-action lawsuit filed against Wealthsimple](https://dailyhive.com/vancouver/wealthsimple-class-action-lawsuit)
+- [The Dallas Mavericks have landed in Vancouver and here's what they're up to](https://dailyhive.com/vancouver/dallas-mavericks-in-vancouver-this-week-training-camp)
+- ['Breathtaking' West Vancouver home sold for less than 2014 purchase price](https://dailyhive.com/vancouver/west-vancouver-home-sold-purchase-price-1460-chartwell)
+- [These are just 5 reasons to stock up on Girl Guide cookies](https://dailyhive.com/vancouver/fall-girl-guide-cookies)
+- [Much-loved Vancouver cafe to expand with new coffee lab and roastery location](https://dailyhive.com/vancouver/oide-coffee-lab-vancouver)
+- [Vancouver's new pro women's hockey team reveals date for first-ever game](https://dailyhive.com/vancouver/pwhl-vancouver-revealed-first-game-schedule)
+- [Mass march could lead to messy traffic in downtown Vancouver today](https://dailyhive.com/vancouver/vancouver-traffic-bcgeu-march-oct-1)
+- [Daniel Caesar surprise concert leads to traffic chaos in Vancouver](https://dailyhive.com/vancouver/daniel-caesar-surprise-concert-vancouver)
+- [Thunder is in the Vancouver forecast ahead of a weekend weather shift](https://dailyhive.com/vancouver/vancouver-weather-thunder-oct-2025)
+
+### <img src="https://www.google.com/s2/favicons?sz=32&domain=obsidian.md" width="32" height="32" />  Obsidian Changelog
+- [Obsidian 1.9.14 Mobile (Public)](https://obsidian.md/changelog/2025-10-01-mobile-v1.9.14/)
+- [Obsidian 1.10.0 Mobile (Early access)](https://obsidian.md/changelog/2025-10-01-mobile-v1.10.0/)
+- [Obsidian 1.9.14 Desktop (Public)](https://obsidian.md/changelog/2025-10-01-desktop-v1.9.14/)
+- [Obsidian 1.10.0 Desktop (Early access)](https://obsidian.md/changelog/2025-10-01-desktop-v1.10.0/)
