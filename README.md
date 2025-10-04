@@ -1,106 +1,68 @@
 
 ### 🍵  The Verge - Full RSS for subscribers | The Verge
-- [The real price of a free TV](https://www.theverge.com/podcast/791253/telly-free-tv-ads-amazon-echo-vergecast)
-- [I tried Amazon and Google’s new smart home gadgets, ask me anything!](https://www.theverge.com/tech/790817/amazon-alexa-show-google-gemini-nest-hands-on-ama)
-- [Japan’s most popular beer is running low after cyberattack](https://www.theverge.com/news/791192/asahi-beer-cyberattack-systems-outage)
-- [Apple pulls ICEBlock from the App Store](https://www.theverge.com/news/791170/iceblock-app-store-removed-by-apple)
-- [NBCUniversal’s new YouTube TV deal covers YouTube, Peacock, and a new sports network](https://www.theverge.com/news/791124/youtube-tv-nbc-universal-peacock-nbcsn)
-- [Redbox’s next product may be piracy lawsuits](https://www.theverge.com/tech/791013/redbox-chicken-soup-piracy-lawsuits-ip-sale-grove-street)
-- [Here’s how to get Xbox Game Pass Ultimate at the old price](https://www.theverge.com/tech/791012/xbox-pc-game-pass-ultimate-how-to-get-old-price)
-- [Shein is opening its first physical stores](https://www.theverge.com/news/791000/shein-france-physical-store-chinese-ecommerce-fast-fashion)
-- [Ring’s new Search Party feature is on by default; should you opt out?](https://www.theverge.com/news/790928/ring-search-party-cameras-default-opt-out)
-- [Google is destroying independent websites, and one sees no choice but to defend it anyway](https://www.theverge.com/tech/790711/google-doj-ad-tech-remedies-wikihow-open-web)
-- [Strava sues Garmin over alleged patent infringement](https://www.theverge.com/news/790922/strava-garmin-patent-infringement-lawsuit)
-- [It’s your last chance to snag the Xbox Series S and X at its current price before they rise tomorrow](https://www.theverge.com/tech/790768/xbox-series-x-s-kirby-air-riders-deal-sale)
-- [Amazon now lets Prime members add items to completed orders](https://www.theverge.com/news/790703/amazon-prime-add-to-deliver-mobile-app-online-store)
-- [Elon Musk is leading a pressure campaign to make Netflix un-woke](https://www.theverge.com/news/790740/elon-musk-netflix-pressure-campaign-woke)
-- [Threads adds communities to put your interests front and center](https://www.theverge.com/news/790436/threads-communities-topics-launch)
-- [Perplexity’s Comet browser is now available to everyone for free](https://www.theverge.com/news/790419/perplexity-comet-available-everyone-free)
-- [The smart glasses race is really on now](https://www.theverge.com/news/790697/smart-glasses-race-apple-meta-ray-ban-display)
-- [Welcome to the Xbox $360 era](https://www.theverge.com/tech/790658/microsoft-xbox-game-pass-console-price-hikes-notepad)
-- [Amazon’s Vega OS launch trick: cloud-streamed apps](https://www.theverge.com/column/790144/amazons-vega-os-streaming-cloud)
+- [Breaking up (Google) is hard to do](https://www.theverge.com/policy/792055/google-doj-ad-tech-remedies-trial-defense)
+- [Consume Me is a raw and funny memoir in video game form](https://www.theverge.com/games/791220/consume-me-review-steam)
+- [Acer’s latest Spin 514 is so close to Chromebook greatness](https://www.theverge.com/tech/791532/acer-chromebook-plus-spin-514-2in1-laptop-review)
+- [Oregon’s National Guard lawsuit hinges on Trump’s Truth Social posts](https://www.theverge.com/policy/792042/trump-oregon-national-guard-tro)
+- [Discord customer service data breach leaks user info and scanned photo IDs](https://www.theverge.com/news/792032/discord-customer-service-data-breach-hack)
+- [Tales from the AI hiring frenzy](https://www.theverge.com/column/791572/ai-hiring-frenzy-startup-challenges)
+- [Unity discloses a years-old security exploit and urges developers to update their games](https://www.theverge.com/news/791609/unity-security-exploit-developers-update-games)
+- [Google removes ICE-spotting app following Apple’s ICEBlock crackdown](https://www.theverge.com/news/791533/google-apple-ice-tracking-app-store-red-dot-iceblock)
+- [Amazon’s Fire TV Stick 4K is getting a new name soon](https://www.theverge.com/news/791504/amazons-fire-tv-stick-4k-is-getting-a-new-name-soon)
+- [Hori’s new Switch 2 controller lets you deactivate its home and screenshot buttons](https://www.theverge.com/news/791438/hori-wireless-horipad-turbo-nintendo-switch-2-controller)
+- [Tesla’s cheaper Model Y finally breaks cover](https://www.theverge.com/news/791414/tesla-model-y-cheap-affordable-photos-leak)
+- [I’ve fallen into Sora’s slippery slop](https://www.theverge.com/ai-artificial-intelligence/791290/openai-sora-ai-generated-video-hands-on)
+- [Trump rolled YouTube into paying for his ballroom](https://www.theverge.com/policy/791355/trump-youtube-google-antitrust-ballroom)
+- [Sony shrinks PS5 Slim storage in the US, too](https://www.theverge.com/news/791380/sony-ps5-slim-reduced-storage-2100-model-series)
+- [Hoto put a lo-fi torque display on its new cordless screwdriver](https://www.theverge.com/news/791260/hoto-pixeldrive-cordless-screwdriver-display)
+- [Kodak launches Kodacolor 100 and 200 to feed the film resurgence](https://www.theverge.com/news/791251/kodak-launches-kodacolor-100-and-200-to-feed-the-film-resurgence)
+- [Microsoft is about to launch free Xbox Cloud Gaming with ads](https://www.theverge.com/report/791213/xbox-cloud-gaming-free-ad-supported-version)
+- [A bundle with Amazon’s biggest smart display and a stand just got its biggest discount](https://www.theverge.com/tech/791283/amazon-echo-show-21-jbl-tour-3-earbuds-deal-sale)
+- [The quest for every Gap store playlist ever](https://www.theverge.com/report/790802/gap-playlists-michael-bise-music-streaming-nostalgia)
+- [Tesla Cybertruck’s faulty door handles caused woman’s death, lawsuit alleges](https://www.theverge.com/news/791327/tesla-cybertruck-faulty-door-handles-wrongful-death-lawsuit)
 
 ### <img src="https://www.google.com/s2/favicons?sz=32&domain=www.theverge.com" width="32" height="32" />  Quick Posts | The Verge
-- [Amazon resumes drone deliveries in Arizona following two crashes.](https://www.theverge.com/news/791229/amazon-prime-air-delivery-drone-arizona-resume-crane-crash)
-- [It&#8217;s Bandcamp Friday, and you know what that means&#8230;](https://www.theverge.com/entertainment/791207/its-bandcamp-friday-and-you-know-what-that-means)
-- [Sora&#8217;s soarin&#8217;.](https://www.theverge.com/news/791188/soras-soarin)
-- [Meta&#8217;s new smart glasses with a display are pretty much sold out.](https://www.theverge.com/news/791149/metas-new-smart-glasses-with-a-display-are-pretty-much-sold-out)
-- [It&#8217;s even easier for Google&#8217;s AI agent to code for you.](https://www.theverge.com/news/790948/its-even-easier-for-googles-ai-agent-to-code-for-you)
-- [Gmail&#8217;s end-to-end encryption for organizations now works across email providers.](https://www.theverge.com/news/791066/gmails-end-to-end-encryption-for-organizations-now-works-across-email-providers)
-- [Epic&#8217;s web shops that let developers sell in-game items are available now.](https://www.theverge.com/news/791061/epics-web-shops-for-developers-to-sell-in-game-items-are-available-now)
-- [Electricity costs are up to 267 percent higher than they used to be in communities near data centers.](https://www.theverge.com/news/790688/electricity-bills-rise-data-centers)
-- [Should remedies remove Google’s monopoly power?](https://www.theverge.com/policy/790681/should-remedies-remove-googles-monopoly-power)
-- [Pocket Casts turns off the ads for people who paid for old versions.](https://www.theverge.com/news/790835/pocket-casts-turns-off-the-ads-for-people-who-paid-for-old-versions)
-
-### 🍵  The Verge - Optimizer for subscribers | The Verge
-- [With a Friend like this, who needs enemies?](https://www.theverge.com/column/791010/optimizer-friend-ai-companion-wearables)
-
-### 🍵  The Verge - Notepad for subscribers | The Verge
-- [Welcome to the Xbox $360 era](https://www.theverge.com/tech/790658/microsoft-xbox-game-pass-console-price-hikes-notepad)
-
-### <img src="https://www.google.com/s2/favicons?sz=32&domain=stratechery.com" width="32" height="32" />  Stratechery by Ben Thompson
-- [2025.40: The AI Slop Era Arrives](https://stratechery.com/2025/the-ai-slop-era-arrives/)
+- [Grok is looking for a human &#8220;tutor&#8221; on how to make video games.](https://www.theverge.com/news/790709/grok-is-looking-for-a-human-tutor-on-how-to-make-video-games)
+- [Kickstarter workers are on strike.](https://www.theverge.com/news/790713/kickstarter-workers-are-on-strike)
 
 ### <img src="https://www.google.com/s2/favicons?sz=32&domain=simonwillison.net" width="32" height="32" />  Simon Willison's Weblog
-- [Sora 2 prompt injection](https://simonwillison.net/2025/Oct/3/cameo-prompt-injections/#atom-everything)
-- [Daniel Stenberg's note on AI assisted curl bug reports](https://simonwillison.net/2025/Oct/2/curl/#atom-everything)
+- [Litestream v0.5.0 is Here](https://simonwillison.net/2025/Oct/3/litestream/#atom-everything)
 
 ### <img src="https://www.google.com/s2/favicons?sz=32&domain=feeds.kottke.org" width="32" height="32" />  kottke.org
-- [When Kittens Came to My Prison, I Had Not Petted One in... ](https://kottke.org/25/10/0047638-when-kittens-came-to-my)
-- [A Chronology of All 113 Prints of Hokusai’s The Great Wave ](https://kottke.org/25/10/a-chronology-of-all-113-prints-of-hokusais-the-great-wave)
-- [Are you ok? In a recent video, Hank Green tells his brother... ](https://kottke.org/25/10/0047635-are-you-ok-in-a)
-- [Quentin Blake: How I Draw ](https://kottke.org/25/10/quentin-blake-how-i-draw)
-- [The official number of exoplanets tracked by NASA has reached 6000. Astronomers... ](https://kottke.org/25/10/0047634-the-official-number-of-ex)
-- [Musician Plays the Last Stradivarius Guitar in the World, the “Sabionari” Made... ](https://kottke.org/25/10/0047630-musician-plays-the-last-s)
-- [A company called Blackdot has built a tattooing robot. The company says... ](https://kottke.org/25/10/0047604-a-company-called-blackdot)
-- [Have I Earned It? ](https://kottke.org/25/10/have-i-earned-it)
-- [A new kind of bone glue that “mimics how oysters stick to... ](https://kottke.org/25/10/0047631-a-new-kind-of-bone)
-- [25 years ago today, Radiohead released Kid A. This morning, I’m celebrating... ](https://kottke.org/25/10/0047629-25-years-ago-today-radioh)
-- [“Scientists reflect on the life and work of [Jane Goodall], whose discoveries... ](https://kottke.org/25/10/0047628-scientists-reflect-on-the)
+- [80 of the Most Iconic Guitar Intros ](https://kottke.org/25/10/80-of-the-most-iconic-guitar-intros)
+- [Name A 28-Year-Old. “The data tells us that 3,880,894 children were born... ](https://kottke.org/25/10/0047650-name-a-28-year-old-the-da)
+- [I think I’m gonna read Edith Wharton’s The Age of Innocence next,... ](https://kottke.org/25/10/0047649-i-think-im-gonna-read)
+- [Harvard Library’s collection of Soviet and post-Soviet lapel pins. Sputnik, Aeroflot, the... ](https://kottke.org/25/10/0047645-harvard-librarys-collecti)
+- [Swift Justice: A Look Inside a Taliban Courtroom ](https://kottke.org/25/10/swift-justice-a-look-inside-a-taliban-courtroom)
+- [Life Is More Than an Engineering Problem, an interview with Ted Chiang... ](https://kottke.org/25/10/0047647-life-is-more-than-an)
+- [The 25 Most Influential Magazine Covers of All Time, including, of course,... ](https://kottke.org/25/10/0047642-the-25-most-influential-m)
+- [Instead of hiding rips and tears, the visible mending movement turns them... ](https://kottke.org/25/10/0047637-instead-of-hiding-rips-an)
+- [Old Masters, New Media ](https://kottke.org/25/10/old-masters-new-media-1)
 
-### <img src="https://www.google.com/s2/favicons?sz=32&domain=www.notboring.co" width="32" height="32" />  Not Boring by Packy McCormick
-- [Weekly Dose of Optimism #164](https://www.notboring.co/p/weekly-dose-of-optimism-164)
-
-### <img src="https://www.google.com/s2/favicons?sz=32&domain=unchartedterritories.tomaspueyo.com" width="32" height="32" />  Uncharted Territories
-- [Final Comments on the Theory of Mountains & Warm Countries](https://unchartedterritories.tomaspueyo.com/p/final-comments-on-the-theory-of-mountains)
-
-### <img src="https://www.google.com/s2/favicons?sz=32&domain=www.platformer.news" width="32" height="32" />  Platformer
-- [What everyone is saying about Sora](https://www.platformer.news/sora-2-reactions-openai/)
+### <img src="https://www.google.com/s2/favicons?sz=32&domain=www.profgalloway.com" width="32" height="32" />  No Mercy / No Malice
+- [Strike](https://www.profgalloway.com/strike/)
 
 ### <img src="https://www.google.com/s2/favicons?sz=32&domain=spyglass.org" width="32" height="32" />  Spyglass
-- [Signal: Sora Break(s) 📧](https://spyglass.org/signal-sora-break-s/)
+- [Signal: The Life of a Dad 📧](https://spyglass.org/signal-the-life-of-a-dad/)
 
 ### <img src="https://www.google.com/s2/favicons?sz=32&domain=www.rogerebert.com" width="32" height="32" />  Reviews – Roger Ebert
-- [The Librarians](https://www.rogerebert.com/reviews/the-librarians-documentary-movie-review-2025)
-- [Good Boy](https://www.rogerebert.com/reviews/good-boy-dog-horror-movie-review-2025)
-- [The Alabama Solution](https://www.rogerebert.com/reviews/the-alabama-solution-documentary-film-review-2025)
-- [Killing Faith](https://www.rogerebert.com/reviews/killing-faith-guy-pearce-movie-review-2025)
-- [The Road Between Us: The Ultimate Rescue](https://www.rogerebert.com/reviews/the-road-between-us-documentary-review-2025)
-- [Shell](https://www.rogerebert.com/reviews/shell-elizabeth-moss-kate-hudson-movie-review-2025)
-- [The Ice Tower](https://www.rogerebert.com/reviews/the-ice-tower-film-review-2025)
-
-### <img src="https://news.ycombinator.com/favicon.ico" width="32" height="32" />  Hacker Newsletter
-- [Hacker Newsletter #765](https://buttondown.com/hacker-newsletter/archive/hacker-newsletter-765/)
+- [Are We Good?](https://www.rogerebert.com/reviews/are-we-good-marc-maron-documentary-film-review-2025)
+- [Bone Lake](https://www.rogerebert.com/reviews/bone-lake-horror-movie-review-2025)
 
 ### <img src="https://www.google.com/s2/favicons?sz=32&domain=dailyhive.com" width="32" height="32" />  Daily Hive
-- [Michelin Vancouver: 2025 star and restaurant distinctions revealed](https://dailyhive.com/vancouver/michelin-vancouver-guide-2025)
-- [Downtown Vancouver is getting a restaurant dedicated to Japanese rice balls](https://dailyhive.com/vancouver/onigiri-ya-vancouver-2025)
-- [Vancouver record store owner gets ‘private concert’ from Paul McCartney](https://dailyhive.com/vancouver/paul-mccartney-vancouver-record-store)
-- [Vancouver culinary celebration with unlimited tastings returns next month](https://dailyhive.com/vancouver/yes-shef-vancouver)
-- [FIFA World Cup ticket prices revealed and here's how much they cost in Canada](https://dailyhive.com/vancouver/fifa-world-cup-ticket-prices-canada)
-- [10 terrifying haunted houses and ghost tours in Vancouver this Halloween](https://dailyhive.com/vancouver/halloween-haunted-houses-ghost-tours-vancouver)
-- [Renter beware: Reasons you could face eviction in Vancouver](https://dailyhive.com/vancouver/vancouver-eviction-reasons-2025)
-- [Vancouver Police Department is hiring and you could make over $85K to start](https://dailyhive.com/vancouver/vpd-jobs-hiring-officers)
-- [More Vancouver Symphony Orchestra shows cancelled as strike continues](https://dailyhive.com/vancouver/vancouver-symphony-orchestra-strike-shows-cancelled)
-- [Canada is using AI to speed up immigration applications — but it comes at a cost, experts warn](https://dailyhive.com/vancouver/ircc-application-processing-technology)
-- [Airbnb says Vancouver's reputation is at risk due to lack of FIFA accommodations](https://dailyhive.com/vancouver/airbnb-vancouver-fifa-world-cup-hotels)
-- [Vancouver Whitecaps FC hosting huge Oktoberfest street party this weekend](https://dailyhive.com/vancouver/whitecaps-oktoberfest-street-party)
-- [Amazon is hiring over 7,000 seasonal roles and they're going fast](https://dailyhive.com/vancouver/amazon-canada-hiring-oct-2025)
-- [Raptors game in Vancouver virtually sold out and resale ticket prices are soaring](https://dailyhive.com/vancouver/raptors-game-vancouver-sold-out-resale-ticket-prices-soaring)
-- [Thomas Müller sets astonishing record during historic night for Vancouver Whitecaps](https://dailyhive.com/vancouver/thomas-muller-sets-record-historic-night-whitecaps)
-- [Canada issues serious warning in update to U.S. travel advisory](https://dailyhive.com/vancouver/canada-us-travel-advisory-oct-2025)
-
-### <img src="https://www.google.com/s2/favicons?sz=32&domain=scoutmagazine.ca" width="32" height="32" />  Scout Magazine
-- [Miku Launches New Fall Kaiseki Menu with Special Arita Ware Presentation](https://scoutmagazine.ca/miku-launches-new-fall-kaiseki-menu-with-special-arita-ware-presentation/)
-- [‘Three Cheers’ to Kaitlyn Stewart on Her New Cocktail Book](https://scoutmagazine.ca/three-cheers-to-kaitlyn-stewart-on-her-new-cocktail-book/)
-- [The Scout List, Vol. 637](https://scoutmagazine.ca/the-scout-list-vol-637/)
+- [Here's what time you can catch every Toronto Blue Jays playoff game against the Yankees](https://dailyhive.com/vancouver/time-each-blue-jays-playoff-game-against-yankees-starts)
+- [Over 20,000 B.C. healthcare workers set to join ongoing BCGEU strike](https://dailyhive.com/vancouver/bcgeu-strike-bc-healthcare-workers)
+- [White Rock home sells for $11.4M in a rare feat for the region](https://dailyhive.com/vancouver/white-rock-home-13790-marine-dr)
+- [FIFA World Cup resale tickets going for wild prices with big fees attached](https://dailyhive.com/vancouver/fifa-world-cup-tickets-resale)
+- [Measles symptoms Canadians should watch for amid rising cases](https://dailyhive.com/vancouver/measles-symptoms-canada-cases)
+- [The best deals to check out on Amazon Canada Prime Big Deal Days](https://dailyhive.com/vancouver/amazon-canada-prime-big-deal-days-oct-2025)
+- [More than 20 free and cheap things to do in Vancouver this October](https://dailyhive.com/vancouver/vancouver-free-cheap-events-october-2025)
+- [The feds want Canadians to avoid all travel to these destinations — here's why](https://dailyhive.com/vancouver/canada-travel-advisory-avoid-countries)
+- ['RIP Ruby': Beloved Science World spider ambassador has died](https://dailyhive.com/vancouver/science-world-ruby-tarantula-died)
+- [Major Metro Vancouver road closures coming thanks to aging water main](https://dailyhive.com/vancouver/metro-vancouver-burnaby-road-closures-water-main)
+- [8 must-try foods in B.C.'s growing tourist destination Campbell River](https://dailyhive.com/vancouver/campbell-river-food)
+- [Three Vancouver restaurants have just joined the Michelin Mile](https://dailyhive.com/vancouver/michelin-mile-vancouver-2025)
+- [Four-hour armed confrontation in Metro Vancouver park ends peacefully](https://dailyhive.com/vancouver/metro-vancouver-park-confrontation)
+- [B.C. residents' boycott of U.S. travel shows no sign of slowing down](https://dailyhive.com/vancouver/bc-residents-boycott-us-travel)
+- [‘It’s a lake now’: River District residents concerned after cancelled Ardea project](https://dailyhive.com/vancouver/vancouver-river-district-wesgroup-ardea-project)
+- [Man discovered with stab wounds in downtown New West, suspect on the loose](https://dailyhive.com/vancouver/new-west-attack)
