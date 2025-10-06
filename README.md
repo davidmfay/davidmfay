@@ -1,51 +1,44 @@
 
 ### 🍵  The Verge - Full RSS for subscribers | The Verge
-- [The developers behind a hit sausage-dueling game hope Steam launch will take it furter](https://www.theverge.com/entertainment/791353/sausage-legend-steam-launch-interview)
-- [Version History is live — here’s how to find it](https://www.theverge.com/podcast/792339/version-history-podcast-hoverboards)
-- [The best lists to keep — and the best ways to keep them](https://www.theverge.com/tech/791905/best-lists-apps-to-do-shopping-installer)
-- [Can tap-to-pay save public transportation?](https://www.theverge.com/column/789127/tap-to-pay-public-transportation)
-- [This week’s best deal is a ‘kids’ Kindle Paperwhite that’s better than the adult version](https://www.theverge.com/tech/791728/kindle-paperwhite-kids-sonos-era-100-deal-sale)
-- [Daniel Ek stepping down changes nothing for Spotify](https://www.theverge.com/report/791593/daniel-ek-stepping-down-changes-nothing-for-artists-boycotting-spotify)
-- [Ecovacs’ Deebot X8 and X9 Pro Omni robovacs have hit a new low price](https://www.theverge.com/tech/791106/ecovacs-deebot-x8-x9-pro-omni-robot-vacuum-prime-day-deal-sale)
-- [Tilly Norwood is a gen AI psyop](https://www.theverge.com/ai-artificial-intelligence/791680/tilly-norwood-particle6-xicoia-eline-van-der-velden)
-- [Instagram wants me to make content — I just want to post a photo](https://www.theverge.com/tech/791595/instagram-uploading-features-content)
+- [Logitech’s new MX Master 4 wireless mouse is already $30 off](https://www.theverge.com/tech/792702/logitech-mx-master-4-deal-sale)
+- [Fictional characters are (officially) coming to Sora as OpenAI manages copyright chaos](https://www.theverge.com/news/792661/sora-fictional-copyright-characters)
+- [AMD teams up with OpenAI to challenge Nvidia’s AI chip dominance](https://www.theverge.com/news/792650/amd-openai-five-year-ai-chip-agreement)
+- [Sora provides better control over videos featuring your AI self](https://www.theverge.com/news/792638/sora-provides-better-control-over-videos-featuring-your-ai-self)
+- [This Steam Deck rival dares you to embrace the cord](https://www.theverge.com/games/791460/gpd-win-5-corded-handhelds)
+- [Sam Altman and Jony Ive’s secret device won’t be ‘your weird AI girlfriend’](https://www.theverge.com/news/792635/openai-jony-ive-ai-device-voice-personality-issues)
+- [Jane Goodall’s death triggered the premiere of Netflix’s new show](https://www.theverge.com/news/792477/jane-goodall-netflix-famous-last-words)
+- [If you can get past the terrible logo, Audacity 4 looks pretty great](https://www.theverge.com/news/792368/if-you-can-get-past-the-terrible-logo-audacity-4-looks-pretty-great)
+- [Roland is finally honoring its legacy instead of just cashing in on it](https://www.theverge.com/entertainment/792209/roland-is-finally-honoring-its-legacy-instead-of-just-cashing-in-tr-1000)
+- [I’ve tested the latest Switch 2 controllers, and this one is the best](https://www.theverge.com/tech/791574/best-switch-2-controllers)
 
 ### <img src="https://www.google.com/s2/favicons?sz=32&domain=www.theverge.com" width="32" height="32" />  Quick Posts | The Verge
-- [Ecobee quietly cut off Smart Security&#8217;s Homekit integration.](https://www.theverge.com/news/792354/ecobee-quietly-cut-off-smart-securitys-homekit-integration)
-- [ICE is taking bids to build a 24/7 social media police state](https://www.theverge.com/news/792145/ice-is-taking-bids-to-build-a-24-7-social-media-police-state)
-- [DOJ will continue its rebuttal on Monday.](https://www.theverge.com/policy/791462/doj-will-continue-its-rebuttal-on-monday)
-- [OpenAI buys into personal investing.](https://www.theverge.com/ai-artificial-intelligence/791819/openai-buys-into-personal-investing)
-- [Trump’s mobilization of Oregon’s National Guard hinges on Truth Social posts.](https://www.theverge.com/policy/791555/trumps-mobilization-of-oregons-national-guard-hinges-on-truth-social-posts)
-- [Google’s anticompetitive behavior “was always a moving target.”](https://www.theverge.com/policy/790850/googles-anticompetitive-behavior-was-always-a-moving-target)
-- [Merriam-Webster has a cute word game to add to your rotation.](https://www.theverge.com/news/791416/merriam-webster-has-a-cute-word-game-to-add-to-your-rotation)
-- [Catch me on The Daily Show.](https://www.theverge.com/entertainment/791406/catch-me-on-the-daily-show)
-- [&#8220;Now with folders.&#8221;](https://www.theverge.com/games/791399/now-with-folders)
-- [I’m hosting a smart home AMA on the site today.](https://www.theverge.com/tech/791210/im-hosting-a-smart-home-ama-on-the-site-today)
+- [Gen Z is rebelling against the algorithm by embracing college radio.](https://www.theverge.com/news/792444/gen-z-is-rebelling-against-the-algorithm-by-embracing-college-radio)
 
-### 🍵  The Verge - Installer for subscribers | The Verge
-- [The best lists to keep — and the best ways to keep them](https://www.theverge.com/tech/791905/best-lists-apps-to-do-shopping-installer)
-
-### 🍵  The Verge - The Stepback for subscribers | The Verge
-- [Can tap-to-pay save public transportation?](https://www.theverge.com/column/789127/tap-to-pay-public-transportation)
-
-### <img src="https://www.google.com/s2/favicons?sz=32&domain=www.derekthompson.org" width="32" height="32" />  Derek Thompson
-- [Self-Driving Cars Are Miracle Drugs. (Plus: Is the Youth Cancer Epidemic a Myth?)](https://www.derekthompson.org/p/self-driving-cars-are-miracle-drugs)
+### <img src="https://www.google.com/s2/favicons?sz=32&domain=stratechery.com" width="32" height="32" />  Stratechery by Ben Thompson
+- [Sora, AI Bicycles, and Meta Disruption](https://stratechery.com/2025/sora-ai-bicycles-and-meta-disruption/)
 
 ### <img src="https://www.google.com/s2/favicons?sz=32&domain=simonwillison.net" width="32" height="32" />  Simon Willison's Weblog
-- [Let the LLM Write the Prompts: An Intro to DSPy in Compound Al Pipelines](https://simonwillison.net/2025/Oct/4/drew-on-dspy/#atom-everything)
+- [Bad bots](https://simonwillison.net/2025/Oct/6/bad-bots/#atom-everything)
+- [Embracing the parallel coding agent lifestyle](https://simonwillison.net/2025/Oct/5/parallel-coding-agents/#atom-everything)
 
 ### <img src="https://www.google.com/s2/favicons?sz=32&domain=feeds.kottke.org" width="32" height="32" />  kottke.org
-- [Keeping Up Appearances star Patricia Routledge dies at 96. I loved that... ](https://kottke.org/25/10/0047652-keeping-up-appearances-st)
+- [Oh I don’t know, the appearance of two perfectly overlapping fiery rings... ](https://kottke.org/25/10/0047654-oh-i-dont-know-the)
+- [We Are Not Fascists, and If You Call Us Fascists, We Will... ](https://kottke.org/25/10/0047653-we-are-not-fascists-and)
+
+### <img src="https://www.google.com/s2/favicons?sz=32&domain=spyglass.org" width="32" height="32" />  Spyglass
+- [OpenAI's Digital Assistant Device](https://spyglass.org/openai-digital-assistant-device-jony-ive/)
+- [Sora’s Slop Hits Different](https://spyglass.org/soras-slop-hits-different/)
+
+### <img src="https://www.google.com/s2/favicons?sz=32&domain=www.rogerebert.com" width="32" height="32" />  Reviews – Roger Ebert
+- [Monster: The Ed Gein Story](https://www.rogerebert.com/reviews/monster-the-ed-gein-story-tv-review-2025)
 
 ### <img src="https://www.google.com/s2/favicons?sz=32&domain=dailyhive.com" width="32" height="32" />  Daily Hive
-- [What Vladimir Guerrero Jr. said after Toronto Blue Jays blowout playoff win over the Yankees](https://dailyhive.com/vancouver/vladimir-guerrero-jr-blue-jays-blowout-playoff-win-over-yankees)
-- [Here's what we know about the Toronto Blue Jays new home run jacket](https://dailyhive.com/vancouver/what-we-know-blue-jays-new-home-run-jacket)
-- [Whitecaps captain Ryan Gauld feeling the love from Vancouver fans after long-awaited return](https://dailyhive.com/vancouver/whitecaps-ryan-gauld-feeling-love-fans-return)
-- [Toronto Blue Jays getting disrespected by U.S. media ahead of playoff series against Yankees](https://dailyhive.com/vancouver/blue-jays-disrespected-us-media-playoff-series-against-yankees)
-- [Vancouver pilates studios worth trying this fall](https://dailyhive.com/vancouver/vancouver-pilates-studios-fall)
-- [11 of the hottest new restaurants and bars to try in and around Vancouver](https://dailyhive.com/vancouver/new-vancouver-restaurants-october-2025)
-- [Toronto Blue Jays announce surprise starting pitcher for Game 2 against Yankees](https://dailyhive.com/vancouver/blue-jays-announce-surprise-starting-pitcher-game-2-against-yankees)
-- [Metro Vancouver to enjoy sunny stretch after a drizzly start this weekend](https://dailyhive.com/vancouver/metro-vancouver-sunny-weather)
-- [Neutral places to breakup in Metro Vancouver this autumn](https://dailyhive.com/vancouver/metro-vancouver-breakup-spots)
-- [Vancouver Michelin-starred restaurants 2025, mapped](https://dailyhive.com/vancouver/vancouver-michelin-starred-restaurants-2025-mapped)
-- [Toronto Blue Jays broadcaster Buck Martinez is catching strays from Yankees manager and fans](https://dailyhive.com/vancouver/blue-jays-broadcaster-buck-martinez-catching-strays-yankees-manager-fans)
+- [Toronto Blue Jays manager Schneider explains why he pulled Yesavage amid historic playoff start](https://dailyhive.com/vancouver/schneider-yesavage-blue-jays-playoff-pull)
+- [Toronto Blue Jays fans couldn't get enough of Yesavage's high-fiving dad](https://dailyhive.com/vancouver/blue-jays-yesavage-dad-fans)
+- [6 cozy Vancouver thrift stores to shop this fall](https://dailyhive.com/vancouver/vancouver-thrift-stores-fall)
+- [Only true Vancouverites will understand these Halloween costumes](https://dailyhive.com/vancouver/vancouver-halloween-costume-ideas)
+- [20 fantastic things to do in Vancouver this week: Oct. 6 to 12](https://dailyhive.com/vancouver/vancouver-events-october-6-12)
+- [Where to go for the best Halloween dates around Metro Vancouver](https://dailyhive.com/vancouver/halloween-dates-metro-vancouver)
+- [6 amazing fall walks just outside Vancouver to explore](https://dailyhive.com/vancouver/fall-walks-near-vancouver)
+- [B.C. island park with tropical beach vibes is getting a massive $6.6 million upgrade](https://dailyhive.com/vancouver/bc-tribune-bay-provincial-park-upgrades)
+- [Over 50 Metro Vancouver employers that offer TransLink discounts](https://dailyhive.com/vancouver/metro-vancouver-employers-transit-translink-program)
