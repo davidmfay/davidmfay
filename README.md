@@ -1,78 +1,97 @@
 
 ### 🍵  The Verge - Full RSS for subscribers | The Verge
-- [Uber is turning its app into an AI training ground](https://www.theverge.com/news/799975/uber-ai-training-digital-task-driver-app)
-- [Netflix’s Frankenstein jolts the classic tale with del Toro’s signature flair](https://www.theverge.com/entertainment/800374/frankenstein-review-netflix-guillermo-del-toro)
-- [Spotify says it’s working with labels on ‘responsible’ AI music tools](https://www.theverge.com/news/800629/spotify-ai-music-sony-umg-wmg-merlin)
-- [The future of being trans on the internet](https://www.theverge.com/cs/features/777087/trans-internet-privacy-safety-anonymity-ai)
-- [Trans women are building their own publishing world, and it’s under threat](https://www.theverge.com/cs/features/799836/trans-indie-authors-self-publishing-queer-fiction)
-- [DoorDash will use Waymo’s robotaxis for delivery in Phoenix](https://www.theverge.com/news/800455/waymo-doordash-autonomous-food-delivery-phoenix)
-- [Microsoft wants you to talk to your PC and let AI control it](https://www.theverge.com/news/799768/microsoft-windows-ai-copilot-voice-vision-launch)
-- [Oppo Find X9 Pro combines 200MP telephoto with 7,500mAh battery](https://www.theverge.com/news/800600/oppo-find-x9-pro-launch-china-telephoto-extender)
-- [Honda wants you to teach its new robot lawnmower](https://www.theverge.com/news/800596/honda-prozision-autonomous-lawnmower)
-- [The DIY and IRL energy of punk rock mutual aid](https://www.theverge.com/cs/features/799722/trans-punk-rock-mutual-aid-ekko-astral)
-- [Steve Jobs will appear on commemorative $1 coin](https://www.theverge.com/news/800548/steve-jobs-commemorative-dollar-coin-us-mint)
-- [Microsoft is reportedly moving its Surface manufacturing out of China](https://www.theverge.com/news/800538/microsoft-surface-manufacturing-china-move-report)
-- [Google’s AI video generator is getting better editing and more audio](https://www.theverge.com/news/800371/google-veo-3-1-flow-audio)
-- [The MLB app’s best feature is a 30-second delay](https://www.theverge.com/tech/800279/mlb-app-baseball-notifications-delay)
-- [Here’s where you can preorder the new M5 MacBook Pro and iPad Pro](https://www.theverge.com/tech/800056/m5-macbook-pro-14-inch-ipad-pro-preorder-price-release-date-availability)
-- [The iPad just got the chip it needs to be a smart home controller — again](https://www.theverge.com/news/799911/ipad-pro-thread-smart-home-apple-home-hub)
-- [Amazon’s new name for the Fire TV Stick 4K only adds more confusion](https://www.theverge.com/news/800104/amazon-fire-tv-stick-4k-plus-new-name)
-- [‘New media’ is just right-wing media](https://www.theverge.com/column/799904/new-media-is-just-right-wing-media)
+- [Apple TV will be the only place to watch F1 in the US, starting next year](https://www.theverge.com/news/801597/apple-tv-f1-exclusive-sports-racing-streaming)
+- [CNN All Access will give streaming cable news another try, for $6.99 a month](https://www.theverge.com/news/801615/cnn-all-access-subscription-streaming-service)
+- [Redmagic 11 Pro is the first phone with liquid cooling](https://www.theverge.com/news/801581/redmagic-11-pro-china-launch-liquid-cooling-8000mah-battery)
+- [AI can’t even turn on the lights](https://www.theverge.com/podcast/801532/ai-smart-home-apple-m5-vergecast)
+- [Meta is adding more parental controls for teen AI use](https://www.theverge.com/news/801505/meta-ai-chatbot-parental-controls-instagram)
+- [Anthropic connects Claude to Microsoft Teams, Outlook, and OneDrive](https://www.theverge.com/news/801487/anthropic-claude-microsoft-365-connector-ai)
+- [AT&T is raising home internet prices for the second year in a row](https://www.theverge.com/news/801423/att-fiber-home-internet-december-2025-price-raise-hike)
+- [Why world models are the next big thing in AI](https://www.theverge.com/column/801370/ai-world-models-general-intuition-medal)
+- [MacBook Pro rumor points to OLED, touchscreen upgrades next year](https://www.theverge.com/news/801363/apple-macbook-pro-2026-rumor-oled-touchscreen)
+- [Amazon shares a ‘first look’ at new nuclear facility](https://www.theverge.com/news/801257/amazon-nuclear-energy-reactor-first-look)
+- [I just reviewed the Xbox Ally and answered your burning questions](https://www.theverge.com/games/800212/i-just-reviewed-the-xbox-ally-ask-me-anything)
+- [New York bans AI-enabled rent price fixing](https://www.theverge.com/news/801205/new-york-rent-price-fixing-ban-software)
+- [Unions are trying to stop Trump from kicking out immigrants over social media posts](https://www.theverge.com/policy/801110/eff-catch-and-revoke-visa-social-media-surveillance-lawsuit)
+- [Judge orders immigration agents in Chicago to use body cams](https://www.theverge.com/news/801112/judge-orders-chicago-ice-agents-use-body-cams)
+- [Fujifilm’s bringing instant cameras into the selfie age](https://www.theverge.com/news/801098/fujifilm-instax-mini-liplay-plus-instant-camera-selfies)
+- [Pinterest’s ‘tuner’ lets you dial down the amount of AI content — but not entirely](https://www.theverge.com/news/801093/pinterest-tuner-tool-ai-content-categories)
+- [Apple TV and Peacock announce a discounted $15 monthly subscription bundle](https://www.theverge.com/news/800928/apple-tv-peacock-premium-plus-nbcuniversal-subscription-bundle)
 
-### 🍵  The Verge - Regulator for subscribers | The Verge
-- [‘New media’ is just right-wing media](https://www.theverge.com/column/799904/new-media-is-just-right-wing-media)
+### <img src="https://www.google.com/s2/favicons?sz=32&domain=www.theverge.com" width="32" height="32" />  Quick Posts | The Verge
+- [And another one.](https://www.theverge.com/entertainment/800174/and-another-one)
+- [Spotify DJ now understands text and Spanish.](https://www.theverge.com/news/800122/spotify-dj-now-understands-text-and-spanish)
+- [Anthropic launches a new small model called Haiku 4.5.](https://www.theverge.com/news/800007/anthropic-small-model-haiku-4-5)
+- [James Cameron is back in his documentary bag.](https://www.theverge.com/entertainment/800086/james-cameron-avatar-documentary-disney-plus)
+- [Apple&#8217;s polishing cloth is M5-ready.](https://www.theverge.com/news/799974/apples-polishing-cloth-is-m5-ready)
 
-### <img src="https://www.google.com/s2/favicons?sz=32&domain=stratechery.com" width="32" height="32" />  Stratechery by Ben Thompson
-- [Walmart on ChatGPT, Walmart (and Amazon) Motivations, Spotify Podcasts on Netflix](https://stratechery.com/2025/walmart-on-chatgpt-walmart-and-amazon-motivations-spotify-podcasts-on-netflix/)
+### 🍵  The Verge - Optimizer for subscribers | The Verge
+- [These AI glasses promised to make me smarter, and all I got was Clippy for my face](https://www.theverge.com/column/801554/optimizer-halo-smart-glasses-ai-assistant)
+
+### <img src="https://www.google.com/s2/favicons?sz=32&domain=www.interconnects.ai" width="32" height="32" />  Interconnects
+- [The State of Open Models](https://www.interconnects.ai/p/state-of-open-models-2025)
 
 ### <img src="https://www.google.com/s2/favicons?sz=32&domain=notetoself.studio" width="32" height="32" />  Note to Self
-- [Three ways to spend time making things](https://notetoself.studio/quote/three-ways-to-spend-time-making-things/)
-- [Who’s driving your car](https://notetoself.studio/link/whos-driving-your-car/)
-
-### <img src="https://www.google.com/s2/favicons?sz=32&domain=www.derekthompson.org" width="32" height="32" />  Derek Thompson
-- [Why AI Is Not a Bubble*](https://www.derekthompson.org/p/why-ai-is-not-a-bubble)
+- [The Year I Left Design](https://notetoself.studio/link/the-year-i-left-design/)
 
 ### <img src="https://www.google.com/s2/favicons?sz=32&domain=simonwillison.net" width="32" height="32" />  Simon Willison's Weblog
-- [NVIDIA DGX Spark + Apple Mac Studio = 4x Faster LLM Inference with EXO 1.0](https://simonwillison.net/2025/Oct/16/nvidia-dgx-spark-apple-mac-studio/#atom-everything)
-- [Quoting Riana Pfefferkorn](https://simonwillison.net/2025/Oct/16/riana-pfefferkorn/#atom-everything)
-- [Coding without typing the code](https://simonwillison.net/2025/Oct/16/coding-without-typing-the-code/#atom-everything)
-- [Quoting Catherine Wu](https://simonwillison.net/2025/Oct/15/catherine-wu/#atom-everything)
-- [Introducing Claude Haiku 4.5](https://simonwillison.net/2025/Oct/15/claude-haiku-45/#atom-everything)
-- [Quoting Claude Haiku 4.5 System Card](https://simonwillison.net/2025/Oct/15/system-card/#atom-everything)
+- [Quoting Barry Zhang](https://simonwillison.net/2025/Oct/16/barry-zhang/#atom-everything)
+- [Claude Skills are awesome, maybe a bigger deal than MCP](https://simonwillison.net/2025/Oct/16/claude-skills/#atom-everything)
 
 ### <img src="https://www.google.com/s2/favicons?sz=32&domain=feeds.kottke.org" width="32" height="32" />  kottke.org
-- [POP Phone: a USB-C handset that you plug into your phone for... ](https://kottke.org/25/10/0047713-pop-phone-a-usb-c-handset)
-- [The Space Exploration Logo Archive ](https://kottke.org/25/10/the-space-exploration-logo-archive)
-- [“‘Take on Me’ is an ideal song for Song Exploder, because it’s... ](https://kottke.org/25/10/0047712-take-on-me-is-an)
-- [65 Essential Children’s Books, from The Story of Ferdinand and Caps for... ](https://kottke.org/25/10/0047711-65-essential-childrens-bo)
-- [Richard Feynman: Fire Is Stored Sunshine ](https://kottke.org/25/10/richard-feynman-fire-is-stored-sunshine-1)
-- [Where’s the AI design renaissance? “My hunch: vibe coding is a lot... ](https://kottke.org/25/10/0047704-wheres-the-ai-design-rena)
+- [Real Photos That Look Fake ](https://kottke.org/25/10/real-photos-that-look-fake)
+- [The Making of a Perfect Martini ](https://kottke.org/25/10/the-making-of-a-perfect-martini)
+- [Go Computer Now! – The Story of Sphere Computers. “If things had... ](https://kottke.org/25/10/0047724-go-computer-now-the)
+- [Luis Mendo is self-publishing a book about his life as a writer/artist... ](https://kottke.org/25/10/0047723-luis-mendo-is-self-publis)
+- [My first adventure of the day is going to the Shunkaen Bonsai... ](https://kottke.org/25/10/0047720-my-first-adventure-of-the)
+- [I’m hoping to post some of my photos from Japan here when... ](https://kottke.org/25/10/0047719-i-hoping-to-post-some)
+- [I stopped into the MEGA Donki (Don Quijote) in Shibuya last night... ](https://kottke.org/25/10/0047718-i-stopped-into-the-mega)
+- [An iconic Philly skate locale, Love Park, was demolished in 2016 —... ](https://kottke.org/25/10/0047717-an-iconic-philly-skate-lo)
+- [The Freedom of Enough ](https://kottke.org/25/10/the-freedom-of-enough)
+- [The 39 coolest neighbourhoods in the world in 2025, including Jimbōchō, Tokyo;... ](https://kottke.org/25/10/0047715-the-39-coolest-neighbourh)
 
-### <img src="https://www.google.com/s2/favicons?sz=32&domain=spyglass.org" width="32" height="32" />  Spyglass
-- [Apple's AI Brain Bleed](https://spyglass.org/apple-ai-talent/)
-- [Signal: An M5 Smack in the Face 📧](https://spyglass.org/signal-an-m5-smack-in-the-face/)
+### <img src="https://www.google.com/s2/favicons?sz=32&domain=www.notboring.co" width="32" height="32" />  Not Boring by Packy McCormick
+- [Weekly Dose of Optimism #166](https://www.notboring.co/p/weekly-dose-of-optimism-166)
+
+### <img src="https://www.google.com/s2/favicons?sz=32&domain=unchartedterritories.tomaspueyo.com" width="32" height="32" />  Uncharted Territories
+- [Argentina Could Be a Superpower](https://unchartedterritories.tomaspueyo.com/p/argentina-could-be-a-superpower)
+
+### <img src="https://www.google.com/s2/favicons?sz=32&domain=www.platformer.news" width="32" height="32" />  Platformer
+- [How platforms are handling the slop backlash](https://www.platformer.news/thursday-newsletter-5/)
 
 ### <img src="https://www.google.com/s2/favicons?sz=32&domain=www.rogerebert.com" width="32" height="32" />  Reviews – Roger Ebert
-- [Mr. Scorsese](https://www.rogerebert.com/reviews/mr-scorsese-apple-tv-documentary-review-2025)
+- [The Man Who Saves the World?](https://www.rogerebert.com/reviews/the-man-who-saves-the-world-documentary-film-review-2025)
+- [The Twits](https://www.rogerebert.com/reviews/the-twits-netflix-animated-movie-review-2025)
+- [Good News](https://www.rogerebert.com/reviews/good-news-korean-film-review-2025)
+- [The Astronaut](https://www.rogerebert.com/reviews/the-astronaut-kate-mara-movie-review-2025)
+- [OTHER](https://www.rogerebert.com/reviews/other-shudder-movie-review-2025)
+- [Pets on a Train](https://www.rogerebert.com/reviews/pets-on-a-train-animated-movie-review-2025)
+- [She Walks in Darkness](https://www.rogerebert.com/reviews/she-walks-in-darkness-netflix-movie-review-2025)
+- [Truth & Treason](https://www.rogerebert.com/reviews/truth-treason-angel-studios-movie-review-2025)
+
+### <img src="https://news.ycombinator.com/favicon.ico" width="32" height="32" />  Hacker Newsletter
+- [Hacker Newsletter #767](https://buttondown.com/hacker-newsletter/archive/767/)
 
 ### <img src="https://www.google.com/s2/favicons?sz=32&domain=dailyhive.com" width="32" height="32" />  Daily Hive
-- [Toronto Blue Jays set franchise record in offensive breakout versus Mariners](https://dailyhive.com/vancouver/toronto-blue-jays-franchise-record-offensive-breakout-mariners)
-- [How the Lions can secure a home playoff game at BC Place](https://dailyhive.com/vancouver/how-lions-can-secure-home-playoff-game-bc-place)
-- [FIFA World Cup presale tickets sold out especially fast in Vancouver and Toronto](https://dailyhive.com/vancouver/fifa-world-cup-presale-tickets-sold-out-fast-vancouver-toronto)
-- [Revamped Metrotown Vessi store launches with a Canadian first](https://dailyhive.com/vancouver/metrotown-new-vessi-store)
-- [Immersive dining experience with the world's smallest chef is coming to Vancouver](https://dailyhive.com/vancouver/le-petit-chef-vancouver)
-- ['The Lord of the Rings' stars are reuniting in Vancouver this winter](https://dailyhive.com/vancouver/lord-of-the-rings-reunion-fan-expo-vancouver)
-- [Three universities in Canada make illustrious ranking of top 50 in the world](https://dailyhive.com/vancouver/universities-canada-top-50-oct-2025)
-- [Jacked Toronto Blue Jays fan has hilarious response about going viral](https://dailyhive.com/vancouver/viral-jacked-toronto-blue-jays-fan-response)
-- [Lavish Vancouver home still for sale after seven years despite massive price drops](https://dailyhive.com/vancouver/vancouver-home-price-drop-4777-west-2nd-ave)
-- [U.K. developer gets historic $763M Canadian loan for Burnaby rental tower](https://dailyhive.com/vancouver/burnaby-rental-brentwood-block-grosvenor-aclp)
-- [A Frankenstein film celebration is coming to Vancouver for Halloween](https://dailyhive.com/vancouver/viff-frankenstein-halloween-vancouver)
-- [Vancouver Park Board vote hits a snag as City inches closer to dissolution](https://dailyhive.com/vancouver/vancouver-park-board-referendum-vote)
-- [Much-loved Italian restaurant to open new flagship location in Vancouver](https://dailyhive.com/vancouver/freds-restaurant-kistilano)
-- [Canadians can now link WestJet, Telus rewards programs to earn more points](https://dailyhive.com/vancouver/telus-westjet-link-rewards-programs)
-- [Meet the chef redefining Indian cuisine in Vancouver with his new restaurant](https://dailyhive.com/vancouver/vancouver-kavita-2025)
-- [Why you’ll see hundreds of drones flying over North Vancouver tonight](https://dailyhive.com/vancouver/drones-north-vancouver)
-- [B.C. areas that fared the worst as 1,190 driving infractions were handed out last month](https://dailyhive.com/vancouver/bc-driving-infractions-2025)
+- [John Schneider explains hilarious mound conversation with Toronto Blue Jays pitcher Scherzer](https://dailyhive.com/vancouver/schneider-mound-conversation-toronto-blue-jays-scherzer)
+- [New purpose-built facility for SFU Surrey medical school to cost $520 million](https://dailyhive.com/vancouver/sfu-surrey-medical-school-location-construction-cost)
+- [Reconciliation behind closed doors: B.C. government proposes law for secret negotiations between cities and First Nations](https://dailyhive.com/vancouver/bc-government-secret-negotiations-talks-cities-first-nations-proposed-legislation)
+- [Metro Vancouver sewage treatment plant project budget cut by nearly $4 billion](https://dailyhive.com/vancouver/iona-island-wastewater-treatment-plant-budget-reduced-metro-vancouver)
+- [Vancouver Whitecaps can clinch first place this weekend and here's when the playoffs begin](https://dailyhive.com/vancouver/whitecaps-can-clinch-first-place-when-playoffs-begin)
+- [Coquitlam mayor Richard Stewart will not seek re-election after 18 years](https://dailyhive.com/vancouver/richard-stewart-craig-hodge-coquitlam-mayor-re-election)
+- [An adorable rabbit festival with 'hoppy hour' comes to Vancouver this fall](https://dailyhive.com/vancouver/rabbit-festival-vancouver)
+- [Opinion: Wrap-around supports are crucial for Metro Vancouver's homeless youth](https://dailyhive.com/vancouver/family-services-of-greater-vancouver-wrap-around-homeless-youth-supports)
+- [How newly proposed laws could impact the B.C. vaping industry](https://dailyhive.com/vancouver/bc-vape-laws)
+- [Seattle radio host rips Blue Jays fans from Vancouver in hilarious rant](https://dailyhive.com/vancouver/seattle-radio-host-rips-blue-jays-fans-vancouver-hilarious-rant)
+- [Thousands of properties in Broadway Plan and Cambie Plan areas rezoned by City of Vancouver to accelerate new housing](https://dailyhive.com/vancouver/vancouver-broadway-cambie-plan-pre-rezoning-housing-approved)
+- [Park Board to vote on year-round pay parking at several Vancouver community centres](https://dailyhive.com/vancouver/vancouver-park-board-pay-parking-expansion)
+- [These 10 countries are leading the way in FIFA World Cup ticket sales](https://dailyhive.com/vancouver/fifa-world-cup-ticket-sales-update)
+- [New renderings of BC Place Stadium renovations ahead of the 2026 FIFA World Cup](https://dailyhive.com/vancouver/bc-place-stadium-vancouver-renovations-rendedrings-fifa-world-cup)
+- [Downtown Vancouver surpasses West Point Grey as most expensive neighbourhood to rent](https://dailyhive.com/vancouver/vancouver-neighbourhood-rent-liv-rent-oct-2025)
+- [These four Toronto Blue Jays players once starred for the Vancouver Canadians](https://dailyhive.com/vancouver/toronto-blue-jays-players-starred-vancouver-canadians)
+- [Shop major discounts at Vancouver’s largest ski and snowboard sale](https://dailyhive.com/vancouver/winter-extreme-vancouver-ski-snowboard-swap)
+- [Could Greyhound buses be making a Vancouver comeback soon?](https://dailyhive.com/vancouver/greyhound-vancouver-vernon-comeback)
 
 ### <img src="https://www.google.com/s2/favicons?sz=32&domain=scoutmagazine.ca" width="32" height="32" />  Scout Magazine
-- [“Jeju” Korean Restaurant Set to Open on Broadway This November](https://scoutmagazine.ca/jeju-set-to-open-in-mount-pleasant-this-november/)
+- [Selene Aegean Bistro is Seeking a Restaurant Manager](https://scoutmagazine.ca/selene-aegean-bistro-is-seeking-a-restaurant-manager/)
+- [The Scout List, Vol. 638](https://scoutmagazine.ca/the-scout-list-vol-638/)
