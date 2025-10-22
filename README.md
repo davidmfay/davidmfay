@@ -1,75 +1,94 @@
 
 ### 🍵  The Verge - Full RSS for subscribers | The Verge
-- [Whisker’s latest Litter-Robot uses AI to recognize your cat’s face and poop](https://www.theverge.com/news/803249/whisker-litter-robot-5-pro-price-specs-features-launch-date)
-- [Apple iPad Pro (2025) review: fast, faster, fastest](https://www.theverge.com/tech/803105/apple-ipad-pro-2025-review-fast-faster-fastest)
-- [Wyze’s new solar-powered pan-and-tilt security camera is less than $80](https://www.theverge.com/news/802704/wyze-solar-cam-pan-tilt-2k-security-camera)
-- [These Oakley smart glasses are perfect for weekend warriors and T-ball coaches](https://www.theverge.com/tech/802020/oakley-meta-vanguard-review-smart-glasses-garmin-strava)
-- [The new Xbox is not an Xbox](https://www.theverge.com/podcast/803160/the-new-xbox-is-not-an-xbox)
-- [Amazon hopes to replace 600,000 US workers with robots, according to leaked documents](https://www.theverge.com/news/803257/amazon-robotics-automation-replace-600000-human-jobs)
-- [Yelp’s AI can now take reservations over the phone](https://www.theverge.com/news/802529/yelp-ai-host-receptionist)
-- [Google’s new deadline for Epic consequences is October 29th](https://www.theverge.com/news/803143/googles-new-deadline-for-epic-consequences-is-october-29th)
-- [Bryan Cranston and SAG-AFTRA say OpenAI is taking their deepfake concerns seriously](https://www.theverge.com/news/803141/openai-sora-bryan-cranston-deepfakes)
-- [Ninja Gaiden 4 is the perfect place to jump into the series](https://www.theverge.com/games/802755/ninja-gaiden-4-review-xbox-series-x-s-ps5-pc)
-- [Apple adds a new toggle to make Liquid Glass less glassy](https://www.theverge.com/news/802963/apple-liquid-glass-ios-26-1-beta-tint-option)
-- [Blind patients read again with smart glasses-linked eye implant](https://www.theverge.com/news/802905/eye-implant-smart-glasses-restores-vision)
-- [Google will reportedly let 15 superfans test unreleased Pixel phones](https://www.theverge.com/news/802866/google-pixel-superfans-test-new-phone-trusted-tester-program-report)
-- [Iniu’s tiny 10,000mAh power bank is almost half off right now](https://www.theverge.com/tech/799260/iniu-45w-usbc-power-bank-deal-sale)
-- [The Friend AI pendant’s creator publicized a ‘Friend protest’ in NYC](https://www.theverge.com/ai-artificial-intelligence/802697/friend-ai-device-subway-ad-protest-nyc)
-- [Kohler’s new toilet camera provides health insights based on your bathroom breaks](https://www.theverge.com/news/802727/kohler-health-dekoda-toilet-camera-optical-sensors)
-- [The Sims Mobile is shutting down next year](https://www.theverge.com/games/802631/the-sims-mobile-shut-down-2026)
+- [Casio’ new ring watch straps a durable G-Shock to your finger](https://www.theverge.com/news/804174/casio-ring-digital-watch-g-shock-nano-dwn-5600)
+- [DC’s shutdown is hurting government tech workers — and everyone else](https://www.theverge.com/policy/804252/government-shutdown-tech-workers-usds)
+- [Meta is downsizing its legacy AI research team](https://www.theverge.com/news/804253/meta-ai-research-layoffs-fair-superintelligence)
+- [YouTube will help you quit watching Shorts](https://www.theverge.com/news/804113/youtube-shorts-time-limit-pause-feeds)
+- [The new Metroid Prime art book offers rare insight into Nintendo’s design process](https://www.theverge.com/games/803399/metroid-prime-visual-retrospective-art-book-review)
+- [Uber will pay drivers $4,000 to switch to EVs](https://www.theverge.com/news/802983/uber-electric-ev-driver-4000-grant-price)
+- [Samsung Galaxy XR hands-on: It’s like a cheaper Apple Vision Pro and launches today](https://www.theverge.com/tech/802299/samsung-galaxy-xr-hands-on-price-release-date)
+- [Netflix is ‘judiciously’ expanding into interactive experiences](https://www.theverge.com/news/803097/netflix-games-interactive-experiences-real-time-voting-q3-2025-earnings)
+- [The iPhone 17’s selfie camera is to blame for delayed Project Indigo support](https://www.theverge.com/tech/803712/adobe-project-indigo-camera-app-iphone-17-support)
+- [How Apple’s walled garden protects ICE](https://www.theverge.com/column/803693/ice-epic-games-apple-app-store)
+- [YouTube’s AI ‘likeness detection’ tool is searching for deepfakes of popular creators](https://www.theverge.com/news/803818/youtube-ai-likeness-detection-deepfake)
+- [Did Microsoft just tease that the next Xbox is a PC and console?](https://www.theverge.com/news/803824/microsoft-xbox-sarah-bond-next-gen-xbox-console-pc)
+- [Anker’s latest noise-canceling sleep earbuds are nearly $40 off](https://www.theverge.com/tech/803737/anker-soundcore-sleep-a30-earbuds-8bitdo-arcade-controller-deal-sale)
+- [Here’s how Google is choosing 15 fans to test the next Pixel](https://www.theverge.com/report/803702/google-pixel-superfan-contest-rules)
+- [Jon Prosser says he’s been in ‘active communication’ with Apple over lawsuit](https://www.theverge.com/news/803754/apple-jon-prosser-trade-secrets-lawsuit-responds-default)
+- [Hallmark’s glowing Xbox 360 ornament plays the Halo theme](https://www.theverge.com/news/803728/hallmark-keepsake-ornament-microsoft-xbox-360-console-halo-3-theme)
+- [I see your Haribo gummy bear battery and raise you a Pocket Rocket instead](https://www.theverge.com/tech/803021/haribo-gummy-bear-battery-nitecore-iniu-pocket-rocket)
+- [OpenAI’s AI-powered browser, ChatGPT Atlas, is here](https://www.theverge.com/ai-artificial-intelligence/803475/openais-ai-powered-browser-chatgpt-atlas-google-chrome-competition-agent)
+- [Google Fi is getting AI-powered noise filters and RCS web messaging](https://www.theverge.com/news/803542/google-fi-rcs-browser-messaging-ai-enhanced-audio)
 
-### <img src="https://www.google.com/s2/favicons?sz=32&domain=www.interconnects.ai" width="32" height="32" />  Interconnects
-- [How to scale RL](https://www.interconnects.ai/p/the-new-rl-scaling-laws)
+### <img src="https://www.google.com/s2/favicons?sz=32&domain=www.theverge.com" width="32" height="32" />  Quick Posts | The Verge
+- [Strava drops lawsuit against Garmin.](https://www.theverge.com/news/804104/strava-drops-lawsuit-against-garmin)
+- [A long list of public figures are calling for a ban on superintelligent AI.](https://www.theverge.com/ai-artificial-intelligence/803830/a-laundry-list-of-public-figures-signed-a-new-call-for-a-ban-on-superintelligent-ai)
+- [Oura made two new patent licensing agreements with wearable competitors.](https://www.theverge.com/news/804004/oura-made-two-new-patent-licensing-agreements-with-wearable-competitors)
+- [Too many games, the calendar.](https://www.theverge.com/news/803982/too-many-games-the-calendar)
+- [Apple’s rumored foldable 18-inch iPad is delayed until 2029 due to “engineering challenges.”](https://www.theverge.com/news/803899/apples-rumored-foldable-18-inch-ipad-is-delayed-until-2029-due-to-engineering-challenges)
+- [Hijack is back (in January).](https://www.theverge.com/streaming/803832/hijack-is-back-in-january)
+- [KPop Demon Hunters is really, really huge.](https://www.theverge.com/news/803813/kpop-demon-hunters-is-really-really-huge)
+- [Del Toro&#8217;s monster.](https://www.theverge.com/entertainment/803666/del-toros-monster)
+- [Masahiro Sakurai can&#8217;t stop talking about Kirby.](https://www.theverge.com/games/803329/masahiro-sakurai-cant-stop-talking-about-kirby)
+- [A better look at Rivian’s first e-bike.](https://www.theverge.com/news/803291/a-better-look-at-rivians-first-e-bike)
+
+### 🍵  The Verge - Regulator for subscribers | The Verge
+- [How Apple’s walled garden protects ICE](https://www.theverge.com/column/803693/ice-epic-games-apple-app-store)
 
 ### <img src="https://www.google.com/s2/favicons?sz=32&domain=stratechery.com" width="32" height="32" />  Stratechery by Ben Thompson
-- [F1 on Apple TV, Distribution as Differentiation, A Worthwhile Gamble](https://stratechery.com/2025/f1-on-apple-tv-distribution-as-differentiation-a-worthwhile-gamble/)
-
-### <img src="https://www.google.com/s2/favicons?sz=32&domain=notetoself.studio" width="32" height="32" />  Note to Self
-- [Measured AI](https://notetoself.studio/post/measured-ai/)
+- [Resiliency and Scale](https://stratechery.com/2025/resiliency-and-scale/)
 
 ### <img src="https://www.google.com/s2/favicons?sz=32&domain=simonwillison.net" width="32" height="32" />  Simon Willison's Weblog
-- [Quoting Phil Gyford](https://simonwillison.net/2025/Oct/21/phil-gyford/#atom-everything)
-- [Quoting Bruce Schneier and Barath Raghavan](https://simonwillison.net/2025/Oct/21/ooda-loop/#atom-everything)
-- [Claude Code for web - a new asynchronous coding agent from Anthropic](https://simonwillison.net/2025/Oct/20/claude-code-for-web/#atom-everything)
-- [Getting DeepSeek-OCR working on an NVIDIA Spark via brute force using Claude Code](https://simonwillison.net/2025/Oct/20/deepseek-ocr-claude-code/#atom-everything)
+- [Living dangerously with Claude](https://simonwillison.net/2025/Oct/22/living-dangerously-with-claude/#atom-everything)
+- [SLOCCount in WebAssembly](https://simonwillison.net/2025/Oct/22/sloccount-in-webassembly/#atom-everything)
+- [Don't let Claude Code delete your session logs](https://simonwillison.net/2025/Oct/22/claude-code-logs/#atom-everything)
+- [Unseeable prompt injections in screenshots: more vulnerabilities in Comet and other AI browsers](https://simonwillison.net/2025/Oct/21/unseeable-prompt-injections/#atom-everything)
+- [Introducing ChatGPT Atlas](https://simonwillison.net/2025/Oct/21/introducing-chatgpt-atlas/#atom-everything)
 
 ### <img src="https://www.google.com/s2/favicons?sz=32&domain=feeds.kottke.org" width="32" height="32" />  kottke.org
-- [Playing Boards of Canada on a DEC PDP-1 from 1959 ](https://kottke.org/25/10/playing-boards-of-canada-on-a-dec-pdp-1-from-1959)
-- [The Sordid Mystery of a Somalian Meteorite Smuggled into China. “The journey... ](https://kottke.org/25/10/0047728-the-sordid-mystery-of-a)
-- [Ira Glass’s Subway Take is genuinely shocking: “Every podcast is better at... ](https://kottke.org/25/10/0047741-ira-glasss-subway-take-is)
-- [Come See Me in the Good Light ](https://kottke.org/25/10/come-see-me-in-the-good-light)
-- [Inside NORAD’s Cheyenne Mountain Combat Center (c. 1966) ](https://kottke.org/25/10/inside-norads-cheyenne-mountain-combat-center-c-1966)
-- [Phil Gyford, writing about when he first got online in 1995: My... ](https://kottke.org/25/10/0047730-phil-gyford-writing-about)
-- [Sumo Tourists in London ](https://kottke.org/25/10/sumo-tourists-in-london)
-- [Anil Dash on The Majority AI View. “Stop being so goddamn creepy... ](https://kottke.org/25/10/0047732-anil-dash-on-the-majority)
+- [A Reminder that Protected Bike Lanes Can Make Streets Safer for Everyone.... ](https://kottke.org/25/10/0047737-a-reminder-that-protected)
+- [The ‘Anti-Woke’ Tax That All Americans Are Paying. “Tariffs are the most... ](https://kottke.org/25/10/0047745-the-anti-woke-tax-that-al)
+- [New essay collection from classicist Emily Wilson: Crossing the Wine-Dark Sea. “From... ](https://kottke.org/25/10/0047743-new-collection-from-class)
+- [Ethan Hawke Breaks Down His Career ](https://kottke.org/25/10/ethan-hawke-breaks-down-his-career)
+- [Hitler, Stalin, Freud, Trotsky, and Franz Joseph all lived within a radius... ](https://kottke.org/25/10/0047742-hitler-stalin-freud-trots)
+- [The Neurodivergent Genius Who Invented Formula 1 For Marbles. “This is the... ](https://kottke.org/25/10/0047644-the-neurodivergent-genius)
+
+### <img src="https://www.google.com/s2/favicons?sz=32&domain=www.slackstory.com" width="32" height="32" />  A Slack Story
+- [Hiring Good Irish Hybrids](https://www.slackstory.com/p/hiring-good-irish-hybrids)
+
+### <img src="https://www.google.com/s2/favicons?sz=32&domain=unchartedterritories.tomaspueyo.com" width="32" height="32" />  Uncharted Territories
+- [Water Taxis Might Change Urbanism](https://unchartedterritories.tomaspueyo.com/p/water-taxis-might-change-urbanism)
 
 ### <img src="https://www.google.com/s2/favicons?sz=32&domain=www.platformer.news" width="32" height="32" />  Platformer
-- [OpenAI’s chaotic Sora policies are a sign of the times](https://www.platformer.news/openai-sora-copyright-policy-king-cranston/)
+- [Five ways of thinking about OpenAI's new browser](https://www.platformer.news/openai-atlas-browser-launch-impressions/)
 
-### <img src="https://www.google.com/s2/favicons?sz=32&domain=www.rogerebert.com" width="32" height="32" />  Reviews – Roger Ebert
-- [Harlan Coben’s Lazarus](https://www.rogerebert.com/reviews/harlan-cobens-lazarus-tv-review-2025)
-- [The Monster of Florence](https://www.rogerebert.com/reviews/the-monster-of-florence-tv-review-2025)
+### <img src="https://www.google.com/s2/favicons?sz=32&domain=spyglass.org" width="32" height="32" />  Spyglass
+- [Some Thoughts on ChatGPT Atlas](https://spyglass.org/chatgpt-atlas-ai-browser/)
+- [Disney Killed Kylo Ren, Again](https://spyglass.org/disney-kills-kylo-ren-again/)
+- [AGI or Bust](https://spyglass.org/agi-or-bust/)
 
 ### <img src="https://www.google.com/s2/favicons?sz=32&domain=dailyhive.com" width="32" height="32" />  Daily Hive
-- [Streets of Toronto were pandemonium after massive Blue Jays win to clinch World Series berth](https://dailyhive.com/vancouver/toronto-blue-jays-streets-world-series-clinch)
-- [John Schneider was the life of the party after Toronto Blue Jays clinched World Series berth](https://dailyhive.com/vancouver/john-schneider-party-blue-jays)
-- [City of Burnaby cuts permitted size of new multiplex homes due to public outcry](https://dailyhive.com/vancouver/burnaby-small-scale-multi-unit-housing-policy-amendments)
-- [Burnaby Housing Authority gets the ball rolling on its first two rental projects](https://dailyhive.com/vancouver/burnaby-housing-authority-first-rental-projects)
-- [Vladimir Guerrero Jr. fights back tears after Toronto Blue Jays head to the World Series](https://dailyhive.com/vancouver/guerrero-fights-back-tears-toronto-blue-jays-world-series)
-- [What George Springer said after sending Toronto Blue Jays to the World Series](https://dailyhive.com/vancouver/what-george-springer-said-home-run-toronto-blue-jays)
-- [Opinion: We were never building affordable homes in Vancouver, so why pretend we were?](https://dailyhive.com/vancouver/vancouver-housing-affordability-revisionist-history)
-- [The Toronto Blue Jays are heading to the World Series](https://dailyhive.com/vancouver/toronto-blue-jays-heading-world-series)
-- [This is the City of Vancouver's big rental housing redevelopment plan for 2400 Motel on Kingsway](https://dailyhive.com/vancouver/2400-motel-kingsway-vancouver-redevelopment-rental-housing)
-- [Popular Dollarama snack recalled across Canada](https://dailyhive.com/vancouver/dollarama-snack-recall)
-- [Modern dining and vintage vibes await you at this Vancouver kitchen and bar](https://dailyhive.com/vancouver/the-sequel-kitchen-and-bar-vancouver)
-- [Vancouver Whitecaps playoff games just got easier to watch on TV](https://dailyhive.com/vancouver/whitecaps-playoff-games-easier-watch-tv)
-- [Southeast Asian restaurant in Vancouver announces closure and transition to burger concept](https://dailyhive.com/vancouver/potluck-hawker-eatery-closed)
-- [Legendary Canadian band Rush announces it's coming to Vancouver after all](https://dailyhive.com/vancouver/rush-vancouver-concert)
-- [Second season of award-winning 'Shogun' to film in B.C. soon](https://dailyhive.com/vancouver/shogun-bc-vancouver-filming)
-- [Toronto Blue Jays fans fear Game 7 curse after Vladdy seen wearing Leafs jersey](https://dailyhive.com/vancouver/blue-jays-fans-fear-curse-vladdy-leafs-jersey)
-- [Vancouver home in 'prestigious' location sees second huge price drop in three months](https://dailyhive.com/vancouver/vancouver-home-price-drop-1189-west-32nd-ave)
-- [How I'm keeping hydrated during all Canadian seasons](https://dailyhive.com/vancouver/liquid-iv-sugar-free-white-peach-canada)
-- [Controversial border bill in Canada is 'about pleasing Trump,' says non-profit](https://dailyhive.com/vancouver/border-canada-bill-c-12)
+- [Plan for new municipally-owned, for-profit real estate development company rejected by Vancouver City Council](https://dailyhive.com/vancouver/vancouver-city-owned-for-profit-real-estate-development-company-rejected)
+- [1,400 staff with the City of Vancouver asked to return to the office five days a week](https://dailyhive.com/vancouver/vancouver-city-hall-staff-return-to-office-policy)
+- [Opinion: Why private passenger-only ferry services complement BC Ferries](https://dailyhive.com/vancouver/cirql-bc-ferries-private-passenger-only-services-complement)
+- [Tunnel boring under Fraser River for Metro Vancouver water supply project reaches completion](https://dailyhive.com/vancouver/annacis-water-supply-tunnel-boring-metro-vancouver)
+- [Vancity Credit Union to cover up to 80% of cost to build new multiplex homes in new loan program](https://dailyhive.com/vancouver/vancity-credit-union-multiplex-construction-mortgage)
+- [American tourist falls over North Vancouver cliff and police are looking for witnesses](https://dailyhive.com/vancouver/tourist-injured-lynn-canyon-park-north-vancouver)
+- [Vancouver Whitecaps want to improve concession deal with BC Place](https://dailyhive.com/vancouver/vancouver-whitecaps-concessions-frustration)
+- [One of Vancouver's largest festivals returns with over 500 artists next month](https://dailyhive.com/vancouver/vancouver-eastside-culture-crawl-2025)
+- [Mexican restaurant closes less than a year after opening in Vancouver](https://dailyhive.com/vancouver/el-compa-vancouver)
+- [Will Ohtani pitch in Toronto? Projecting Blue Jays-Dodgers starting rotations for the World Series](https://dailyhive.com/vancouver/blue-jays-pitching-rotations-world-series)
+- [You can indulge in fine dining at a fraction of the cost in Vancouver this fall](https://dailyhive.com/vancouver/vancouver-community-college-dining)
+- [Closure of busy Fraser Highway area extended until the end of the year](https://dailyhive.com/vancouver/surrey-fraser-highway-closure-extended)
+- [Retired old Mark I SkyTrain car converted into Canada's first standing subway film production set](https://dailyhive.com/vancouver/mark-i-skytrain-subway-car-film-set-lumostage-virtual-production)
+- [Mariners broadcasters sounded completely dejected after Springer's home run for Toronto Blue Jays](https://dailyhive.com/vancouver/mariners-broadcasters-dejected-springers-home-run-toronto-blue-jays)
+- [Dates for massive Metro Vancouver Reebok warehouse sale revealed](https://dailyhive.com/vancouver/metro-vancouver-richmond-reebok-warehouse-sale)
+- [Park Board gives green light to pay parking at Vancouver community centres and attractions](https://dailyhive.com/vancouver/vancouver-park-board-pay-parking-expansion-approved)
+- [Toronto Blue Jays World Series tickets are going for insane prices](https://dailyhive.com/vancouver/toronto-blue-jays-world-series-tickets-insane-prices)
 
 ### <img src="https://www.google.com/s2/favicons?sz=32&domain=scoutmagazine.ca" width="32" height="32" />  Scout Magazine
-- [Gary’s is Seeking a Chef de Partie to Join Their Small BOH Team](https://scoutmagazine.ca/garys-is-seeking-a-chef-de-partie-to-join-their-small-boh-team/)
+- [Indulge Your Appetite for Food and Folklore at Enabling Arts on October 30th](https://scoutmagazine.ca/indulge-your-appetite-for-food-and-folklore-at-enabling-arts-on-october-30th/)
+
+### <img src="https://www.google.com/s2/favicons?sz=32&domain=obsidian.md" width="32" height="32" />  Obsidian Changelog
+- [Obsidian 1.10.1 Mobile (Early access)](https://obsidian.md/changelog/2025-10-21-mobile-v1.10.1/)
+- [Obsidian 1.10.1 Desktop (Early access)](https://obsidian.md/changelog/2025-10-21-desktop-v1.10.1/)
