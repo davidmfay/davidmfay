@@ -1,95 +1,61 @@
 
 ### 🍵  The Verge - Full RSS for subscribers | The Verge
-- [Google Call Recording launches on more Pixel phones](https://www.theverge.com/news/820938/google-call-recording-pixel-phone-app-availability)
-- [Meta must rein in scammers — or face consequences](https://www.theverge.com/tech/820906/meta-scam-ads-failure-remove-consequences)
-- [The Meta Quest 3S is $50 off and comes with a $50 gift card and a game](https://www.theverge.com/gadgets/820921/meta-quest-3s-black-friday-deal-sale)
-- [Valve made Microsoft’s dream console](https://www.theverge.com/podcast/820889/vergecast-steam-machines-neo-robot-fire-tv-piracy)
-- [Valve is making microSD cards the next game cartridges](https://www.theverge.com/games/818602/valve-steam-deck-machine-frame-microsd-card-game-cartridges)
-- [WhatsApp is launching third-party chat integration in Europe](https://www.theverge.com/news/820858/whatsapp-third-party-messaging-date-eu-e2ee)
-- [I rode in one of the UK’s first self-driving cars](https://www.theverge.com/report/820324/wayve-driverless-robotaxi-london)
-- [What insiders anonymously think about the AI race](https://www.theverge.com/column/820664/cerebral-valley-conference-ai-anonymous-survey)
-- [Apple TV is getting MLS games at no extra cost](https://www.theverge.com/news/820595/apple-tv-mls-games-bundle-no-extra-cost-subscription-season-pass)
-- [Starlink rival ‘Project Kuiper’ rebrands to Amazon Leo](https://www.theverge.com/news/820580/project-kuiper-amazon-leo-rebrand)
-- [Valve wants Half-Life: Alyx to work well standalone on Steam Frame](https://www.theverge.com/news/820503/valve-half-life-alyx-steam-frame-standalone-vr)
-- [Anthropic details how it measures Claude’s wokeness](https://www.theverge.com/news/819216/anthropic-claude-political-even-handedness-woke-ai)
-- [Apple will take a mini commission from mini app developers](https://www.theverge.com/news/820486/apple-mini-app-developers-commission)
-- [Hackers use Anthropic’s AI model Claude once again](https://www.theverge.com/news/820458/hackers-china-ai-anthropic-claude)
-- [Who is buying VR and XR headsets anyway?](https://www.theverge.com/tech/820416/vr-xr-headsets-vision-pro-galaxy-xr-steam-frame-enterprise)
-- [Netflix’s new era of TV games starts now](https://www.theverge.com/entertainment/820289/netflix-casual-party-game-multiplayer-tetris-pictionary)
-- [Netflix is turning its biggest shows into daily puzzle games](https://www.theverge.com/news/820124/netflix-puzzled-daily-puzzle-game-app-ios-android-tudum-web)
-- [Where have all the TV cameras gone?](https://www.theverge.com/column/819878/smart-tv-cameras)
+- [Framework’s franken-laptop is back with big chip upgrades and familiar frustrations](https://www.theverge.com/tech/821420/framework-laptop-16-2025-nvidia-rtx5070-review)
+- [Pluribus’ third episode throws a bomb into things](https://www.theverge.com/entertainment/820523/pluribus-episode-3-discussion)
+- [The Steam Machine feels like the TV gaming PC I’ve always wanted](https://www.theverge.com/games/818606/valve-steam-machine-tv-gaming-pc-wanted)
+- [Disney and ESPN are back on YouTube TV](https://www.theverge.com/news/821581/disney-youtube-tv-deal-agreement-espn)
+- [A recent Switch 2 update blocks some third-party docks, but Nintendo isn’t saying why](https://www.theverge.com/news/821250/switch-2-update-third-party-dock-update-blocked)
+- [Paramount Skydance is working on a new Star Trek movie](https://www.theverge.com/entertainment/821219/paramount-skydance-star-trak-movie-jonathan-goldstein-john-francis-daley)
+- [Fortnite is coming to the Xbox PC store](https://www.theverge.com/news/821177/fortnite-xbox-on-pc-app-store-epic-games-play-anywhere-crew-game-pass)
+- [Superman, Sinners, and other 4K Blu-rays are just $12.99 ahead of Black Friday](https://www.theverge.com/tech/821035/superman-sinners-4k-blu-ray-black-friday-deal-sale)
+- [Apple’s last-gen AirPods Pro 2 are down to their lowest price to date](https://www.theverge.com/gadgets/821049/apple-airpods-pro-2-walmart-black-friday-deal-sale)
+- [Belkin is recalling its iPhone tracking stand and two power banks due to fire risks](https://www.theverge.com/news/821016/belkin-recall-auto-tracking-iphone-stand-pro-boostcharge-power-bank)
+- [Why we’re going to keep talking about the Trump phone](https://www.theverge.com/news/820887/why-we-keep-writing-about-trump-phone-t1)
+- [The Running Man is a propulsive tribute to ’80s action movies](https://www.theverge.com/entertainment/820502/the-running-man-review)
 
-### <img src="https://www.google.com/s2/favicons?sz=32&domain=www.theverge.com" width="32" height="32" />  Quick Posts | The Verge
-- [The Steam Controller doesn’t have a headphone jack, and Valve told us why — kind of.](https://www.theverge.com/news/820747/the-steam-controller-doesnt-have-a-headphone-jack-and-valve-told-us-why-kind-of)
-- [Fixing the wrong problem.](https://www.theverge.com/news/820857/fixing-the-wrong-problem)
-- [Two million feet of film.](https://www.theverge.com/news/820875/two-million-feet-of-film)
-- [It&#8217;s only gin if it gets you drunk.](https://www.theverge.com/news/820872/its-only-gin-if-it-gets-you-drunk)
-- [Samsung’s latest SmartThings hub arrives in the US.](https://www.theverge.com/news/820853/samsungs-latest-smartthings-hub-arrives-in-the-us)
-- [Google gives.](https://www.theverge.com/news/820850/google-gives)
-- [YouTube is getting a weekly live late night show starting in spring 2026.](https://www.theverge.com/news/820749/youtube-is-getting-a-weekly-live-late-night-show-starting-in-spring-2026)
-- [Three Rabbit employees are reportedly on strike over not being paid since July.](https://www.theverge.com/news/820643/three-rabbit-employees-are-reportedly-on-strike-over-not-being-paid-since-july)
-- [Apple is building a virtual ring light into macOS.](https://www.theverge.com/news/820632/apple-is-building-a-virtual-ring-light-into-macos)
-- [Apple says developers must get permission from users to share their data with third-party AI.](https://www.theverge.com/news/820634/apple-says-developers-must-get-permission-from-users-to-share-their-data-with-third-party-ai)
+### <img src="https://www.google.com/s2/favicons?sz=32&domain=stratechery.com" width="32" height="32" />  Stratechery by Ben Thompson
+- [2025.46: Satellites and Strategy](https://stratechery.com/2025/satellites-and-strategy/)
 
-### 🍵  The Verge - Optimizer for subscribers | The Verge
-- [Counting Renaissance butts in Rome with the Meta Ray-Ban Display](https://www.theverge.com/column/820894/optimizer-meta-ray-ban-display-enterprise-wearables-tourism-renaissance-art)
+### <img src="https://www.google.com/s2/favicons?sz=32&domain=anildash.com" width="32" height="32" />  Anil Dash
+- [I know you don’t want them to want AI, but…](https://anildash.com/2025/11/14/wanting-not-to-want-ai/)
 
-### <img src="https://www.google.com/s2/favicons?sz=32&domain=www.derekthompson.org" width="32" height="32" />  Derek Thompson
-- [Are Young People Screwed?](https://www.derekthompson.org/p/are-young-people-screwed-by-the-economy)
+### <img src="https://www.google.com/s2/favicons?sz=32&domain=notetoself.studio" width="32" height="32" />  Note to Self
+- [Busy simulator](https://notetoself.studio/link/busy-simulator/)
 
 ### <img src="https://www.google.com/s2/favicons?sz=32&domain=simonwillison.net" width="32" height="32" />  Simon Willison's Weblog
-- [GPT-5.1 Instant and GPT-5.1 Thinking System Card Addendum](https://simonwillison.net/2025/Nov/14/gpt-51-system-card-addendum/#atom-everything)
-- [Introducing GPT-5.1 for developers](https://simonwillison.net/2025/Nov/13/gpt-51/#atom-everything)
-- [Datasette 1.0a22](https://simonwillison.net/2025/Nov/13/datasette-10a22/#atom-everything)
-- [Nano Banana can be prompt engineered for extremely nuanced AI image generation](https://simonwillison.net/2025/Nov/13/nano-banana-can-be-prompt-engineered/#atom-everything)
-- [Quoting Nov 12th letter from OpenAI to Judge Ona T. Wang](https://simonwillison.net/2025/Nov/13/letter-from-openai/#atom-everything)
-- [What happens if AI labs train for pelicans riding bicycles?](https://simonwillison.net/2025/Nov/13/training-for-pelicans-riding-bicycles/#atom-everything)
+- [parakeet-mlx](https://simonwillison.net/2025/Nov/14/parakeet-mlx/#atom-everything)
 
 ### <img src="https://www.google.com/s2/favicons?sz=32&domain=feeds.kottke.org" width="32" height="32" />  kottke.org
-- [This seems promising: researchers have demonstrated that a “nanoparticle-based vaccine can effectively... ](https://kottke.org/25/11/0047841-this-seems-promising-rese)
+- [“A Personal Business is run by people who are truly into what... ](https://kottke.org/25/11/0047814-a-personal-business-is-ru)
+- [Jett Brunet carves incredibly realistic duck decoys.... ](https://kottke.org/25/11/0047816-jett-brunet-carves-incred)
+- [This Black Fungus Might Be Healing Chernobyl By Drinking Radiation. The fungi... ](https://kottke.org/25/11/0047810-this-black-fungus-might-b)
+- [The Farmers’ Almanac, citing a “chaotic media environment”, will cease publication after... ](https://kottke.org/25/11/0047837-the-farmers-almanac-citin)
 
-### <img src="https://www.google.com/s2/favicons?sz=32&domain=www.notboring.co" width="32" height="32" />  Not Boring by Packy McCormick
-- [Weekly Dose of Optimism #170](https://www.notboring.co/p/weekly-dose-of-optimism-170)
-
-### <img src="https://www.google.com/s2/favicons?sz=32&domain=www.platformer.news" width="32" height="32" />  Platformer
-- [Spotify's doppelgänger problem](https://www.platformer.news/king-gizzard-spotify-impersonators/)
+### <img src="https://www.google.com/s2/favicons?sz=32&domain=www.profgalloway.com" width="32" height="32" />  No Mercy / No Malice
+- [National Service](https://www.profgalloway.com/national-service/)
 
 ### <img src="https://www.google.com/s2/favicons?sz=32&domain=spyglass.org" width="32" height="32" />  Spyglass
-- [Why Microsoft Pushed OpenAI Aside](https://spyglass.org/microsoft-vs-openai/)
+- [Group ChatGPT](https://spyglass.org/group-chatgpt-social/)
+- [Signal: Bubble Watch 📧](https://spyglass.org/signal-bubble-watch/)
 
 ### <img src="https://www.google.com/s2/favicons?sz=32&domain=www.rogerebert.com" width="32" height="32" />  Reviews – Roger Ebert
-- [The American Revolution](https://www.rogerebert.com/reviews/the-american-revolution-ken-burns-pbs-tv-review-2025)
-- [In Your Dreams](https://www.rogerebert.com/reviews/in-your-dreams-netflix-animated-movie-review-2025)
-- [ARCO](https://www.rogerebert.com/reviews/arco-animated-film-review-2025)
-- [Rebuilding](https://www.rogerebert.com/reviews/rebuilding-josh-oconnor-film-review-2025)
-- [Keeper](https://www.rogerebert.com/reviews/keeper-oz-perkins-film-review-2025)
-- [The Carpenter’s Son](https://www.rogerebert.com/reviews/the-carpenters-son-nicolas-cage-movie-review-2025)
-- [Come See Me in the Good Light](https://www.rogerebert.com/reviews/come-see-me-in-the-good-light-apple-tv-documentary-film-review-2025)
-- [Left-Handed Girl](https://www.rogerebert.com/reviews/left-handed-girl-netflix-film-review-2025)
-- [The Things You Kill](https://www.rogerebert.com/reviews/the-things-you-kill-turkish-film-review-2025)
-- [King Ivory](https://www.rogerebert.com/reviews/king-ivory-james-badge-dale-movie-review-2025)
-
-### <img src="https://news.ycombinator.com/favicon.ico" width="32" height="32" />  Hacker Newsletter
-- [Hacker Newsletter #771](https://buttondown.com/hacker-newsletter/archive/771/)
+- [Sallywood](https://www.rogerebert.com/reviews/sallywood-sally-kirkland-movie-review-2025)
 
 ### <img src="https://www.google.com/s2/favicons?sz=32&domain=dailyhive.com" width="32" height="32" />  Daily Hive
-- [Soccer player on his first-ever trip to Canada runs into immigration issues while trying to join national team](https://dailyhive.com/vancouver/soccer-player-visa-issues-canada-alfie-jones)
-- [Couples in B.C. with disabilities will soon receive boost to government benefits](https://dailyhive.com/vancouver/bc-couples-disability-assistance-changes)
-- [Nut and dried fruit product sold at various retailers recalled in Canada](https://dailyhive.com/vancouver/nut-product-recalled-canada-retailers)
-- [DoorDash users warned after data breach in late October](https://dailyhive.com/vancouver/doordash-data-breach-hackers)
-- [Five pedestrians and cyclists hit by cars in 48 hours spark Burnaby RCMP warning](https://dailyhive.com/vancouver/burnaby-rcmp-pedestrian-driver-road-safety)
-- [From sky-high dining to street snacks: A first-timer’s guide to eating in Hong Kong](https://dailyhive.com/vancouver/where-to-eat-hong-kong)
-- [Prime Minister Mark Carney greets locals at 'iconic' White Rock Pier](https://dailyhive.com/vancouver/mark-carney-white-rock-pier-metro-vancouver)
-- [Top Vancouver restaurant for clam chowder opens new location with exclusive dish](https://dailyhive.com/vancouver/jacks-chowder-bentall-vancouver)
-- [Canadian gets kicked out of Sonder hotel after it abruptly goes bankrupt](https://dailyhive.com/vancouver/canadian-sonder-hotel-bankruptcy)
-- [SUV drives through Richmond mall entrance in suspected break-and-enter attempt](https://dailyhive.com/vancouver/richmond-mall-break-enter-landsdowne)
-- [B.C. cities see large rent decreases while Vancouver reports much smaller drop](https://dailyhive.com/vancouver/vancouver-bc-average-rent-dropping-report)
-- [Mexican-inspired queer bar in Vancouver shares it's for sale in heartfelt message](https://dailyhive.com/vancouver/ginas-vancouver-2025)
-- [Deadline to claim Loblaw bread price-fixing settlement is fast approaching](https://dailyhive.com/vancouver/deadline-loblaw-bread-price-fixing-settlement)
-
-### <img src="https://www.google.com/s2/favicons?sz=32&domain=scoutmagazine.ca" width="32" height="32" />  Scout Magazine
-- [On the Eater 38, Opening a Restaurant in NYC, and the Rise of Food Content Creators](https://scoutmagazine.ca/on-the-eater-38-opening-a-restaurant-in-nyc-and-the-rise-of-food-content-creators/)
-- [Iconic Wineries of British Columbia Announce Expanded Holiday Offerings for the 2025 Season](https://scoutmagazine.ca/iconic-wineries-of-british-columbia-announce-expanded-holiday-offerings-for-the-2025-season/)
-- [Head to The American for a Friendly Comfort Food Competition, Nov. 15th](https://scoutmagazine.ca/head-to-the-american-for-a-friendly-comfort-food-competition-nov-15th/)
-- [Watch Five Ceramicists Get Fast and Muddy at the VAG’s Pottery Throwdown, Dec. 6th](https://scoutmagazine.ca/watch-five-ceramicists-get-fast-and-muddy-at-the-vags-pottery-throwdown-dec-6th/)
-- [The Scout List, Vol. 642](https://scoutmagazine.ca/the-scout-list-vol-642/)
+- [Canada Disability Benefit payments go out on Thursday](https://dailyhive.com/vancouver/canada-disability-benefit-payments-nov-20)
+- [Heavy helicopter operation to impact Vancouver traffic this weekend](https://dailyhive.com/vancouver/downtown-vancouver-traffic-road-closures-helicopter-move)
+- [Beloved Vancouver cafe closes its doors — new coffee shop already set to take its place](https://dailyhive.com/vancouver/coo-coo-coffee-vancouver)
+- [Vancouver sky pool penthouse finally sells for millions below asking price](https://dailyhive.com/vancouver/vancouver-sky-pool-penthouse-sold-1568-alberni)
+- [More and more young women want to leave the U.S. for Canada: poll](https://dailyhive.com/vancouver/women-leave-us-canada-poll)
+- [Historic neighbourhood is home to the worst intersection in Metro Vancouver](https://dailyhive.com/vancouver/mount-pleasant-worst-intersection-metro-vancouver)
+- [B.C. landlord deducts $40 from tenant's deposit for a five-minute drive](https://dailyhive.com/vancouver/bc-landlord-tenant-deposit-tribunal)
+- [Vancouver Whitecaps make history by selling out BC Place for next playoff game](https://dailyhive.com/vancouver/whitecaps-make-history-bc-place-sold-out)
+- [Vancouver named among world's richest cities but trails major metropolises](https://dailyhive.com/vancouver/vancouver-richest-cities-2025)
+- [Edmonton Oilers could lose Stecher for nothing after recent move](https://dailyhive.com/vancouver/edmonton-oilers-lose-stecher-for-nothing)
+- [Vancouver's living wage jumps to $10 higher than minimum wage](https://dailyhive.com/vancouver/living-wage-bc-vancouver-2025)
+- [Canada has an adorable new coin of a beloved cartoon character](https://dailyhive.com/vancouver/canada-coin-snoopy)
+- [A power ranking of popular Starbucks holiday drinks, from worst to best](https://dailyhive.com/vancouver/starbucks-holiday-drinks-ranked-2025)
+- ['Impressively large': B.C.'s first Costco Business Centre is finally open](https://dailyhive.com/vancouver/bc-first-costco-business-centre-open)
+- [Surprise fees lurking in your Canadian phone bill? Here's how to ditch them](https://dailyhive.com/vancouver/fizz-canada-prepaid-mobile-plans-phone-bill-fees)
+- [Huge Estée Lauder Companies warehouse sale returns to Vancouver and it’s every beauty lover’s dream](https://dailyhive.com/vancouver/estee-lauder-warehouse-sale-nov-vancouver)
+- [6 cities in Canada rank among the richest in the world](https://dailyhive.com/vancouver/cities-in-canada-richest-world)
