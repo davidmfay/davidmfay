@@ -1,94 +1,64 @@
 
 ### 🍵  The Verge - Full RSS for subscribers | The Verge
-- [The Asus Falcata Hall effect split gaming keyboard is $140 off right now](https://www.theverge.com/gadgets/824372/asus-falcata-split-ergo-keyboard-hall-effect-deal-sale-black-friday)
-- [I signed up for Trump Mobile two weeks ago and I still don’t have my SIM](https://www.theverge.com/tech/825190/trump-mobile-service-customer-care-sim)
-- [AirDropping stuff from a Pixel phone rules so much](https://www.theverge.com/tech/825696/pixel-10-pro-airdrop-quick-share-hands-on)
-- [Apple’s new limited edition iPhone grip is all about accessibility](https://www.theverge.com/news/826081/apple-hikawa-iphone-grip-stand-accessibility-limited-edition)
-- [The new silicon valley (literally)](https://www.theverge.com/features/825207/semiconductor-chip-manufacturing-new-silicon-valley)
-- [Google’s Nano Banana Pro generates excellent conspiracy fuel](https://www.theverge.com/report/826003/googles-nano-banana-pro-generates-excellent-conspiracy-fuel)
-- [Grok’s Elon Musk worship is getting weird](https://www.theverge.com/ai-artificial-intelligence/825675/groks-elon-musk-worship-is-getting-weird)
-- [Google’s new AI image creator took my shirt off](https://www.theverge.com/news/825667/google-nano-banana-pro-test)
-- [Microsoft’s AI-powered copy and paste can now use on-device AI](https://www.theverge.com/news/825668/microsoft-advanced-paste-powertoys-on-device-ai)
-- [Meta’s Hyperscape is ready to turn your real living room into a VR hangout](https://www.theverge.com/news/825705/meta-hyperscape-social-links-capture-scan-metaverse)
-- [Wicked: For Good is a soaring second act that brings it all full circle](https://www.theverge.com/entertainment/825554/wicked-for-good-review)
-- [Bethesda’s $300 Pip-Boy 3000 replica can measure (harmless) radiation](https://www.theverge.com/news/825283/bethesda-wand-company-fallout-3-new-vegas-pip-boy-3000-replica)
-- [You can get up to 30 percent off Sonos speakers and soundbars right now](https://www.theverge.com/tech/823523/sonos-black-friday-deals-soundbar-speaker-sale-2025)
-- [OpenAI is launching group chats in ChatGPT](https://www.theverge.com/news/825544/openai-chatgpt-group-chats-launch)
-- [Feds charge four with illegally smuggling Nvidia AI chips to China](https://www.theverge.com/news/825510/nvidia-china-smuggling-ai-chips-h200)
-- [Tesla is getting better about reporting FSD crash data — but the numbers are still misleading](https://www.theverge.com/transportation/824381/tesla-fsd-safety-data-flaws-misleading)
-- [Gemini 3 is almost as good as Google says it is](https://www.theverge.com/report/825332/google-gemini-3-pro-ai-hands-on-test)
-- [The music industry is all in on AI](https://www.theverge.com/tech/825382/ai-music-streaming-deal-klay-umg-sony-warner)
+- [Forestrike trained me to become an incredible pixelated fighter](https://www.theverge.com/games/826331/forestrike-review-nintendo-switch-steam)
+- [Carol seeks the truth (serum) in Pluribus episode 4](https://www.theverge.com/entertainment/826367/pluribus-episode-4-discussion)
+- [‘Jmail’ is like any other inbox, except this one has Jeffrey Epstein’s emails](https://www.theverge.com/news/826901/jeffrey-epstein-files-emails-gmail-jmail)
+- [Google denies ‘misleading’ reports of Gmail using your emails to train AI](https://www.theverge.com/news/826902/gmail-ai-training-data-opt-out)
+- [Judge wants to fix Google’s ad tech monopoly before it’s too late](https://www.theverge.com/news/826796/google-ad-tech-closing-arguments)
+- [You can save up to $1,300 on robovacs from Roborock and Eufy ahead of Black Friday](https://www.theverge.com/gadgets/823578/black-friday-best-early-robot-vacuum-mop-deals-2025)
+- [You can now try the Xbox Full Screen Experience on any PC, laptop, or tablet](https://www.theverge.com/news/826695/microsoft-xbox-full-screen-experience-pc-laptop-tablet-windows-insider)
+- [Nothing’s Android 16 update puts a progress bar on the back of your phone](https://www.theverge.com/news/826648/nothing-android-16-live-updates-glyph)
+- [In Kirby Air Riders, expression is more fun than racing](https://www.theverge.com/games/826488/kirby-air-riders-nintendo-switch-2-vehicle-customization)
+- [Press a button and this SSD will self-destruct with all your data](https://www.theverge.com/news/826338/teamgroup-t-create-expert-p35s-externa-ssd-self-destruct-button)
+- [Sony’s PlayStation Portal just got a rare discount for Black Friday](https://www.theverge.com/gadgets/825985/sony-playstation-portal-black-friday-deal-sale-2025)
+- [Who is AI nostalgia slop even for?](https://www.theverge.com/ai-artificial-intelligence/825498/openai-sora-video-slop-nostalgia-mister-rogers)
+- [Hoto’s slick new leaf blower looks ready to blast away leaves or alien invaders](https://www.theverge.com/news/826189/hoto-cordless-leaf-blower-720-cfm-120-mph)
+- [AI startups are turning their revenue into recruiting bait](https://www.theverge.com/column/826172/ai-startup-arr-numbers-sierra-bret-taylor)
+- [Apple’s cheapest iPad is already $70 off for Black Friday](https://www.theverge.com/tech/825254/ipad-a16-black-friday-deal-sale-2025)
+- [The Analogue 3D will be available again next week, but with a $20 price bump](https://www.theverge.com/news/826302/analogue-3d-console-nintendo-64-restock-price-increase)
+- [The PlayStation 5 Slim and Pro are on sale for Black Friday](https://www.theverge.com/gadgets/824326/playstation-5-ps5-pro-black-friday-deal-sale-2025)
+- [AI agents are invading your PC](https://www.theverge.com/podcast/825979/ai-agents-are-invading-your-pc)
 
 ### <img src="https://www.google.com/s2/favicons?sz=32&domain=www.theverge.com" width="32" height="32" />  Quick Posts | The Verge
-- [Even Republicans who want to override state AI laws are skeptical of Trump&#8217;s approach.](https://www.theverge.com/news/826207/even-republicans-who-want-to-override-state-ai-laws-are-skeptical-of-trumps-approach)
-- [Ayaneo&#8217;s new handheld has a hidden touchpad that doubles as a joystick.](https://www.theverge.com/news/826148/ayaneo-pocket-vert-handheld-android-touchpad-thumbstick-controls)
-- [This one&#8217;s for the Zork dorks.](https://www.theverge.com/news/826066/this-ones-for-the-zork-dorks)
-- [A newer, bigger Glenn.](https://www.theverge.com/news/826074/a-newer-bigger-glenn)
-- [TM Roh, co-CEO.](https://www.theverge.com/news/826008/tm-roh-co-ceo)
-- [Ubisoft&#8217;s big news is a bit boring.](https://www.theverge.com/news/826004/ubisofts-big-news-is-a-bit-boring)
-- [Alexa Plus is starting to roll out in Canada.](https://www.theverge.com/news/825949/alexa-plus-is-rolling-out-in-canada)
-- [OpenAI just released ChatGPT for teachers.](https://www.theverge.com/news/825763/openai-just-released-chatgpt-for-teachers)
-- [Google&#8217;s terrific Pixel Watch 4 has fallen to new low price.](https://www.theverge.com/gadgets/825604/google-pixel-watch-4-black-friday-deal-sale-2025)
-- [Vampire Survivors is getting a spinoff.](https://www.theverge.com/news/825385/vampire-survivors-is-getting-a-spinoff)
+- [AP investigation reveals Border Patrol&#8217;s nationwide surveillance network of license plate readers.](https://www.theverge.com/news/825142/ap-investigation-reveals-border-patrols-nationwide-surveillance-network-of-license-plate-readers)
+- [A global roadmap for ditching fossil fuels hangs in the balance.](https://www.theverge.com/news/826726/fossil-fuel-roadmap-un-climate-change-conference-cop30)
+- [Meta&#8217;s becoming an electricity broker.](https://www.theverge.com/science/826572/meta-power-trading-electricity-demand-ai-data-centers)
+- [Notepad is getting tables.](https://www.theverge.com/news/826540/notepad-is-getting-tables)
+- [Another fatal Tesla crash linked to its door handles.](https://www.theverge.com/transportation/826472/another-fatal-tesla-crash-linked-to-its-door-handles)
+- [Blue book sales are booming.](https://www.theverge.com/news/826457/blue-book-sales-booming)
+- [Roblox&#8217;s CEO on the spot.](https://www.theverge.com/news/826307/robloxs-ceo-on-the-spot)
+- [The Silent Hill 2 remake heads to Xbox.](https://www.theverge.com/news/826297/the-silent-hill-2-remake-heads-to-xbox)
+- [UN climate talks were literally on fire.](https://www.theverge.com/news/826274/fire-un-climate-change-conference-cop30)
 
-### 🍵  The Verge - Optimizer for subscribers | The Verge
-- [AI nutrition tracking stinks](https://www.theverge.com/column/825219/optimizer-ai-nutrition-tracking-wellness)
+### <img src="https://www.google.com/s2/favicons?sz=32&domain=stratechery.com" width="32" height="32" />  Stratechery by Ben Thompson
+- [2025.47: Gemini! At The Disco](https://stratechery.com/2025/gemini-at-the-disco/)
 
-### 🍵  The Verge - Notepad for subscribers | The Verge
-- [As Windows turns 40, Microsoft faces an AI backlash](https://www.theverge.com/tech/825022/microsoft-windows-40-year-anniversary-agentic-os-future)
+### <img src="https://www.google.com/s2/favicons?sz=32&domain=notetoself.studio" width="32" height="32" />  Note to Self
+- [Jmail, logged in as jeevacation@gmail.com](https://notetoself.studio/link/jmail-logged-in-as-jeevacation@gmail.com/)
 
 ### <img src="https://www.google.com/s2/favicons?sz=32&domain=simonwillison.net" width="32" height="32" />  Simon Willison's Weblog
-- [Nano Banana Pro aka gemini-3-pro-image-preview is the best available image generation model](https://simonwillison.net/2025/Nov/20/nano-banana-pro/#atom-everything)
+- [We should all be using dependency cooldowns](https://simonwillison.net/2025/Nov/21/dependency-cooldowns/#atom-everything)
 
-### <img src="https://www.google.com/s2/favicons?sz=32&domain=feeds.kottke.org" width="32" height="32" />  kottke.org
-- [A Bright Light Has Gone Out ](https://kottke.org/25/11/a-bright-light-has-gone-out)
-- [My Pace ](https://kottke.org/25/11/my-pace)
-
-### <img src="https://www.google.com/s2/favicons?sz=32&domain=www.notboring.co" width="32" height="32" />  Not Boring by Packy McCormick
-- [Weekly Dose of Optimism #171](https://www.notboring.co/p/weekly-dose-of-optimism-171)
-
-### <img src="https://www.google.com/s2/favicons?sz=32&domain=unchartedterritories.tomaspueyo.com" width="32" height="32" />  Uncharted Territories
-- [When AI Takes Our Jobs](https://unchartedterritories.tomaspueyo.com/p/when-ai-takes-our-jobs)
-
-### <img src="https://www.google.com/s2/favicons?sz=32&domain=www.platformer.news" width="32" height="32" />  Platformer
-- [How Trump is converting Republicans to AI safety](https://www.platformer.news/trump-ai-moratorium-republican-backlash/)
+### <img src="https://www.google.com/s2/favicons?sz=32&domain=www.profgalloway.com" width="32" height="32" />  No Mercy / No Malice
+- [The Next Opioid Crisis](https://www.profgalloway.com/the-next-opioid-crisis/)
 
 ### <img src="https://www.google.com/s2/favicons?sz=32&domain=spyglass.org" width="32" height="32" />  Spyglass
-- [Google Starts to Bridge OpenAI's Product Moat](https://spyglass.org/gemini-vs-chatgpt-product/)
-
-### <img src="https://www.google.com/s2/favicons?sz=32&domain=www.rogerebert.com" width="32" height="32" />  Reviews – Roger Ebert
-- [Rental Family](https://www.rogerebert.com/reviews/rental-family-brendan-fraser-film-review-2025)
-- [Cutting Through Rocks](https://www.rogerebert.com/reviews/cutting-through-rocks-iran-documentary-film-review-2025)
-- [Zodiac Killer Project](https://www.rogerebert.com/reviews/zodiac-killer-project-documentary-film-review-2025)
-- [Cactus Pears](https://www.rogerebert.com/reviews/cactus-pears-marathi-film-review-2025)
-
-### <img src="https://news.ycombinator.com/favicon.ico" width="32" height="32" />  Hacker Newsletter
-- [Hacker Newsletter #772](https://buttondown.com/hacker-newsletter/archive/772/)
+- [Signal: Google Roars Back 📧](https://spyglass.org/signal-google-roars-back/)
 
 ### <img src="https://www.google.com/s2/favicons?sz=32&domain=dailyhive.com" width="32" height="32" />  Daily Hive
-- [Vancouver city councillor proposes giving renters the first chance to buy their buildings](https://dailyhive.com/vancouver/vancouver-cope-sean-orr-first-right-of-refusal-renters-buy-back)
-- [In the name of FIFA: City of Vancouver loosens some rules and tightens others for World Cup](https://dailyhive.com/vancouver/vancouver-2026-fifa-world-cup-by-law)
-- [44-storey hotel and rental housing tower planned near King George SkyTrain station](https://dailyhive.com/vancouver/9699-9711-137-street-surrey-hotel-rental-housing)
-- [Two countries smaller than City of Surrey will play at FIFA World Cup](https://dailyhive.com/vancouver/two-countries-smaller-surrey-qualified-fifa-world-cup)
-- [Over 20 free and cheap holiday events to check out around Vancouver](https://dailyhive.com/vancouver/vancouver-free-cheap-holiday-events-2025)
-- [Vancouver Whitecaps will go nearly 100 days between games at BC Place in 2026](https://dailyhive.com/vancouver/fifa-world-cup-schedule-implications-whitecaps-2026)
-- [Planned condo tower in Surrey pivots to 100% rental housing after pre-sales](https://dailyhive.com/vancouver/102-park-surrey-rental-housing-tower-marcon)
-- [Alberta MLA compares transgender surgery to livestock castration](https://dailyhive.com/vancouver/alberta-mla-castration-transgender-surgery)
-- [Popular dessert spot at Metro Vancouver SkyTrain station quietly closes](https://dailyhive.com/vancouver/snowy-village)
-- ['This is our final week': Vancouver's Korean pancake and rice wine bar announces closure](https://dailyhive.com/vancouver/mapo-pancake-house-vancouver-2025)
-- [New Costco coming to Surrey has local residents 'shocked and worried'](https://dailyhive.com/vancouver/costco-warehouse-south-surrey-petition)
-- [Bell lays off 700 employees in Canada weeks before the holidays](https://dailyhive.com/vancouver/bell-canada-lay-offs-nov-2025)
-- [First-ever outdoor ice rink opens at Surrey Civic Plaza for free skating this winter](https://dailyhive.com/vancouver/surrey-civic-plaza-free-outdoor-ice-skating-rink)
-- [Vancouver Goldeneyes picked as favourite to win PWHL championship](https://dailyhive.com/vancouver/goldeneyes-enter-pwhl-wild-expectations-championship-favourite)
-- [Dodgers star pitcher takes shot at Toronto Blue Jays' Guerrero](https://dailyhive.com/vancouver/dodgers-pitcher-takes-shot-toronto-blue-jays-guerrero)
-- [Peak-season reservations for two popular B.C. adventure spots opening soon](https://dailyhive.com/vancouver/bc-parks-reservations-adventure)
-- [Canadians pick Air Canada and No Frills among most trusted brands](https://dailyhive.com/vancouver/air-canada-no-frills-trusted-brands-canada)
-- [Here are the best bank accounts in Canada for 2026](https://dailyhive.com/vancouver/best-bank-canada-2026)
-- ['Riverdale' actress spotted dining at multiple Vancouver restaurants — here's everywhere she ate](https://dailyhive.com/vancouver/marisol-nichols-vancouver)
-
-### <img src="https://www.google.com/s2/favicons?sz=32&domain=scoutmagazine.ca" width="32" height="32" />  Scout Magazine
-- [Head to the Rio for a Special Screening of ‘Saints and Warriors’ This Weekend](https://scoutmagazine.ca/head-to-the-rio-for-a-special-screening-of-saints-and-warriors-this-weekend/)
-- [Aburi Market Yaletown Releases Limited-Edition Rental Family Bento Box](https://scoutmagazine.ca/aburi-market-yaletown-releases-limited-edition-rental-family-bento-box/)
-- [Dante Italian Sandwich Brings the Art of Italian Sandwiches to The Drive](https://scoutmagazine.ca/dante-italian-sandwich-brings-the-art-of-italian-sandwiches-to-the-drive/)
-- [Free Spirit is Back for a Second Round, December 8th Only!](https://scoutmagazine.ca/free-spirit-is-back-for-a-second-round-december-8th-only/)
-- [The Scout List, Vol. 643](https://scoutmagazine.ca/the-scout-list-vol-643/)
+- [New laws and measures kicking in this December in Canada](https://dailyhive.com/vancouver/new-laws-in-canada-december-2025)
+- [CF Richmond Centre mall redevelopment debuts with a light-show Christmas tree that is Metro Vancouver's tallest](https://dailyhive.com/vancouver/cf-richmond-centre-mall-redevelopment-christmas-tree-light-show)
+- [Rainfall warning in effect as up to 70 mm could pour on Metro Vancouver](https://dailyhive.com/vancouver/metro-vancouver-rainfall-warning-november-21)
+- [Take a look inside this new Vancouver rental gem in a much-loved beachside neighbourhood](https://dailyhive.com/vancouver/orr-development-neighbour-on-4th-kitsilano)
+- [Vancouver mayor seeks to expedite new hotel towers with Filipino Cultural Centre](https://dailyhive.com/vancouver/1940-main-street-143-east-3rd-avenue-vancouver-portliving-hotel-filipino-cultural-centre)
+- [B.C. community reeling after 'tragic' bear attack involving kids](https://dailyhive.com/vancouver/bc-bear-attack-bella-coola)
+- [Rustad slams NDP as B.C. slashes EV targets and says rebates should be up to the feds](https://dailyhive.com/vancouver/bc-ev-rebates-targets-federal-responsibility)
+- [Federal government to expedite Alto, Canada's first high-speed rail project](https://dailyhive.com/vancouver/alto-high-speed-rail-planning-construction-expedited)
+- [Top food  accessory gifts Canadians will love in 2025](https://dailyhive.com/vancouver/best-food-gifts-canada-2025)
+- [Vancouver real estate brokerage fined $149K for laundering, terrorism links](https://dailyhive.com/vancouver/vancouver-real-estate-brokerage-fintrac)
+- [B.C. shoppers go 'pro-Canada' while U.S. crossings continue steep decline](https://dailyhive.com/vancouver/bc-shoppers-black-friday-us-travel)
+- [Every Canadian NHL team but two is having a miserable season](https://dailyhive.com/vancouver/canadian-nhl-team-miserable-season)
+- [B.C. woman wins hundreds in testy eviction dispute with roommate](https://dailyhive.com/vancouver/bc-eviction-case-renter-roommate-tribunal)
+- [Vancouver ranked fifth most unaffordable city in the world to buy a home](https://dailyhive.com/vancouver/vancouver-most-unaffordable-city-home-buying)
+- [Much-loved Metro Vancouver brunch restaurant to launch new evening burger concept](https://dailyhive.com/vancouver/white-rock-burger-co)
+- [Here are the final benefit, credit payment dates in Canada for December](https://dailyhive.com/vancouver/canada-benefit-credit-dates-dec-2025)
