@@ -1,43 +1,38 @@
 
 ### 🍵  The Verge - Full RSS for subscribers | The Verge
-- [Vine walked so TikTok could run](https://www.theverge.com/podcast/827102/vine-influence-tiktok-reels-shorts-version-history)
-- [The app that will instantly improve your Windows PC](https://www.theverge.com/tech/826971/raycast-kirby-comet-deadpool-vr-installer)
-- [Apple TV wants to go big](https://www.theverge.com/column/825282/apple-tv-streaming-grow-audience)
-- [Shocker: Elon Musk spends a lot of time on X posting bad political takes](https://www.theverge.com/tech/827125/elon-musk-x-posts-politics-himself)
-- [Sony’s entire DualSense lineup is $20 off, including the limited edition models](https://www.theverge.com/gadgets/826320/ps5-dualsense-wireless-controller-black-friday-deal-sale-2025)
-- [Spotify simplifies importing playlists from other streaming services](https://www.theverge.com/news/825646/spotify-playlist-import)
-- [The best AR glasses are cheaper than ever during Black Friday](https://www.theverge.com/gadgets/826225/xreal-one-viture-luma-pro-ar-glasses-steam-deck-switch-2-deal-sale)
+- [‘Holy shit’: Gemini 3 is winning the AI race — for now](https://www.theverge.com/report/827555/google-gemini-3-is-winning-the-ai-race-for-now)
+- [OnePlus 15R will get a late launch next month](https://www.theverge.com/news/827430/oneplus-15r-will-get-a-late-launch-next-month)
+- [Why college students prefer News Daddy over The New York Times](https://www.theverge.com/cs/features/818380/college-students-news-sources-tiktok-instagram-newsdaddy)
+- [Microsoft is speeding up and decluttering File Explorer in Windows 11](https://www.theverge.com/news/827414/microsoft-file-explorer-windows-11-preload-context-menu-declutter)
+- [DOGE is no more, and in its wake, only chaos](https://www.theverge.com/news/827390/doge-is-no-more-and-in-its-wake-only-chaos)
+- [About This Account reveals the scale of X’s foreign troll problem](https://www.theverge.com/news/827298/about-this-account-reveals-the-scale-of-xs-foreign-troll-problem)
+- [Some of the best Nintendo Switch games are up to $30 off for Black Friday](https://www.theverge.com/gadgets/826416/best-nintendo-black-friday-deals-switch-games-amiibo-sale-2025)
+- [X’s messy About This Account rollout has caused utter chaos](https://www.theverge.com/news/827279/xs-messy-about-this-account-rollout-has-caused-utter-chaos)
+- [Sony’s last-gen XM4 headphones are over 50 percent off for Black Friday](https://www.theverge.com/gadgets/826784/sony-wh-1000xm4-noise-canceling-headphones-black-friday-deal-sale-2025)
 
-### <img src="https://www.google.com/s2/favicons?sz=32&domain=www.theverge.com" width="32" height="32" />  Quick Posts | The Verge
-- [Maybe Tim Cook isn&#8217;t preparing to retire.](https://www.theverge.com/tech/827138/maybe-tim-cook-isnt-preparing-to-retire)
-- [A glitchy door traveled back in time to break Half Life 2.](https://www.theverge.com/games/827109/half-life-2-time-traveling-door-bug)
-- [Udio users can&#8217;t download their AI music creations anymore.](https://www.theverge.com/ai-artificial-intelligence/827096/udio-users-cant-download-their-ai-music)
-- [Researchers stuck moss to the outside of the ISS for nine months and it survived.](https://www.theverge.com/news/827093/researchers-stuck-moss-to-the-outside-of-the-iss-for-nine-months-and-it-survived)
+### <img src="https://www.google.com/s2/favicons?sz=32&domain=www.interconnects.ai" width="32" height="32" />  Interconnects
+- [Latest open artifacts (#16): Who's building models in the U.S., China's model release playbook, and a resurgence of truly open models](https://www.interconnects.ai/p/latest-open-artifacts-16-whos-building)
 
-### 🍵  The Verge - Installer for subscribers | The Verge
-- [The app that will instantly improve your Windows PC](https://www.theverge.com/tech/826971/raycast-kirby-comet-deadpool-vr-installer)
-
-### 🍵  The Verge - The Stepback for subscribers | The Verge
-- [Apple TV wants to go big](https://www.theverge.com/column/825282/apple-tv-streaming-grow-audience)
-
-### <img src="https://www.google.com/s2/favicons?sz=32&domain=notetoself.studio" width="32" height="32" />  Note to Self
-- [High achievers are the most insecure](https://notetoself.studio/quote/high-achievers-are-the-most-insecure/)
+### <img src="https://www.google.com/s2/favicons?sz=32&domain=stratechery.com" width="32" height="32" />  Stratechery by Ben Thompson
+- [Nvidia Earnings; Power, Scarcity, and Marginal Costs; OpenAI Hand-wringing](https://stratechery.com/2025/nvidia-earnings-power-scarcity-and-marginal-costs-openai-hand-wringing/)
 
 ### <img src="https://www.google.com/s2/favicons?sz=32&domain=simonwillison.net" width="32" height="32" />  Simon Willison's Weblog
-- [Agent design is still hard](https://simonwillison.net/2025/Nov/23/agent-design-is-still-hard/#atom-everything)
-- [Olmo 3 is a fully open LLM](https://simonwillison.net/2025/Nov/22/olmo-3/#atom-everything)
+- [sqlite-utils 4.0a1 has several (minor) backwards incompatible changes](https://simonwillison.net/2025/Nov/24/sqlite-utils-40a1/#atom-everything)
+- ["Good engineering management" is a fad](https://simonwillison.net/2025/Nov/23/good-engineering-management-is-a-fad/#atom-everything)
 
-### <img src="https://www.google.com/s2/favicons?sz=32&domain=www.rogerebert.com" width="32" height="32" />  Reviews – Roger Ebert
-- [The Family Plan 2](https://www.rogerebert.com/reviews/the-family-plan-2-mark-wahlberg-apple-tv-film-review-2025)
+### <img src="https://www.google.com/s2/favicons?sz=32&domain=feeds.kottke.org" width="32" height="32" />  kottke.org
+- [The World Lost the Climate Gamble. Now It Faces a Dangerous New... ](https://kottke.org/25/11/0047886-the-world-lost-the-climat)
+- [The Bad UX World Cup 2025. “Build a date picker with bad... ](https://kottke.org/25/11/0047849-the-bad-ux-world-cup)
+
+### <img src="https://www.google.com/s2/favicons?sz=32&domain=www.notboring.co" width="32" height="32" />  Not Boring by Packy McCormick
+- [Cable Caballero](https://www.notboring.co/p/cable-caballero)
+
+### <img src="https://www.google.com/s2/favicons?sz=32&domain=spyglass.org" width="32" height="32" />  Spyglass
+- ['Pluribus' as AI Allegory](https://spyglass.org/pluribus-as-ai-allegory/)
 
 ### <img src="https://www.google.com/s2/favicons?sz=32&domain=dailyhive.com" width="32" height="32" />  Daily Hive
-- [Canadians are getting CPP, OAS payments on Wednesday](https://dailyhive.com/vancouver/cpp-oas-payment-nov-2025)
-- [Vancouver Whitecaps advance to Conference Finals for first time in their MLS history](https://dailyhive.com/vancouver/whitecaps-advance-conference-finals-first-time-mls-history)
-- [Toronto Raptors player caught on camera pressuring teammate to sing Canadian national anthem](https://dailyhive.com/vancouver/raptors-player-caught-pressuring-teammate-sing-o-canada)
-- [How a knock on my door sparked a $7-million push to help Vancouver's homeless](https://dailyhive.com/vancouver/hockey-helps-the-homeless-vancouver)
-- [City of Vancouver eyeing nine potential locations next to major roads for new advertising screens](https://dailyhive.com/vancouver/vancouver-advertising-billboards-digital-screens-potential-locations)
-- [Sportsnet 650 radio host announces he's leaving during emotional on-air goodbye](https://dailyhive.com/vancouver/sportsnet-650-radio-host-leaving-emotional-goodbye)
-- [City of Vancouver restaurant patio rules set for redesign to improve accessibility and flexibility](https://dailyhive.com/vancouver/vancouver-restaurant-street-curbside-patio-design-fee-policy-changes)
-- [Goldeneyes players were blown away by support from sold-out Vancouver crowd](https://dailyhive.com/vancouver/goldeneyes-blown-away-support-sold-out-crowd)
-- [9 of the saddest Vancouver restaurant closures this month](https://dailyhive.com/vancouver/vancouver-restaurant-closure-november-2025)
-- [Waterfront Vancouver hotel named one of world's best luxury accommodations](https://dailyhive.com/vancouver/westin-bayshore-vancouver-best-luxury-hotel)
+- [Give your child a once-in-a-lifetime experience with Kia's FIFA World Cup 26™ contest](https://dailyhive.com/vancouver/kia-fifa-world-cup-26-contest)
+- [20 fantastic things to do in Vancouver this week: Nov. 24 to 30](https://dailyhive.com/vancouver/vancouver-events-november-24-30)
+- [LAFC goalkeeper rants about BC Place turf after epic Vancouver Whitecaps playoff win](https://dailyhive.com/vancouver/lafc-hugo-lloris-rants-bc-place-turf-whitecaps-playoff-win)
+- [Vancouver luxury hotel restaurant was named the best in Canada](https://dailyhive.com/vancouver/h-tasting-lounge-vancouver)
+- [Rent falls across Metro Vancouver but some cities are bucking the trend](https://dailyhive.com/vancouver/metro-vancouver-liv-rent-rise)
