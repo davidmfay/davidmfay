@@ -1,88 +1,80 @@
 
 ### 🍵  The Verge - Full RSS for subscribers | The Verge
-- [Character.AI launches Stories for teens after banning them from chats](https://www.theverge.com/news/829892/character-ai-stories-launch-teens)
-- [You’re buying a Frame TV? It’s okay to cheap out a little](https://www.theverge.com/tech/829002/youre-buying-a-frame-tv-its-okay-to-cheap-out-a-little)
-- [ChatGPT and Copilot are being booted out of WhatsApp](https://www.theverge.com/news/829808/chatgpt-copilot-ai-llm-leaving-whatsapp-meta)
-- [First there was nothing, then there was Hoto and Fanttik](https://www.theverge.com/report/829265/hoto-fanttik-profile-origins-xiaomi-aukey-tiktok)
-- [Poco partners with Bose to put a subwoofer in its latest phone](https://www.theverge.com/news/829419/poco-f8-ultra-bose-speakers-stereo-subwoofer)
-- [Uber’s robotaxi service in UAE now includes fully driverless vehicles](https://www.theverge.com/news/828685/uber-weride-robotaxi-fully-driverless-uae)
-- [Qualcomm reveals its not-so-elite Snapdragon 8 Gen 5](https://www.theverge.com/news/828959/qualcomm-snapdragon-8-gen-5)
-- [Campbell’s promises its soups are not made with 3D printed meat](https://www.theverge.com/news/829516/campbells-3d-printed-chicken-soup)
-- [House overhauls KOSA in a new kids online safety package](https://www.theverge.com/news/829492/house-energy-commerce-kids-online-safety-package)
-- [David Sacks tried to kill state AI laws — and it blew up in his face](https://www.theverge.com/ai-artificial-intelligence/829179/david-sacks-ai-executive-order)
-- [Warner Music Group partners with Suno to offer AI likenesses of its artists](https://www.theverge.com/news/829189/warner-music-group-suno-ai-licensing-deal)
-- [You can grab two months of Paramount Plus with Showtime for $2.99 a month](https://www.theverge.com/gadgets/827612/paramount-plus-black-friday-deal-sale-2025)
-- [Perplexity says its AI personal shopper ‘puts you first’](https://www.theverge.com/ai-artificial-intelligence/829019/perplexity-ai-personal-shopper-paypal)
-- [Wyze’s new security camera watches your yard from inside your home](https://www.theverge.com/news/829005/wyze-window-security-cam-hd-enhanced-night-vision)
-- [Bose and Sony headphones are up to $200 off in the run-up to Black Friday](https://www.theverge.com/gadgets/827914/best-early-black-friday-headphone-earbud-deals-2025)
-- [Apple’s AirPods 4 are on sale starting at just $69 for Black Friday](https://www.theverge.com/gadgets/828725/apple-airpods-4-anc-black-friday-deal-sale-2025)
+- [We handpicked 50 Black Friday deals you can get for under $50](https://www.theverge.com/gadgets/829553/black-friday-best-cheap-tech-deals-under-50-2025)
+- [Tessan’s 140W Universal Travel Adapter has hit a new all-time low](https://www.theverge.com/gadgets/831748/tessan-universal-travel-adapter-black-friday-deal-sale)
+- [Some of our favorite Blu-rays are cheaper than ever during Black Friday](https://www.theverge.com/gadgets/829057/best-4k-blu-ray-uhd-movies-black-friday-deal-sale-2025)
+- [The 150 best Black Friday deals we’ve found so far — a ton of tech is over half off](https://www.theverge.com/gadgets/824521/black-friday-2025-best-deals-tech-gadgets-gift-ideas)
+- [Sora and Nano Banana Pro throttled amid soaring demand](https://www.theverge.com/news/831760/openai-google-rate-limit-sora-nano-banana-pro)
+- [Rivian’s software-powered e-bike won me over with its adaptability](https://www.theverge.com/transportation/829860/rivian-also-tmb-ebike-hands-on-software)
+- [The US dodged a bullet this Atlantic hurricane season](https://www.theverge.com/news/829505/atlantic-hurricane-season-end-political-climate-disaster)
+- [Epic CEO Tim Sweeney says Steam should drop its ‘Made with AI’ tags](https://www.theverge.com/news/831747/tim-sweeney-epic-ceo-steam-game-stores-made-with-ai)
+- [You can save 50 percent on robovacs from Roborock and Eufy for Black Friday](https://www.theverge.com/gadgets/828157/best-black-friday-robot-vacuum-mop-deals-sale-2025)
+- [I’ve covered Black Friday deals for ten years, ask me anything](https://www.theverge.com/gadgets/829295/black-friday-ama)
+- [My favorite Black Friday TV deals from Samsung, Sony, and others are up to 50% off](https://www.theverge.com/tech/829579/best-4k-tv-streaming-soundbar-blu-ray-player-deal-sale-black-friday)
+- [The best Black Friday deals on AirPods, AirTags, and other Apple gear](https://www.theverge.com/gadgets/827826/best-black-friday-apple-deals-sale-2025)
+- [The DualSense Edge has fallen to one of the lowest we’ve seen for Black Friday](https://www.theverge.com/gadgets/822252/sony-dualsense-edge-controller-black-friday-deal-sale-2025)
+- [The Ray-Ban Meta smart glasses are at their best-ever price for Black Friday](https://www.theverge.com/gadgets/829574/ray-ban-meta-smart-glasses-gen-1-black-friday-deal-sale-2025)
 
 ### <img src="https://www.google.com/s2/favicons?sz=32&domain=www.theverge.com" width="32" height="32" />  Quick Posts | The Verge
-- [Republicans want to get rid of car safety features like AEB.](https://www.theverge.com/transportation/829284/republicans-want-to-get-rid-of-car-safety-features-like-aeb)
-- [Yet another AI personal shopper: Microsoft Copilot.](https://www.theverge.com/news/829180/microsoft-copilot-ai-personal-shopper)
-- [Project Indigo now supports the iPhone 17&#8217;s selfie camera.](https://www.theverge.com/tech/829150/project-indigo-now-supports-the-iphone-17s-selfie-camera)
-- [Jonathan Groff: texting genius?](https://www.theverge.com/tech/829135/jonathan-groff-texting-genius)
-- [Leaked video shows what the Prince of Persia Sands of Time Remake looked like 20 months ago.](https://www.theverge.com/games/828965/leaked-video-shows-what-the-prince-of-persia-sands-of-time-remake-looked-like-20-months-ago)
+- [Hello Doom.](https://www.theverge.com/news/831685/hello-doom)
+- [An Amazon delivery drone snagged and cut an internet cable in Texas last week.](https://www.theverge.com/news/831527/amazon-delivery-drone-waco-texas-faa-investigation-internet-wire)
+- [AI still can&#8217;t hold a patent.](https://www.theverge.com/ai-artificial-intelligence/831528/ai-stil-cant-hold-a-patent)
+- [Looking for something new to play?](https://www.theverge.com/entertainment/831501/looking-for-something-new-to-play)
+- [Anbernic&#8217;s budget-friendly Nintendo DS clone might not be a bargain.](https://www.theverge.com/news/831477/anbernic-rg-ds-dual-screen-handheld-bugs-performance-issues)
+- [Welcome to Hawkins.](https://www.theverge.com/entertainment/831484/welcome-to-hawkins)
+- [Google&#8217;s AirDrop workaround is doing something screwy with Wi-Fi.](https://www.theverge.com/news/831478/googles-airdrop-workaround-is-doing-something-screwy-with-wi-fi)
+- [Playing Doom using a printed receipt as your screen is utterly chaotic.](https://www.theverge.com/news/831473/can-it-doom-epson-thermal-printer-receipt-paper)
+- [Elon cuts Tesla&#8217;s Austin Robotaxi targets.](https://www.theverge.com/news/831412/elon-cuts-teslas-austin-robotaxi-targets)
+- [Plex starts enforcing remote play restrictions.](https://www.theverge.com/news/831396/plex-begins-enforcing-remote-play-restrictions)
 
-### <img src="https://www.google.com/s2/favicons?sz=32&domain=waitbutwhy.com" width="32" height="32" />  Wait But Why
-- [The sights and sounds of Bhutan](https://waitbutwhy.com/2025/11/bhutan.html)
+### 🍵  The Verge - Optimizer for subscribers | The Verge
+- [The dark side of optimizing your metabolism](https://www.theverge.com/column/830937/optimizer-cgms-metabolism-wearables)
+
+### 🍵  The Verge - Notepad for subscribers | The Verge
+- [How Microsoft’s developers are using AI](https://www.theverge.com/tech/831379/microsoft-developer-ai-usage-stats-notepad)
+
+### 🍵  The Verge - Regulator for subscribers | The Verge
+- [What the leaked AI executive order tells us about the Big Tech power grab](https://www.theverge.com/column/829938/leaked-ai-executive-order-analysis)
 
 ### <img src="https://www.google.com/s2/favicons?sz=32&domain=simonwillison.net" width="32" height="32" />  Simon Willison's Weblog
-- [Highlights from my appearance on the Data Renegades podcast with CL Kao and Dori Wilson](https://simonwillison.net/2025/Nov/26/data-renegades-podcast/#atom-everything)
-- [Google Antigravity Exfiltrates Data](https://simonwillison.net/2025/Nov/25/google-antigravity-exfiltrates-data/#atom-everything)
-- [Constant-time support lands in LLVM: Protecting cryptographic code at the compiler level](https://simonwillison.net/2025/Nov/25/constant-time-support-lands-in-llvm/#atom-everything)
+- [Quoting Qwen3-VL Technical Report](https://simonwillison.net/2025/Nov/27/qwen3-vl-technical-report/#atom-everything)
+- [deepseek-ai/DeepSeek-Math-V2](https://simonwillison.net/2025/Nov/27/deepseek-math-v2/#atom-everything)
 
 ### <img src="https://www.google.com/s2/favicons?sz=32&domain=feeds.kottke.org" width="32" height="32" />  kottke.org
-- [My Recent Media Diet, the Japan Edition ](https://kottke.org/25/11/my-recent-media-diet-the-japan-edition)
-- [Chindōgu: The Japanese Art of “Unuseless” Inventions ](https://kottke.org/25/11/chindogu-the-japanese-art-of-unuseless-inventions)
-- [My Car Is Becoming a Brick. “Cars used to be entirely mechanical... ](https://kottke.org/25/11/0047894-my-car-is-becoming-a)
-- [To Explore Violence Against Women, She Drugs Herself Onstage. “It’s an attempt... ](https://kottke.org/25/11/0047895-to-explore-violence-again)
-- [What’s the difference between an artist and a creator? “An artist is... ](https://kottke.org/25/11/0047847-whats-the-difference-betw)
-- [Does Harrison Ford Know His Lines? ](https://kottke.org/25/11/does-harrison-ford-know-his-lines)
-
-### <img src="https://www.google.com/s2/favicons?sz=32&domain=www.slackstory.com" width="32" height="32" />  A Slack Story
-- [Gentrifying Slack With Radio London](https://www.slackstory.com/p/gentrifying-slack-with-radio-london)
+- [What Are You Thankful For? ](https://kottke.org/25/11/what-are-you-thankful-for)
+- [All of the Rivers ](https://kottke.org/25/11/all-of-the-rivers-1)
+- [“Art is valuable precisely because it is not easy to create. We... ](https://kottke.org/25/11/0047855-art-is-valuable-precisely)
+- [If Quantum Computing Is Solving “Impossible” Questions, How Do We Know They’re... ](https://kottke.org/25/11/0047904-if-quantum-computing-is-s)
+- [Thoughts and Prayers ](https://kottke.org/25/11/thoughts-and-prayers)
+- [In a London increasingly dominated by rideshare services, some drivers are still... ](https://kottke.org/25/11/0047905-in-a-london-increasingly-)
+- [21st-Century Culture Has Hit a Wall. “We — creators and audiences alike... ](https://kottke.org/25/11/0047903-21st-century-culture-has-)
 
 ### <img src="https://www.google.com/s2/favicons?sz=32&domain=unchartedterritories.tomaspueyo.com" width="32" height="32" />  Uncharted Territories
-- [AI: How Do We Avoid Societal Collapse and Build a Utopia?](https://unchartedterritories.tomaspueyo.com/p/ai-how-do-we-avoid-societal-collapse)
-
-### <img src="https://www.google.com/s2/favicons?sz=32&domain=www.platformer.news" width="32" height="32" />  Platformer
-- [AI is winning the copyright fight](https://www.platformer.news/suno-warner-settlement-copyright-udio-klay/)
+- [If I Were King, How Would I Prepare for AI?](https://unchartedterritories.tomaspueyo.com/p/if-i-were-king-how-would-i-prepare)
 
 ### <img src="https://www.google.com/s2/favicons?sz=32&domain=spyglass.org" width="32" height="32" />  Spyglass
-- [NVIDIA's "Delight"](https://spyglass.org/nvidia-gpu-vs-google-tpu/)
-- [Big Tech's Wild Market Cap Ride](https://spyglass.org/big-techs-wild-market-cap-ride/)
-
-### <img src="https://www.google.com/s2/favicons?sz=32&domain=www.rogerebert.com" width="32" height="32" />  Reviews – Roger Ebert
-- [The Secret Agent](https://www.rogerebert.com/reviews/the-secret-agent-film-review-2025)
-- [Wake Up Dead Man: A Knives Out Mystery](https://www.rogerebert.com/reviews/knives-out-3-wake-up-dead-man-movie-review-2025)
-- [Hamnet](https://www.rogerebert.com/reviews/hamnet-paul-mescal-jessie-buckley-william-shakespeare-film-review-2025)
-- [Eternity](https://www.rogerebert.com/reviews/eternity-miles-teller-elizabeth-olsen-callum-turner-film-review-2025)
-- [BLKNWS: Terms & Conditions](https://www.rogerebert.com/reviews/blknws-terms-conditions-khalil-joseph-film-review-2025)
-- [The Stringer: The Man Who Took the Photo](https://www.rogerebert.com/reviews/the-stringer-the-man-who-took-the-photo-netflix-documentary-film-review-2025)
-- [Teenage Wasteland](https://www.rogerebert.com/reviews/teenage-wasteland-documentary-film-review-2025)
-- [The Thing With Feathers](https://www.rogerebert.com/reviews/the-thing-with-feathers-benedict-cumberbatch-film-review-2025)
-- [The Tale of Silyan](https://www.rogerebert.com/reviews/the-tale-of-silyan-documentary-movie-review-2025)
-- [Zootopia 2](https://www.rogerebert.com/reviews/zootopia-2-movie-review-2025)
+- [Signal: Blue Binge 📧](https://spyglass.org/signal-blue-binge/)
+- [DeepMind Should Make the UK Proud and Embarrassed](https://spyglass.org/uk-growth-growth-growth/)
 
 ### <img src="https://www.google.com/s2/favicons?sz=32&domain=dailyhive.com" width="32" height="32" />  Daily Hive
-- [Dan Riccio launches new star-studded show after leaving Sportsnet 650 gig](https://dailyhive.com/vancouver/dan-riccio-launches-new-show-after-sportsnet)
-- [Over $40,000 in prizes up for grabs in our 15th annual 12 Days of Giveaways](https://dailyhive.com/vancouver/12-days-of-giveaways-2025)
-- [Beloved CBC broadcaster and Canadian curling champion dies at 65](https://dailyhive.com/vancouver/beloved-broadcaster-canadian-curling-champion-dead)
-- [Inside Vancouver's new seafood restaurant doing caviar right — and what to order](https://dailyhive.com/vancouver/osetra-vancouver-2025)
-- [10 amazing Vancouver theatre and arts events happening in December](https://dailyhive.com/vancouver/vancouver-theatre-arts-events-december-2025)
-- [Canada definitely won't play these countries in group stage at FIFA World Cup](https://dailyhive.com/vancouver/canada-wont-play-these-countries-fifa-world-cup)
-- [Famous shipwreck teetering above Niagara Falls shifts closer to its end](https://dailyhive.com/vancouver/niagara-falls-shipwreck)
-- [B.C. teacher punished after 'uncomfortable' Instagram exchange with student](https://dailyhive.com/vancouver/bc-teacher-student-instagram)
-- [Vancouver listeners sound off after contentious $100K Z95 contest win](https://dailyhive.com/vancouver/vancouver-radio-contest-zfx-jackpot-controversy)
-- [Cambie Street strip mall listed for sale with development potential](https://dailyhive.com/vancouver/vancouver-3080-cambie-street-strip-mall-sale)
-- [Sunwing updates baggage fee policy in Canada](https://dailyhive.com/vancouver/sunwing-baggage-fee-canada)
-- [Canadian Olympic legend Penny Oleksiak banned from swimming for two years](https://dailyhive.com/vancouver/canadian-swimmer-penny-oleksiak-banned-two-years)
-- [Vancouver's iconic reindeer buses and Santa train return to spread holiday magic](https://dailyhive.com/vancouver/translink-reindeer-bus-santa-train-vancouver)
-- [Vancouver Whitecaps could host MLS Cup Final but their next playoff match won't be at BC Place](https://dailyhive.com/vancouver/whitecaps-could-host-mls-cup-final-bc-place)
-- [Thousands wait but Fred Again sells out Vancouver in minutes](https://dailyhive.com/vancouver/fred-again-vancouver-tickets)
+- [Everything you need to know about Air Canada’s Top 10 Best New Restaurants 2025](https://dailyhive.com/vancouver/air-canada-top-new-restaurants-list)
+- [Almost half of B.C. restaurants are struggling, many at risk of closure](https://dailyhive.com/vancouver/bc-restaurants-struggling-risk-closure)
+- [Deadline set for Canadians to claim share of $4.75M drug settlement](https://dailyhive.com/vancouver/class-action-settlement-rexulti)
+- [North Vancouver is getting a holiday pop-up market with 80+ local makers](https://dailyhive.com/vancouver/north-vancouver-etsy-co-holiday-pop-up)
+- [Vancouver vegetarian restaurant mourns loss of popular plant-based meat product](https://dailyhive.com/vancouver/yves-budgies-vancouver)
+- [Police recover grenade launcher in Downtown Eastside rooming house](https://dailyhive.com/vancouver/vancouver-downtown-eastside-grenade-launcher-drugs)
+- [Popular vacation spots Canadians should avoid in 2026](https://dailyhive.com/vancouver/popular-vacation-spots-skip-canada-fodor)
+- [Canada's longest-running free gingerbread display returns to Vancouver](https://dailyhive.com/vancouver/gingerbread-lane-vancouver)
+- [New all-day cafe to open in downtown Vancouver](https://dailyhive.com/vancouver/no-bad-days-vancouver)
+- [Vancouver Whitecaps captain Gauld and his wife welcomed baby right before massive playoff win](https://dailyhive.com/vancouver/whitecaps-gauld-wife-baby)
+- [Vancouver approves contentious budget that includes notable cutbacks](https://dailyhive.com/vancouver/vancouver-2026-budget-approved-cutbacks)
+- [Canada reveals income tax brackets for 2026](https://dailyhive.com/vancouver/canada-income-tax-bracket-2026)
+- [Violent B.C. home invasion involving crowbar attack has police urging for public’s help](https://dailyhive.com/vancouver/bc-home-invasion-police-looking-suspects)
+- [Vancouver's epic week-long celebration of cocktails is returning next year](https://dailyhive.com/vancouver/vancouver-cocktail-week-2025)
+- [These are the best Black Friday deals from Canadian brands](https://dailyhive.com/vancouver/black-friday-deals-canada-brands)
+- [Recall announced for tea brand sold in Canada](https://dailyhive.com/vancouver/canada-recall-herbal-tea)
+- [These are the best Black Friday tech deals in Canada](https://dailyhive.com/vancouver/black-friday-tech-deals-2025)
 
 ### <img src="https://www.google.com/s2/favicons?sz=32&domain=scoutmagazine.ca" width="32" height="32" />  Scout Magazine
-- [Scout’s Updated Guide to Sorting Out Your Holiday Party Plans This Season](https://scoutmagazine.ca/scouts-updated-guide-to-sorting-out-your-holiday-party-plans-this-season/)
-- [Catch Reel Cause’s Screening of “The Interceptors”, One-Night-Only on Nov. 27th](https://scoutmagazine.ca/catch-reel-causes-screening-of-the-interceptors-one-night-only-on-nov-27th/)
-- [Check Out What’s In Store for Time Out Market Vancouver’s Opening Roster](https://scoutmagazine.ca/check-out-whats-in-store-for-time-out-market-vancouvers-opening-roster/)
+- [The Scout List, Vol. 644](https://scoutmagazine.ca/scout-list-vol-644/)
+- [Minami Launches New, Limited-Time Holiday Shokei](https://scoutmagazine.ca/minami-launches-new-limited-time-holiday-shokei/)
